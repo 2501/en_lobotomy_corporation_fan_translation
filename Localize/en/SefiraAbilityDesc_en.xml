@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localize>
+
+  <text id="continous_service_ability_panic_warning">All office workers get panic in the department when the employee does not return within the time limit</text>
+  
+  <text id="department_ability">Department Functions</text>
+  
+  <text id="officer_alive_ability_title">Office Worker effect</text>
+  <text id="continous_service_ability_title">Department long-service effect</text>   
+  
+  <text id="continous_service_ability_cur_title">{0} working Period: {1}</text>
+  <text id="continous_service_ability_cur_title2">{0} Period: {1}</text>
+  <text id="continous_service_ability_cur_blank">&#13;&#10;</text>
+  <text id="officer_alive_ability_level_txt">Functional Level {0}</text>
+  <text id="officer_alive_ability_effect">Applying Effect</text>
+  
+  <text id="officer_alive_ability_zero">Stop Department Functions</text>
+  
+  <!--
+  officer_alive_ability_desc_XXX : 사무직 생존 효과 설명
+  continous_service_ability_desc_XXX : 근속 효과 설명
+  officer_alive_ability_cur_XXX : 현재 적용되는 사무직 생존 효과 설명
+  continous_service_ability_cur_XXX : 현재 적용되는 근속 효과 설명
+  -->
+  <text id="officer_alive_ability_desc_malkut">Increase the movement speed for all employees.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="continous_service_ability_desc_malkut">Increase movement speed of the employee.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="officer_alive_ability_cur_malkut">Increase the movement speed for all employees by {0}</text>
+  <text id="continous_service_ability_cur_malkut">Movement speed +{0}</text>
+
+  <text id="officer_alive_ability_desc_yesod">Increase the success rate for all employees.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="continous_service_ability_desc_yesod">Increase Temperance of the employee.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="officer_alive_ability_cur_yesod">Increase the success rate for all employees by {0}</text>
+  <text id="continous_service_ability_cur_yesod">Temperance +{0}</text>
+
+  <text id="officer_alive_ability_desc_netzach">Increase the healing rate for all employees.&#13;&#10;(Level1:+{0}% / Level2:+{1}% / Level3:+{2}%)</text>
+  <text id="continous_service_ability_desc_netzach">Increase Fortitude and Prudence of the employee.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="officer_alive_ability_cur_netzach">Increase the healing rate for all employees by {0}%</text>
+  <text id="continous_service_ability_cur_netzach">Fortitude and Prudence +{0}</text>
+
+  <text id="officer_alive_ability_desc_hod">Increase the growth rate for all employees.&#13;&#10;(Level1:+{0}% / Level2:+{1}% / Level3:+{2}%)</text>
+  <text id="continous_service_ability_desc_hod">Increase the growth rate of the employee.&#13;&#10;(Level1:+{0}% / Level2:+{1}% / Level3:+{2}%)</text>
+  <text id="officer_alive_ability_cur_hod">Increase the growth rate for all employees by {0}%</text>
+  <text id="continous_service_ability_cur_hod">Growth rate +{0}%</text>
+
+  <text id="officer_alive_ability_desc_tiphereth1">Increase the time limit of Qliphoth meltdown alert.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="continous_service_ability_desc_tiphereth1">Increase every ability of the employee.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="officer_alive_ability_cur_tiphereth1">Increase the time limit of Qliphoth meltdown alert by {0}second</text>
+  <text id="continous_service_ability_cur_tiphereth1">Every ability +{0}</text>
+
+  <text id="officer_alive_ability_desc_chesed">Increase the default amount of bullets.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="continous_service_ability_desc_chesed">Increase E.G.O defense rate of the employee.&#13;&#10;(Level1:+{0}% / Level2:+{1}% / Level3:+{2}%)</text>
+  <text id="officer_alive_ability_cur_chesed">Increase the default amount of bullets by {0}</text>
+  <text id="continous_service_ability_cur_chesed">E.G.O defense rate +{0}%</text>
+
+  <text id="officer_alive_ability_desc_geburah">Increase the attack speed for all employees.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="continous_service_ability_desc_geburah">Increase E.G.O attack rate of the employee.&#13;&#10;(Level1:+{0}% / Level2:+{1}% / Level3:+{2}%)</text>
+  <text id="officer_alive_ability_cur_geburah">Increase the attack speed for all employees by {0}</text>
+  <text id="continous_service_ability_cur_geburah">E.G.O attack rate +{0}%</text>
+
+  <text id="officer_alive_ability_desc_binah">Decrease the manufacture cost of all E.G.Os.&#13;&#10;(Level1:+{0}% / Level2:+{1}% / Level3:+{2}%)</text>
+  <text id="continous_service_ability_desc_binah">Increase E.G.O defense rate and attack rate of the employee.&#13;&#10;(Level1:+{0}% / Level2:+{1}% / Level3:+{2}%)</text>
+  <text id="officer_alive_ability_cur_binah">Decrease the manufacture cost of all E.G.Os by {0}%</text>
+  <text id="continous_service_ability_cur_binah">E.G.O defense rate and attack rate +{0}%</text>
+
+  <text id="officer_alive_ability_desc_chokhmah">Increase every ability for all employees.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="continous_service_ability_desc_chokhmah">Increase every ability of the employee.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="officer_alive_ability_cur_chokhmah">Increase every ability for all employees by {0}</text>
+  <text id="continous_service_ability_cur_chokhmah">Every ability +{0}</text>
+
+  <text id="officer_alive_ability_desc_kether"></text>
+  <text id="continous_service_ability_desc_kether">Increase every ability of the employee.&#13;&#10;(Level1:+{0} / Level2:+{1} / Level3:+{2})</text>
+  <text id="officer_alive_ability_cur_kether"></text>
+  <text id="continous_service_ability_cur_kether">Every ability +{0}</text>
+
+
+  <text id="continous_service_ability_ace">{0} Captain</text>
+</localize>

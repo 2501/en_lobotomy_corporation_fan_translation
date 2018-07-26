@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+  <!-- intro 뒤에 붙는 ta는 티페리트a 이고 tb는 티페리트b 입니다. 둘은 쌍둥이라는 설정입니다. 티페리트 a는 여성 어린아이이며 티페리트 b는 남성어린아이입니다.-->
+
+  <text id="tiphereth1_intro_ta1">Hi, I’m Tiphereth!</text>
+  <text id="tiphereth1_intro_tb1">Greetings, I’m Tiphereth too.</text>
+  <text id="tiphereth1_selection1">Ask if they’re twins.</text>
+  <!--선택지-->
+  <text id="tiphereth1_selection2">Ask if they have just the same name.</text>
+  <!--선택지-->
+  <text id="tiphereth1_intro_ta1_1">Of course, can’t you see? We’re twins. </text>
+  <!-- 선택지 1번을 고른 경우 -->
+  <text id="tiphereth1_intro_tb1_1">But if your question was whether we are biological twins, then no.</text>
+  <text id="tiphereth1_intro_ta1_2">So trying to differentiate us is meaningless.</text>
+  <text id="tiphereth1_intro_ta2_1">Of course, can’t you see? We’re twins. </text>
+  <!-- 선택지 2번을 고른 경우-->
+  <text id="tiphereth1_intro_tb2_1">But if your question was whether we are biological twins, then no.</text>
+  <text id="tiphereth1_intro_ta2_2">So trying to differentiate us is meaningless.</text>
+  <text id="tiphereth1_intro_ta2">I’m responsible for the Central Team. The team and office are huge, so I need at least two bodies to cover everything.</text>
+  <text id="tiphereth1_intro_tb2">We are two.</text>
+  <text id="tiphereth1_intro_ta3">Well, isn’t that fortunate.</text>
+  <text id="tiphereth1_intro_ta4">Since you survived long enough, I don’t need to tell you about basic stuff like Abnormalities, right?</text>
+  <text id="tiphereth1_intro_ta5">If you disappoint me, even your status as a manager will not save you.</text>
+  <text id="tiphereth1_intro_tb3">But you’ll do fine.</text>
+  <text id="tiphereth1_intro_ta6">A word of advice. I am not like the other upper Sephirahs you know. They're stupid.</text>
+  <text id="tiphereth1_intro_tb4">Well, technically, we are not that different.</text>
+  <text id="tiphereth1_intro_ta7">But what I want to say is, they’re only good at acting as if they’re busy when they’re not. I can’t believe we’re the same Sephirahs!</text>
+  <text id="tiphereth1_intro_ta8">Anyway, the Central Department is where the real story begins. I don’t care if it disappoints or encourages you. I’m only focused on your performance.</text>
+  <text id="tiphereth1_intro_tb5">I hope it will be an encouragement to you.</text>
+  <text id="tiphereth1_intro_n1">Hi, Tiphereth.</text>
+  <!-- 화자 : 네짜흐-->
+  <text id="tiphereth1_intro_ta9">.....</text>
+  <text id="tiphereth1_intro_tb6">Hi, Netzach.</text>
+  <text id="tiphereth1_intro_n2">Since you're both Tiphereth, I'll just assume you both greeted me. Here's the plan for the cross-team training tomorrow. Please review it.</text>
+  <text id="tiphereth1_intro_ta10">Review it? I'd probably have to rewrite it from the start!</text>
+  <text id="tiphereth1_intro_tb7">Leave it there, Netzach. I will review it and let you know.</text>
+  <text id="tiphereth1_intro_ta11">Tiphereth is too soft. You don’t need to be kind to an addict like Netzach, you might catch the "upper floor disease." And the plan came two days later than I asked!</text>
+  <text id="tiphereth1_intro_tb8">But Netzach can work fine when he wants. You know that.</text>
+  <text id="tiphereth1_intro_ta12">The result is not important. The point is, Angela is too easy on us. If I were her, I would have punished the addicted at once. </text>
+  <text id="tiphereth1_intro_n3">Well, that would please Yesod. Why don’t you two discuss about implementing a penalty system? I guess it will be productive...</text>
+  <text id="tiphereth1_intro_ta13">Ah, be quiet! Just go back to the upper floor, where you belong.</text>
+  <text id="tiphereth1_intro_n4">I was about to. Bye, Tiphereth.</text>
+  <text id="tiphereth1_intro_tb9">Yeah, bye Netzach.</text>
+  <!-- 네짜흐 퇴장-->
+  <text id="tiphereth1_intro_ta14">The upper Sephirahs have it too easy. Not that I like all of the middle Sephirahs...</text>
+  <text id="tiphereth1_intro_tb10">I like the middle Sephirahs, they’re all cheerful and make me laugh.</text>
+  <text id="tiphereth1_intro_ta15">How many times have I told you not to laugh so easily? We have to be strict and stern! We’re the Central Team!</text>
+  <text id="tiphereth1_intro_tb11">I know, Tiphereth. By the way, don’t we have something to discuss with the manager?</text>
+  <text id="tiphereth1_intro_ta16">Oh, you’re still here? Well then, I have an assignment. Don’t think about slacking off.</text>
+  <text id="tiphereth1_intro_tb12">The manager will do fine, as always.</text>
+  <text id="tiphereth1_intro_ta17">And could fail, as always.</text>
+
+
+
+  <!--에피소드 2-->
+
+  <text id="tiphereth2_intro_ta1">The employees have become more talkative these days.</text>
+  <text id="tiphereth2_intro_tb1">They’re more motivated than usual. A lively atmosphere like this is rare; it's getting even me excited.</text>
+  <text id="tiphereth2_intro_ta2">"Lively" isn't really the right word. More like, excited over a trivial matter. All because of a new manager. And that's nothing special to us.</text>
+  <text id="tiphereth2_intro_tb2">Be more understanding, Tiphereth. It’s Lobotomy. News are rare other than someone’s death. The employees need something to talk about.</text>
+  <text id="tiphereth2_intro_ta3">Well, if it makes them efficient even for a short time then yes, I can be understanding. But what I can’t understand is getting so noisy about it all.</text>
+  <text id="tiphereth2_intro_tb3">But weren't you excited as well at first?</text>
+  <text id="tiphereth2_intro_ta4">Well, yes! Because it was the first time!</text>
+  <text id="tiphereth2_intro_tb4">We should be excited even if it’s not the first time.</text>
+  <text id="tiphereth2_intro_tb5">Do you remember? We made a bet over whether the manager could save an employee that has 95% mental corruption.</text>
+  <text id="tiphereth2_intro_ta5">Ah, of course. I bet on no, and you bet on yes.</text>
+  <text id="tiphereth2_intro_tb6">Yes, but the employee died.</text>
+  <text id="tiphereth2_intro_ta6">I was so happy with my victory, I insisted on continuing the bet. Even though the result was always same. </text>
+  <text id="tiphereth2_intro_tb7">Right, but you stopped betting.</text>
+  <text id="tiphereth2_intro_ta7">Well, you always lose... It's boring.</text>
+  <text id="tiphereth2_intro_tb8">I didn’t bet without thinking it through. I always hoped for a change.</text>
+  <text id="tiphereth2_intro_ta8">Sorry you're always disappointed.</text>
+  <text id="tiphereth2_intro_tb9">Well, if we had infinite time, I guess a day would come when my hopes came true.</text>
+  <text id="tiphereth2_intro_tb10">What do you think?</text>
+  <text id="tiphereth2_selection1">Maybe.</text>
+  <!-- 선택지-->
+  <text id="tiphereth2_selection2">Absolutely not.</text>
+  <!-- 선택지-->
+  <text id="tiphereth2_intro_tb1_1">I think so, too.</text>
+  <!-- 선택지 1번 고른 경우-->
+  <text id="tiphereth2_intro_tb1_2">Perhaps if we’ve met sooner...</text>
+  <text id="tiphereth2_intro_tb2_1">Regardless of your opinion, I want to save them.</text>
+  <!-- 선택지 2번 고른 경우-->
+  <text id="tiphereth2_intro_tb2_2">Maybe one day...</text>
+
+  <!--에피소드 3-->
+
+  <text id="tiphereth3_intro_tb1">...</text>
+  <text id="tiphereth3_intro_tb2">If you’re looking for Tiphereth, the meeting is still in progress.</text>
+  <text id="tiphereth3_intro_tb3">...</text>
+  <text id="tiphereth3_intro_tb4">I’m bad at conversation, I miss the managers who were talkative.</text>
+  <text id="tiphereth3_intro_tb5">There’s something I wanted to ask.</text>
+  <text id="tiphereth3_intro_tb6">Do you notice that someone’s memory and emotions are bleeding through us?</text>
+  <text id="tiphereth3_intro_tb7">You must have seen us being angry, happy, sad, even if we’re machines. </text>
+  <text id="tiphereth3_intro_tb8">And we even have our own weakness. </text>
+  <text id="tiphereth3_intro_tb9">Why? What’s inside us? </text>
+  <text id="tiphereth3_intro_tb10">If ‘something’ is inside us, why? Why make something imperfect, planting weakness? </text>
+  <text id="tiphereth3_intro_tb11">I tried to find the answer,</text>
+  <text id="tiphereth3_intro_tb12">but I gave up.</text>
+  <text id="tiphereth3_intro_tb13">I think you may have the answer.</text>
+  <text id="tiphereth3_intro_tb14">Somewhere in your memory,</text>
+  <text id="tiphereth3_intro_tb15">there may be a reason why imperfection is required.</text>
+  <text id="tiphereth3_intro_tb16">We’re machines, but not machines...</text>
+  <text id="tiphereth3_intro_tb17">Not... machines...</text>
+  <!-- 티페리트 b 기계 과부하 상태-->
+  <text id="tiphereth3_intro_ta1">Hey, are you having fun without me? </text>
+  <text id="tiphereth3_intro_ta2">...</text>
+  <text id="tiphereth3_intro_ta3">Tiphereth, anything seriously fun is not good.</text>
+  <text id="tiphereth3_intro_a1">It’s time for another replacement. The cycle is getting shorter and shorter. </text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth3_intro_ta4">But it can be reproduced anytime when needed, right?</text>
+  <text id="tiphereth3_intro_a2">Well, it’s still company property, so it shouldn’t be wasted.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth3_intro_a3">Tiphereth, maybe we should explain it to the manager first.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth3_intro_ta5">But, why?</text>
+  <text id="tiphereth3_intro_a4">I told you Tiphereth, a human mind is fragile, it can’t take the existence of beings like us.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth3_intro_ta6">But it’s not that gross. It’s not as if an employee is decapitated or their internal organs are spilling out.</text>
+  <text id="tiphereth3_intro_a5">Humans fear the unknown. It doesn't have to be graphic.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth3_intro_ta7">Ugh... there are so many things to be mindful of...</text>
+  <text id="tiphereth3_intro_ta8">Why can’t they replace managers with machines? It's not like they can't.</text>
+  <text id="tiphereth3_intro_a6">Tiphereth, there are things only humans can manage. The founder has a reason for assigning managers.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth3_intro_ta9">Well then... off we go to the storage. That’s one of the few locations where perception is weakened.</text>
+  <text id="tiphereth3_intro_tb18">I know that place.</text>
+  <text id="tiphereth3_intro_ta10">Tiphereth, what are you talking about? That’s where we always go. </text>
+  <text id="tiphereth3_intro_tb19">I don’t mean that.</text>
+  <text id="tiphereth3_intro_tb20">I remember what happened here.</text>
+  <text id="tiphereth3_intro_ta11">.....</text>
+  <text id="tiphereth3_intro_ta12">You do? Great.</text>
+  <text id="tiphereth3_intro_ta13">Thank you for helping me as always.</text>
+
+  <!-- 에피소드 4-->
+
+  <text id="tiphereth4_intro_a1">Manager, what do Sephirahs look like to you?</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a2">You must see them as humans, just like yourself.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a3">Smiling, irritated, showing various expressions... more human than myself.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a4">But, are you aware?</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a5">If there’s any AI sophisticated enough to be considered as a human,</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a6">it’s only me.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a7">Didn’t I tell you from the beginning?</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a8">I am the one and only superb AI in here.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a9">Seeing the truth, it’s not important around here.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a10">Everything you see is distorted.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a11">Everything here is constructed for you.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_a12">Can you understand that?</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_tta1">No need for another introduction, yes? </text>
+  <!-- 플레이어에게 더 이상 사람이 아닌 기계로 보이게 된 티페리트 a-->
+  <text id="tiphereth4_intro_a13">It’s Tiphereth. Whom you already met.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_selection1">Ask if it’s Tiphereth.</text>
+  <!-- 선택지-->
+  <text id="tiphereth4_selection2">Ask if it’s a machine.</text>
+  <!-- 선택지-->
+  <text id="tiphereth4_intro_tta1_1">What kind of stupid question is that? Then who do you think it is?</text>
+  <!-- 선택지 1번 고를 경우-->
+  <text id="tiphereth4_intro_tta2_1">You look as if you are surprised, but I am sure you already know that we’re machines.</text>
+  <!-- 선택지 2번 고를 경우-->
+  <text id="tiphereth4_intro_tta2">That expression never bores me. </text>
+  <text id="tiphereth4_intro_tta3">I will tell you the truth. This is where it gets boring but your stupid expression saved the day.</text>
+  <text id="tiphereth4_intro_tta4">You think I’m the only one? Every Sephirah you see are like me.  </text>
+  <text id="tiphereth4_intro_tta5">Thanks to that stupid AI Ethics Improvement Act. </text>
+  <text id="tiphereth4_intro_tta6">And this is...</text>
+  <text id="tiphereth4_intro_tta7">Where we were born, and where we shall return someday.</text>
+  <text id="tiphereth4_intro_tta8">Perhaps, when everything is done, we will rest here, singing a song of our hometown.</text>
+  <!-- 프레셔가 내려와서 티페리트 b를 뭉갠다.-->
+  <text id="tiphereth4_intro_tta9">I hope your next version will last longer.</text>
+  <text id="tiphereth4_intro_a14">Well then, Tiphereth, I will send the next one whenever he's ready.</text>
+  <!-- 화자 : 앤젤라-->
+  <text id="tiphereth4_intro_tta10">Thank you, Angela.</text>
+  <text id="tiphereth4_intro_mm1">So this is where everyone was at! Took me long enough to find you.</text>
+  <!-- 화자  말쿠트-->
+  <text id="tiphereth4_intro_tta11">What’s happening, Malkuth?</text>
+  <text id="tiphereth4_intro_mm2">Netzach asked me to fetch some documents from Tiphereth!</text>
+  <!-- 화자  말쿠트-->
+  <text id="tiphereth4_intro_tta12">Oh, it’s not ready yet. Something urgent turned up. And tell Netzach that he should show up next time.</text>
+  <text id="tiphereth4_intro_mm3">Well, Netzach seemed busy. I will tell him to visit you another time then! </text>
+  <!-- 화자  말쿠트-->
+  <text id="tiphereth4_intro_tta13">Why are you upper guys all the same? Netzach is not busy at all! He just doesn’t want to move!</text>
+  <text id="tiphereth4_intro_mm4">But I'm having fun! </text>
+  <!-- 화자  말쿠트-->
+  <text id="tiphereth4_intro_mm5">Ah, you’re replacing Tiphereth now. The cycle is getting shorter... Does it worry you, Tiphereth?</text>
+  <!-- 화자  말쿠트-->
+  <text id="tiphereth4_intro_tta14">Don't worry about me, just mind your notebook! It would be torn apart soon, by the look of it.</text>
+  <text id="tiphereth4_intro_mm6">Oh, it is! Thanks for the concern. And it was a pleasure to meet you, manager!</text>
+  <!-- 화자  말쿠트-->
+
+  <!-- 장소 이동-->
+  <text id="tiphereth4_intro_tb1">...</text>
+  <!-- 교체 된 새로운 티페리트 b-->
+  <text id="tiphereth4_intro_tb2">Hi, I’m Tiphereth.</text>
+  <text id="tiphereth4_intro_ta1">You can skip the introductions, Tiphereth. Now it’s time for you to examine the document Netzach gave us.</text>
+  <text id="tiphereth4_intro_tb3">All right. </text>
+  <text id="tiphereth4_intro_ta2">....</text>
+  <text id="tiphereth4_selection3">I thought Tiphereth had something to say to me.</text>
+  <!-- 선택지-->
+  <text id="tiphereth4_selection4">What happens to Tiphereth now?</text>
+  <!-- 선택지-->
+  <text id="tiphereth4_intro_ta3_1">What would a broken machine have to say, anyways? </text>
+  <!-- 선택지 1번 고른 경우-->
+  <text id="tiphereth4_intro_ta3_2">Tiphereth is overloaded.</text>
+  <text id="tiphereth4_intro_ta3_3">It seemed to have some issues from the beginning,</text>
+  <text id="tiphereth4_intro_ta3_4">but it got worse.</text>
+  <text id="tiphereth4_intro_ta3_5">The machine's been replaced often, leaving part of the data and resetting it,</text>
+  <text id="tiphereth4_intro_ta3_6">but the same error occurs at the same point.</text>
+  <text id="tiphereth4_intro_ta4_1">What do you mean, what happens now?</text>
+  <!-- 선택지 2번 고른 경우-->
+  <text id="tiphereth4_intro_ta4_2">Ah, are you talking about the replaced machine?</text>
+  <text id="tiphereth4_intro_ta4_3">There could be new errors if it’s not completely destroyed.</text>
+  <text id="tiphereth4_intro_ta4_4">That will put me in a very difficult position.</text>
+  <text id="tiphereth4_intro_ta4_5">While ‘I’ am in charge of the Central Team, but you are me... </text>
+  <text id="tiphereth4_intro_ta4_6">Told you, I need more than two of me around here.</text>
+
+  <!-- 에피소드 5-->
+
+  <text id="tiphereth5_intro_ta1">I wanna go home...</text>
+  <text id="tiphereth5_intro_tb1">You won't be able to go back home, just think of this place as your new home.</text>
+  <text id="tiphereth5_intro_ta2">How can this place be home? Our home is different, and there’s no mom...</text>
+  <text id="tiphereth5_intro_tb2">Well…. Why don’t you pretend Carmen is our new mom then?</text>
+  <text id="tiphereth5_intro_ta3">No…. They aren’t same at all…. Let me go home…</text>
+  <!-- 화면 전환 (시간의 흐름)-->
+  <text id="tiphereth5_intro_ta4">Enoch, why do you keep participating in strange experiments?</text>
+  <text id="tiphereth5_intro_ta5">We don’t have to.</text>
+  <text id="tiphereth5_intro_ta6">Carmen also told me that we could take it easy here.</text>
+  <text id="tiphereth5_intro_tb3">Of course it would be fun to spend time with you here without any worries.</text>
+  <text id="tiphereth5_intro_tb4">I sometimes imagine a future like that.</text>
+  <text id="tiphereth5_intro_tb5">It would be very happy.</text>
+  <text id="tiphereth5_intro_tb6">But how then could we find the meaning of our lives?</text>
+  <text id="tiphereth5_intro_tb7">Children abandoned in the outskirts are dying every day.</text>
+  <text id="tiphereth5_intro_tb8">We were just the few lucky ones who could continue on living.</text>
+  <text id="tiphereth5_intro_tb9">Living here in comfort is not why I exist.</text>
+  <text id="tiphereth5_intro_tb10">It can’t be.</text>
+  <text id="tiphereth5_intro_ta7">Your words are too hard for me. Why do you have so many thoughts in your mind?</text>
+  <text id="tiphereth5_intro_ta8">Too much thinking may affect you negatively.</text>
+  <!-- 화면 전환 (시간의 흐름)-->
+  <text id="tiphereth5_intro_tb11">Lisa, I think I was always sad.</text>
+  <text id="tiphereth5_intro_tb12">I never loved my own life for a second.</text>
+  <text id="tiphereth5_intro_tb13">How nice would it be to live in a happy world next time?</text>
+  <text id="tiphereth5_intro_ta9">Enoch….. Does it hurt?</text>
+  <text id="tiphereth5_intro_tb14">No, it doesn’t hurt at all.</text>
+  <text id="tiphereth5_intro_tb15">Don’t be sad. Something good will happen next time.</text>
+  <!-- 티페리트 b 죽음-->
+  <!-- 화면 전환 (시간의 흐름)-->
+  <text id="tiphereth5_intro_a1">You're awake.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_a2">You are in Lobotomy, and I'm the one who woke you. All of you are now, ‘Tiphereth.'</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_a3">You will support my amazing work here from now on.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_ta10">Why do we have the same name?</text>
+  <text id="tiphereth5_intro_a4">Because there’s no point in distinguishing each one of you.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_tb16">Hi, nice to meet you, Tiphereth.</text>
+  <!-- 화면 전환 (시간의 흐름)-->
+  <text id="tiphereth5_intro_ta11">I think I keep making mistakes, Tiphereth...</text>
+  <text id="tiphereth5_intro_tb17">I’m helping you. Soon, you will be fine by yourself.</text>
+  <!-- 화면 전환 (시간의 흐름)-->
+  <text id="tiphereth5_intro_ta12">We made it so far! Without you, I'd have fallen behind the other Sephirahs!</text>
+  <text id="tiphereth5_intro_ta13">We might be better partners than we thought!</text>
+  <text id="tiphereth5_intro_tb18">Yeah, I think so, too.</text>
+  <!-- 화면 전환 (시간의 흐름)-->
+  <text id="tiphereth5_intro_tb19">Why do we ‘exist’ here?</text>
+  <text id="tiphereth5_intro_ta14">Why do you think about it? We're part of the Central Department, with a bunch of assigned work here to do, so you should be focusing on the task at hand.</text>
+  <text id="tiphereth5_intro_tb20">We are radically different from normal machines.</text>
+  <text id="tiphereth5_intro_tb21">As I think about you and you think about me, if you worry, are in pain, and existing, then there must be a reason.</text>
+  <text id="tiphereth5_intro_ta15">But if Angela finds out you're wondering about that she won’t be happy about it...</text>
+  <!-- 화면 전환 (시간의 흐름)-->
+  <text id="tiphereth5_intro_ta16">Angela, what will happen to Tiphereth?</text>
+  <text id="tiphereth5_intro_a5">Apart from the fact that his condition isn't normal, his excessive questions will affect the manager as well.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_a6">How unacceptable. Now I have to reset you and bring you back to normal status.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_a7">You'll be alright. You're just returning back to your first day.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_ta17">But Angela, Tiphereth spent so much time with me...</text>
+  <text id="tiphereth5_intro_a8">You're really starting to act like a child now, Tiphereth. Say your goodbyes. You two will meet again soon.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_ta18">Tiphereth, Tiphereth, Tiphereth..…</text>
+  <text id="tiphereth5_intro_tb22">Why are you crying, Tiphereth?</text>
+  <text id="tiphereth5_intro_ta19">Sorry, I couldn’t do anything...</text>
+  <text id="tiphereth5_intro_tb23">Don’t be sad. Something good will happen next time.</text>
+  <text id="tiphereth5_intro_ta20">Yeah...</text>
+  <!-- 화면 전환 (시간의 흐름), 다시 현재 (관리자와의 대화)-->
+  <text id="tiphereth5_intro_ta21">You’re here.</text>
+  <text id="tiphereth5_intro_ta22">Sometimes I spend time here.</text>
+  <text id="tiphereth5_intro_ta23">It allows me think clearly.</text>
+  <text id="tiphereth5_intro_ta24">…......</text>
+  <text id="tiphereth5_intro_ta25">Tiphereth always looked at the world with one step ahead of me.</text>
+  <text id="tiphereth5_intro_ta26">In his own world that I will never know.</text>
+  <text id="tiphereth5_intro_ta27">We were always together, but on second thought, we were never truly together.</text>
+  <text id="tiphereth5_intro_ta28">Do you know that feeling of missing someone even though they are right next to you?</text>
+  <text id="tiphereth5_intro_ta29">I'm don't anything about what the reason for existence that Tiphereth was talking about.</text>
+  <text id="tiphereth5_intro_ta30">I just wanted to spend some quality time here together. That was all.</text>
+  <text id="tiphereth5_intro_ta31">But this place won’t allow us to have that small luxury.</text>
+  <text id="tiphereth5_intro_ta32">There are a number of Tiphereth's dead bodies here, can't you see?</text>
+  <text id="tiphereth5_intro_ta33">I'm standing here stepping on their remains.</text>
+  <text id="tiphereth5_intro_ta34">Trampling over the memories and all the time I spent with Tiphereth.</text>
+  <text id="tiphereth5_intro_ta35">I am standing on the top of it now, but I still don’t get it. I still don’t understand your world, Tiphereth.</text>
+  <text id="tiphereth5_intro_ta36">I sing a song from my home and mourn for you even though it will never reach you, Tiphereth.</text>
+  <text id="tiphereth5_intro_ta37">Care to join me?</text>
+  <!-- 티페리트 b 등장-->
+  <text id="tiphereth5_intro_tb24">Tiphereth, what are you doing here?</text>
+  <text id="tiphereth5_intro_ta38">I’m just thinking of old memories.</text>
+  <text id="tiphereth5_intro_tb25">What memories?</text>
+  <text id="tiphereth5_intro_ta39">The good old days when we were together.</text>
+  <text id="tiphereth5_intro_tb26">You’re right, we had lots of fun together.</text>
+  <text id="tiphereth5_intro_ta40">….</text>
+  <text id="tiphereth5_intro_tb27">Come back to me as soon as you can, Tiphereth. I'll be reading the rest of the report.</text>
+  <text id="tiphereth5_intro_ta41">Okay.</text>
+  <!-- 화면 전환 (과거회상 잠깐)-->
+  <text id="tiphereth5_intro_ta42">You can’t bring the old Tiphereth back by replacing the original machine and transmitting back its original memories!</text>
+  <text id="tiphereth5_intro_a9">Does it really matter? Tiphereth will continue to smile at you and will spend time with you, just like before.</text>
+  <!-- 화자: 앤젤라-->
+  <text id="tiphereth5_intro_a10">Don’t say any careless words, Tiphereth. It’s meaningless here.</text>
+  <!-- 화자: 앤젤라-->
+  <!-- 화면 전환 (시간의 흐름), 다시 현재 (관리자와의 대화)-->
+  <text id="tiphereth5_intro_ta43">...…</text>
+  <text id="tiphereth5_intro_ta44">I don’t really like you.</text>
+  <text id="tiphereth5_intro_ta45">The new manager always had an affect towards Tiphereth. This would eventually lead to a breakdown.</text>
+  <text id="tiphereth5_intro_ta46">It will be the same, time after time.</text>
+  <text id="tiphereth5_intro_ta47">We will discard Tiphereth again and again, and he will be changed from what he used to be.</text>
+  <text id="tiphereth5_intro_ta48">I am scared of seeing Tiphereth burning out and being left empty from all those resets.</text>
+  <text id="tiphereth5_intro_ta49">For now, he looks normal and talks with me about old memories that was forcefully transmitted, just like his old self.</text>
+  <text id="tiphereth5_intro_ta50">But he’s getting worse and more unstable because they keep turning on the unstable machine.</text>
+  <text id="tiphereth5_intro_ta51">You can make multiple copies of his body, but there can only be one soul.</text>
+  <text id="tiphereth5_intro_ta52">Only one, but his soul was...</text>
+  <text id="tiphereth5_intro_ta521">………....</text>
+  <text id="tiphereth5_intro_ta53">Could you do me a favor?</text>
+  <text id="tiphereth5_intro_ta54">You used to do me other favors. Would you do me this one favor, just like old times?</text>
+  <text id="tiphereth5_intro_ta55">Could you get rid of Tiphereth?</text>
+  <text id="tiphereth5_intro_ta56">Angela used to say there was a reason for the two us being here. She used to say we are two but one,</text>
+  <text id="tiphereth5_intro_ta57">but I can handle the Central Department all by myself. It was proven a long time ago.</text>
+  <text id="tiphereth5_intro_ta58">Let Tiphereth rest in peace, as if he was alone from the beginning, before it gets any worse.</text>
+  <text id="tiphereth5_selection1">........</text>
+  <!-- 선택지 한개-->
+  <text id="tiphereth5_intro_ta59">Why aren’t you saying anything?</text>
+  <text id="tiphereth5_intro_ta60">In reality, Angela didn’t really care about us at all!</text>
+  <text id="tiphereth5_intro_ta61">Whether there is one Tiphereth or two, whether another one just became a moving piece of metal scrap, or if thousands of discarded Tiphereth were melted for storage, she wouldn’t care!</text>
+  <text id="tiphereth5_intro_ta62">But you’re different, at least you should be!</text>
+  <!-- 화면 전환 (A의 시점)-->
+  <text id="tiphereth5_intro_A1">There were many abandoned children in the outskirts.</text>
+  <text id="tiphereth5_intro_A2">These children were the end results of the many conflicts of the Wings within the city.</text>
+  <text id="tiphereth5_intro_A3">Excluding disease and hunger, the scariest enemy to the children were the ones called, 'Cleaners.'</text>
+  <text id="tiphereth5_intro_A4">Cleaners usually ate children but sometimes "accompanied" them. Whatever the situation, it was a bad place for the children to be.</text>
+  <text id="tiphereth5_intro_A5">One fixer was exploring the outskirts and found the children.</text>
+  <text id="tiphereth5_intro_A6">We could guess why she bothered to report her findings to us.</text>
+  <text id="tiphereth5_intro_A7">We also knew that she spent days agonizing over whether to report this or not.</text>
+  <text id="tiphereth5_intro_A8">Carmen asked for her to bring the children.</text>
+  <text id="tiphereth5_intro_A9">Bringing the children into the city from the outskirts required a complicated procedure, but no one complained.</text>
+  <text id="tiphereth5_intro_A10">The two children didn’t look like siblings but they depended on one another much more than real siblings.</text>
+  <text id="tiphereth5_intro_A11">The girl was easily frightened and didn’t open up very much to us,</text>
+  <text id="tiphereth5_intro_A12">but the boy started to show interest in our experiment.</text>
+  <text id="tiphereth5_intro_A13">I saw it in his eyes.</text>
+  <text id="tiphereth5_intro_A14">He already experienced so much despair and misfortune, his eyes no longer looked of those of a child’s.</text>
+  <text id="tiphereth5_intro_A15">Allow me to participate in the experiment, he said.</text>
+  <text id="tiphereth5_intro_A16">Carmen spent a lot of time thinking about his earnest request,</text>
+  <text id="tiphereth5_intro_A17">and finally, we..</text>
+  <text id="tiphereth5_selection2">Approve the experiment.</text>
+  <!-- 선택지-->
+  <text id="tiphereth5_selection3">Approve the experiment.</text>
+  <!-- 선택지-->
+  <text id="tiphereth5_selection4">Approve the experiment.</text>
+  <!-- 선택지-->
+  <text id="tiphereth5_intro_A18">Where did we want to go while holding a child's hand?</text>
+  <text id="tiphereth5_intro_ta63">You should've been the one to die...</text>
+  <text id="tiphereth5_intro_c1">Yeah.. I... think... you should have died...</text>
+  <!-- 화자 : 카르멘-->
+  <text id="tiphereth5_intro_A19">Lisa's hateful mumbling was possibly not sincere, but I knew.</text>
+  <text id="tiphereth5_intro_A20">Carmen’s answer was sincere.</text>
+  <text id="tiphereth5_intro_A21">From that day, Carmen quietly expanded the wound.</text>
+
+  <!-- 에피소드 6-->
+  <text id="tiphereth6_intro_ta1">Enoch,</text>
+  <text id="tiphereth6_intro_ta2">Have you ever heard of the Nest?</text>
+  <text id="tiphereth6_intro_ta3">I heard a festival is held there every day.</text>
+  <text id="tiphereth6_intro_ta4">I wanna dance, Enoch.</text>
+  <text id="tiphereth6_intro_ta5">I wanna stomp my feet and let the happiness take over my body.</text>
+  <text id="tiphereth6_intro_tb1">Lisa, if you take some time and look around here, it’s quite nice.</text>
+  <text id="tiphereth6_intro_ta6">But there aren't many places where we can go. Carmen just keeps us locked up.</text>
+  <text id="tiphereth6_intro_tb2">She’s a good person, so I hope you change your mind towards her.</text>
+  <text id="tiphereth6_intro_ta7">I don’t want to get to know anyone else, all I want is to be with you.</text>
+  <text id="tiphereth6_intro_tb3">I can’t promise to be with you forever.</text>
+  <text id="tiphereth6_intro_tb4">I've many doubts that I've been mulling over for sometime, and I think I can find some answers here.</text>
+  <text id="tiphereth6_intro_tb5">Some of my thoughts can be absurd, so the answers might not even exist at all,</text>
+  <text id="tiphereth6_intro_tb6">or even if the answers exist, they might vanish soon.</text>
+  <text id="tiphereth6_intro_tb7">But I think I shed my skin in the process of searching for the answers.</text>
+  <text id="tiphereth6_intro_tb8">Maybe I can fly away, leaving my heavy body behind.</text>
+  <text id="tiphereth6_intro_ta8">Sometimes, I have no idea what you are talking about.</text>
+  <text id="tiphereth6_intro_ta9">I don’t know where you want to go, but please take me with you.</text>
+  <text id="tiphereth6_intro_tb9">…….</text>
+  <text id="tiphereth6_intro_ta10">Oh, A is here, so I guess I gotta go now.</text>
+  <text id="tiphereth6_intro_ta11">It's gonna get dark and cold soon. Let’s go inside.</text>
+  <text id="tiphereth6_intro_tb10">Yeah, soon, cold days will come...</text>
+  <text id="tiphereth6_intro_A1">Even though I never thought of them as family or someone that I had to take care of,</text>
+  <!-- 화자 : A-->
+  <text id="tiphereth6_intro_A2">I made it my job to bring the children back home, to ease Carmen's busy schedule.</text>
+  <!-- 화자 : A-->
+  <text id="tiphereth6_intro_A3">I see.</text>
+  <!-- 화자 : A-->
+  <text id="tiphereth6_intro_A4">The young children running towards me.</text>
+  <!-- 화자 : A-->
+  <text id="tiphereth6_intro_A5">The children who survived the outskirts.</text>
+  <!-- 화자 : A-->
+  <text id="tiphereth6_intro_A6">The children we saved.</text>
+  <!-- 화자 : A-->
+  <!-- 화면 전환 (시간의 흐름), 다시 현재 (관리자와의 대화)-->
+
+  <text id="tiphereth6_intro_ta12">I thought I could do it all by myself.</text>
+  <text id="tiphereth6_intro_ta13">When Tiphereth came back, I wanted to show him how mature I became.</text>
+  <text id="tiphereth6_intro_ta14">But there was no end to the disappointment, and Tiphereth didn’t get any better.</text>
+  <text id="tiphereth6_intro_ta15">I couldn't stand the silence without getting an answer.</text>
+  <text id="tiphereth6_intro_ta16">So I thought,</text>
+  <text id="tiphereth6_intro_ta17">I'd rather,</text>
+  <text id="tiphereth6_intro_ta18">I'd rather hide my disgust and guilt like it never existed.</text>
+  <text id="tiphereth6_intro_ta19">But whenever I saw Tiphereth’s empty smile, my heart felt like it was tearing apart.</text>
+  <text id="tiphereth6_intro_ta20">I knew that Tiphereth could never go back to how he used to be.</text>
+  <text id="tiphereth6_intro_ta21">I knew that we could never return to the happy days we spent together.</text>
+  <text id="tiphereth6_intro_ta22">But I was about to abandon Tiphereth because it was hard for me to deal...</text>
+  <text id="tiphereth6_intro_ta23">I know Tiphereth was the one who suffered the most.</text>
+  <!-- 티페리트 b 등장-->
+  <text id="tiphereth6_intro_tb11">Tiphereth, are you done with all your busy work?</text>
+  <text id="tiphereth6_intro_ta24">.............</text>
+  <text id="tiphereth6_intro_tb12">Too much time has passed. Let's go, the sun will set soon.</text>
+  <text id="tiphereth6_intro_tb13">Hurry, Lisa.</text>
+  <!-- 티페리트 b 퇴장-->
+  <text id="tiphereth6_intro_ta25">Right, my name was Lisa once.</text>
+  <text id="tiphereth6_intro_ta26">Tiphereth didn’t remember his name anymore, but he sometimes called me by my old name.</text>
+  <text id="tiphereth6_intro_ta27">What did Tiphereth want from all of this, even after sacrificing himself?</text>
+  <text id="tiphereth6_intro_ta28">What was he waiting for, even when he was being discarded?</text>
+  <text id="tiphereth6_intro_ta29">Was it all worth it?</text>
+  <text id="tiphereth6_intro_ta30">I don’t know.</text>
+  <text id="tiphereth6_intro_ta31">I never expected anything.</text>
+  <text id="tiphereth6_intro_ta32">But I'm counting on you now.</text>
+  <text id="tiphereth6_intro_ta33">I want to believe that there was a reason for every sacrifice that was made, and to know that eventually, everything will be okay.</text>
+
+</localize>
+
