@@ -7,10 +7,10 @@
         * Notes of this kind can also call out files where assistance is needed (particularly tricky translation).
     * Translation progress should also note what _kind_ of translation has been done. Examples follow:
         * Transliterated: "Translated" from original, odd English to a cleaned-up, more generally parse-able form.
-        * Korean-Translated: Actually translated from the original Korean text: may do a better job of incorporating some nuances or cultural details. 
+        * Korean-Translated: Actually translated from the original Korean text: may do a better job of incorporating some nuances or cultural details.
 * If a file is unambiguously done, it should be marked with a single sub-heading: DONE. Like below:
     * DONE
-    
+
 # The List
 
 * AgentLyrics_en
@@ -21,6 +21,8 @@
 * Tutorial_en
     * 2501
     * Not yet started, but plan to tomorrow.
+    * CasualWatson.
+    * Fixed up to about node 24 for revisions.
 * \creatures\1.76mhz_en
 * \creatures\Alriune_en
 * \creatures\ArmorCreature_en
