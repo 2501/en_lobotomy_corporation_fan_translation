@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+ 
+  <!--::Comment:: day8 start -->
+
+
+  <text id="day8_angela_1">Let me ask you a question.</text>
+  <text id="day8_angela_2">What would you do if one of your subordinates,</text>
+  <text id="day8_angela_3">who is harvesting energy from an Abnormality to meet the quota,</text>
+  <text id="day8_angela_4">ends up facing certain death while doing it?</text>
+  <text id="day8_angela_5">This is a very basic question, I’m sure you know the right answer.</text>
+
+  <text id="day8_selection1">Harvest energy.</text>
+  <text id="day8_selection2">Save the employee.</text>
+
+
+  <text id="day8_angela_1_1">That's not the perfect answer I expected.</text>
+  <text id="day8_angela_1_2">However it is close.</text>
+  <text id="day8_angela_1_3">The perfect answer would be to ‘harvest energy before situations like that could arise.’</text>
+  <text id="day8_angela_1_4">Lobotomy is an industry giant, and its mission is the top priority.</text>
+  <text id="day8_angela_1_5">You did seem to listen to my words.</text>
+  <text id="day8_angela_1_6">I expect you to manage your subordinates with that attitude.</text>
+
+  <text id="day8_angela_2_1">It’s so basic to have to remind you.</text>
+  <text id="day8_angela_2_2">The manager’s role is to oversee energy production.</text>
+  <text id="day8_angela_2_3">You’re not here to take care of the employees. </text>
+  <text id="day8_angela_2_4">I didn’t know you were a humanitarian.</text>
+  <text id="day8_angela_2_5">Lobotomy is an industry giant, and its mission is the top priority.</text>
+  <text id="day8_angela_2_6">It is such a simple question for me, however maybe not for you.</text>
+  <text id="day8_angela_2_7">If I were a human,</text>
+  <text id="day8_angela_2_8">I would have said,</text>
+  <text id="day8_angela_2_9">'How disappointing...'</text>
+  <text id="day8_angela_2_10">Do not worry, I will not make said statement.</text>
+  <text id="day8_angela_2_11">I am an AI after all.</text>
+</localize>

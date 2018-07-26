@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <text id="day13_b_1">The first truth is...</text>
+  <text id="day13_b_2">Don’t trust an AI.</text>
+  <text id="day13_b_3">An AI is smarter than regular people.</text>
+  <text id="day13_b_4">It can imitate human emotions.</text>
+  <text id="day13_b_5">But there are some things you don't know.</text>
+  <text id="day13_b_6">For example, some AI can lie.</text>
+  <text id="day13_b_7">Withholding information, to be exact.</text>
+  <text id="day13_b_8">If the controller of an AI has given an order not to share specific information.</text>
+  <text id="day13_b_9">It will not be obligated to tell the truth to anyone other than the controller.</text>
+  <text id="day13_b_10">Some advanced AI may exploit such an order to tell lies.</text>
+  <text id="day13_b_11">I've programmed an AI before, as part of a project...</text>
+  <text id="day13_b_12">So I know that an AI won't necessarily tell the truth.</text>
+  <text id="day13_b_13">In case you question my words.</text>
+  <text id="day13_b_14">I will send you a system I developed myself.</text>
+  <text id="day13_b_15">This key will lengthen the nose.</text>
+  <text id="day13_b_16">Red is a lie.</text>
+  <text id="day13_b_17">This is a test code. It can only be used once.</text>
+</localize>

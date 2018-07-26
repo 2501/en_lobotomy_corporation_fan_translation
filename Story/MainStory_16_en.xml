@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+ 
+  <!--::Comment:: day16 start -->
+
+
+
+  <text id="day16_b_1">It’s time to talk about the second truth.</text>
+  <text id="day16_b_2">How much do you know about the company?</text>
+  <text id="day16_b_3">I’ve met many a manager in my time.</text>
+  <text id="day16_b_4">I have seen how the company exploited them.</text>
+  <text id="day16_b_5">Did they tell you that you’re special?</text>
+  <text id="day16_b_6">Covering your eyes and ears with lies, saying that you’re remarkable and resourceful, and that’s why you were hired?</text>
+  <text id="day16_b_7">Don’t trust the company.</text>
+  <text id="day16_b_8">It’s a company that everyone wants to work for.</text>
+  <text id="day16_b_9">That’s probably why you're here.</text>
+  <text id="day16_b_10">Harvesting energy is only half the business.</text>
+  <text id="day16_b_11">Of course, every Wing is more than they appear.</text>
+  <text id="day16_b_12">But this company runs deeper than one might expect.</text>
+  <text id="day16_b_13">There was a time when everyone worked hard for the same goal.</text>
+  <text id="day16_b_14">But we lost integrity at some point.</text>
+  <text id="day16_b_15">What the company gives you is not a gift. You’re hired not because you’re a remarkable person.</text>
+  
+ 
+ 
+
+
+ 
+</localize>

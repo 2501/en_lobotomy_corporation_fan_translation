@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+ 
+  <!-- day21 start -->
+
+  <text id="day21_angela_1">Do you believe that, occasionally, forgotten things could be more beautiful?</text>
+  <text id="day21_angela_2">That was something you once told me.</text>
+  <text id="day21_angela_3">Now I understand...</text>
+  <text id="day21_angela_4">You’re showing it to me right now.</text>
+
+
+
+
+
+  <text id="day21_angela_5">There are beings who cannot become Abnormalities due to the accident long ago.</text>
+  <text id="day21_angela_6">We failed to contain them. They wandered the corridors, attacking our employees.</text>
+  <text id="day21_angela_7">Remnants would have been a suitable name, but some joker with a strong sense of identity suggested we call them Ordeals.</text>
+  <text id="day21_angela_8">Imagine you’re walking down a narrow corridor.</text>
+  <text id="day21_angela_9">Waiting for the Ordeal to strike each time you turn a corner.</text>
+  <text id="day21_angela_10">One thing for sure is that while we can’t avoid them we can overcome them.</text>
+ 
+ 
+</localize>

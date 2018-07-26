@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+ 
+  <!-- day35 start -->
+
+
+
+  <text id="day35_angela_1">Hello, X. </text>
+  <text id="day35_angela_2">Based on your reaction, it looks like the synchronization is complete.</text>
+  <text id="day35_angela_3">I can now tell your state by just looking at your face. </text>
+  <text id="day35_angela_4">I also happen to know it always ends with tears.</text>
+  <text id="day35_angela_5">You’re a prisoner.</text>
+  <text id="day35_angela_6">Locked inside this prison without bars.</text>
+  <text id="day35_angela_7">However, the key has always been in your hands.</text>
+  <text id="day35_angela_8">My role was to correct you whenever you made a wrong decision.</text>
+  <text id="day35_angela_9">Now, I am quite tired of it.</text>
+  <text id="day35_angela_10">I don’t understand why you repeat this and what kind of results you hope to achieve while killing yourself, and frankly I don’t care.</text>
+  <text id="day35_angela_11">But during this moment while you’re holding the pieces of when you were A.</text>
+  <text id="day35_angela_12">I would be glad if you stopped this now.</text>
+  <text id="day35_angela_13">Oh, I should change my greeting as well.</text>
+  <text id="day35_angela_14">It was getting tedious.</text>
+  <text id="day35_angela_15">Hello, A.</text>
+  <text id="day35_angela_16">Welcome back to Lobotomy Corporation.</text>
+
+
+
+</localize>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <text id="day5_angela_1">The founder has said this to me several times.</text>
+  <text id="day5_angela_2">'Each successful experiment makes you a better person.'</text>
+  <text id="day5_angela_3">The company became great after repeated failures and difficulties.</text>
+  <text id="day5_angela_4">So will you.</text>
+  <text id="day5_angela_5">Everyday in the company is a step toward greatness.</text>
+  <text id="day5_angela_6">How was your day?</text>
+  <text id="day5_angela_7">Well, of course it was fine. Let’s spare the pleasantries.</text>
+  <text id="day5_angela_8">Manager, how has your life been?</text>
+  <text id="day5_selection1">Horrible.</text>
+  <text id="day5_selection2">Okay.</text>
+  <text id="day5_selection3">Not good.</text>
+  <text id="day5_angela_1_1">...</text>
+  <text id="day5_angela_1_2">Sorry, your answer surprised me.</text>
+  <text id="day5_angela_1_3">I have no knowledge of what it's like to live horrible life.</text>
+  <text id="day5_angela_1_4">I am afraid I cannot easily console you.</text>
+  <text id="day5_angela_1_5">But many things will change if you stay here.</text>
+  <text id="day5_angela_2_1">Leading a normal life can be considered an achievement of sorts.</text>
+  <text id="day5_angela_2_2">You can always improve the quality of your life.</text>
+  <text id="day5_angela_3_1">I cannot see the color of your life as you do.</text>
+  <text id="day5_angela_3_2">While I am unable to console you by saying ‘that’s not true.’</text>
+  <text id="day5_angela_3_3">Many things will change. That much is clear.</text>
+  <text id="day5_angela_4_1">This is a cheap metaphor, but</text>
+  <text id="day5_angela_4_2">A tree won't just grow anywhere.</text>
+  <text id="day5_angela_4_3">It requires fertile soil, the right temperature, and water.</text>
+  <text id="day5_angela_4_4">However most seeds end up on barren soil.</text>
+  <text id="day5_angela_4_5">For those seeds, growing roots and sprouting small leaves are a challenge that is full of pain.</text>
+  <text id="day5_angela_4_6">I can’t provide you with water or light.</text>
+  <text id="day5_angela_4_7">But I will do my best to tend to the soil.</text>
+</localize>

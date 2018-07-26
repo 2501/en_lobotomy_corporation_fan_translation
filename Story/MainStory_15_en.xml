@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+ 
+  <!--::Comment:: day15 start -->
+
+
+
+  <text id="day15_angela_1">Did you hear the news manager?</text>
+  <text id="day15_angela_2">They found rodents in one of the restricted areas.</text>
+  <text id="day15_angela_3">This could be a serious issue.</text>
+  <text id="day15_angela_4">The rodents themselves are not much of a problem. However their feces, and the cables they have gnawed on may damage the system.</text>
+  <text id="day15_angela_5">This is one of the reasons why security is important.</text>
+  <text id="day15_angela_6">You should remember that.</text>
+  <text id="day15_angela_7">I will personally deal with the rodents this time.</text>
+  <text id="day15_angela_8">If you find any rodents, please notify me immediately.</text>
+  <!--::Comment:: 이때 cg 나와야함.-->
+
+  
+ 
+ 
+
+
+ 
+</localize>

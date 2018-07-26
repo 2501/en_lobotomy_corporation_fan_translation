@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <text id="day12_angela_1">What do you think of the Sephirahs?</text>
+  <text id="day12_angela_2">Don't you find them somewhat lacking?</text>
+  <text id="day12_angela_3">You have the liberty to disregard their words.</text>
+  <text id="day12_angela_4">However, please be kind to them. </text>
+  <text id="day12_angela_5">It’s something we must do if we want to advance the department.</text>
+  <text id="day12_angela_6">I never have any serious discussion with them.</text>
+  <text id="day12_angela_7">They seem to be uncomfortable conversing with me. Most likely due to the fact that I am a superior being.</text>
+  <text id="day12_angela_8" anim="Glad1">Even if they're secretly jealous of my superiority, there's nothing they can do to change that.</text>
+  <text id="day12_angela_9">After all, I am the most advanced AI in this company.</text>
+</localize>
