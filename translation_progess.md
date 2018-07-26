@@ -16,6 +16,8 @@
 * SefiraDesc_en
 * Skills_en
 * Tutorial_en
+    * 2501
+    * Not yet started, but plan to tomorrow.
 * \creatures\1.76mhz_en
 * \creatures\Alriune_en
 * \creatures\ArmorCreature_en
@@ -30,6 +32,8 @@
 * \creatures\BloodBath_en
 * \creatures\BloodyTree_en
 * \creatures\BlueStar_en
+    * 2501
+    * Want to take a stab at this after Tutorial_en.
 * \creatures\BossBird_en
 * \creatures\BugDawn_en
 * \creatures\BugDusk_en
