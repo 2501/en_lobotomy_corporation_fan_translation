@@ -11,3 +11,5 @@ Note that this will create a mismatch with Steam's concept of what the file cont
 
 # How do I help?
 Thanks for asking! Please open a pull request with your translated files and updated "translation_progess.md" file. Feel free to fork this repo as well if you wish to take things in a different direction.
+
+NOTE: At this time I'm far from fluent in any language but English, so if you happen to know Korean your assistance would be especially well appreciated as you may have insight I lack.
