@@ -126,3 +126,7 @@
 * \creatures\Yin_en
 * \creatures\YouMustHappy_en
 * \creatures\YoungPrince_en
+* Story
+    * Days 1-43
+        * CasualWatson
+        * Mostly Transliterated, some bits Korean-Translated.
