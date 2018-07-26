@@ -1,8 +1,10 @@
 # How to read this file
 * If a file is only noted in the list, it hasn't yet been touched.
-* If a file is noted in the list and has sub-headings, those will describe translation progress on or up to those portions of the file.
-    * Notes of this kind can be by section, line number, or otherwise, so long as it's clear.
-    * Notes of this kind can also call out files where assistance is needed (particularly tricky translation).
+* If a file is noted in the list and has sub-headings, those will describe the following in order:
+    * Whether anyone has "taken" that file and will translate it, listing their github username. If a file was marked as "taken" this way without any apparent progress for a while, feel free to take a swing at it as well (but preferably after other work).
+    * Translation progress on or up to those portions of the file.
+        * Notes of this kind can be by section, line number, or otherwise, so long as it's clear.
+        * Notes of this kind can also call out files where assistance is needed (particularly tricky translation).
 * If a file is unambiguously done, it should be marked with a single sub-heading: DONE. Like below:
     * DONE
     
