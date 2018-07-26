@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+              
+    <feeling max="100" downProb="0.44" downValue="1">
+      <section feelingValue="50" state="good" energy="0.5"/>
+      <section feelingValue="30" state="normal" energy="0.3"/>
+      <section feelingValue="0" state="bad" energy="-1.3"/>
+    </feeling>
+
+  -->
+  <info id ="100106">
+
+
+    <narration action="move">
+      #0 is going into $0's containment unit to begin the task.
+    </narration>
+
+    <narration action="start">
+      [
+      {$0’s fur is so fluffy and soft. It’s good for your depression.},
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {Many employees have at least 55 different pictures taken in various angles of $0.},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {It is a good enough reason to be demoted if you don’t like $0.},
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {Sometimes mysterious parts of human skeleton is found around $0 but who cares.},
+      ]
+    </narration>
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">D-02-107 </codeNo>
+      <portrait openLevel ="0">Sprites/Unit/creature/Ppodae</portrait>
+
+      <name openLevel ="1">
+        Ppodae
+      </name>
+
+      <riskLevel openLevel ="1">
+        TETH
+      </riskLevel>
+
+
+      <openText>Sir, your ‘angel’ is chewing a body part of our colleague. </openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {<i>This Abnormality is made based on the idea of the Tumblbug backer '이은희(Lee Eunhee)'</i>&#13;&#10;&#13;&#10;Fluffy cute puppy with white fur.&#13;&#10;This abnormality is so cute that just looking at it makes you feel better.&#13;&#10;It has the eyes of an angel and is the purest thing in the world.&#13;&#10;(Further description of this creature is deleted for brevity’s sake. Those sentences were just ‘it’s cute’ said in various ways.)}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {This abnormality has absolutely no negative influence. It’s just that your heart could ache if you look at it for too long because of the cuteness. Employees who enter this abnormality’s containment unit tend to lose control and often have to forcefully be removed from the unit by other employees. Caution is advised as the other employees sometimes also get captivated by its cuteness and lose control.&#13;&#10;&#13;&#10;* Attempts to bring the abnormality out of the containment unit may occur but most of the time they are suppressed. &#13;&#10;&#13;&#10;* When there are too many employees that want to work on this abnormality, a lottery is held to decide who to go.&#13;&#10;&#13;&#10;* Employees show symptoms of mental regression such as slurred speech upon entering its containment unit, but it seems it’s only temporary. &#13;&#10;* Many employees refer this abnormality as “Good Boy Ppodae” but its official designation is “Ppodae”. Be cautious not to get confused. &#13;&#10;&#13;&#10;**** Every employee who enter its containment unit must file a video or photo report involving this abnormality.  (Extremely important)}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="1">
+      [
+      {A company this size always has a myth or two.&#13;&#10;“You can hear bones breaking if you walk down the hallways in night…”&#13;&#10;“If you go and see what that sound is about, you will see that cryptid Yeti eating an employee…!”&#13;&#10;“But we don’t have any abnormality that looks like Yeti.”}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="2">
+      [
+      {&lt;Audio Recording&gt;&#13;&#10;&#13;&#10;John: You need to be thankful, boy. It’s a rare opportunity for a Jacob to be working on Good Boy Ppodae. &#13;&#10;&#13;&#10;Jacob: Uh, it’s hitting me with paws. Is this an attack?&#13;&#10;&#13;&#10;John: He wants you to feed him. Don’t you know that it’s a corporate trend to always carry a dogfood or two?&#13;&#10;&#13;&#10;Jacob: I don’t really like animals… (Unintelligible sound of irritation of John)&#13;&#10;&#13;&#10;By the way, this puppy is pretty beefed up. Is this how puppies are? This one must have played catch a lot. &#13;&#10;&#13;&#10;John: We used to play catch pretty often just to see him running for the ball. We stopped for some reason…&#13;&#10;&#13;&#10;Jacob: Hey, did you see its face when I fed it? It was super creepy.&#13;&#10;&#13;&#10;John: It’s your imagination. He’s always like an angel. innitrightgudboi? &#13;&#10;&#13;&#10;Jacob: Does this thing have some kind of mental manipulation power?&#13;&#10;&#13;&#10;John: I have no idea what you’re talking about. Doyoudo cutiepie? Do you?}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="3">
+      [
+      {John: Have you been waiting for me, Ppodae? &#13;&#10;&#13;&#10;Jacob: Hey, it’s eating something. But we are the first to come here today. &#13;&#10;&#13;&#10;John: You goody good boy was hungry, hmmmm? God, he’s so cute. Look how he’s chewing on that.&#13;&#10;&#13;&#10;Jacob: What the hell are you eating… Jejus! I knew it! It’s…it’s the finger of employee James! He went missing in the last patrol shift! Look at that nail! Can’t you remember him bragging about how he had a shape of heart drawn on his nails? I told you that this thing is up to no good!&#13;&#10;&#13;&#10;John: I…I can’t believe it… who….&#13;&#10;&#13;&#10;Jacob: This abnormality’s the killer! I can understand that you’re shocked, but I’ve told you numerous times that there can’t be a cute pet in this place. I’m glad that you’ve finally come to your sen…&#13;&#10;&#13;&#10;John: Who…didn’t feed him in time?!&#13;&#10;&#13;&#10;Jacob: ………&#13;&#10;&#13;&#10;John: This poor thing must have been starving for all night. It’s… it’s heartbreaking.&#13;&#10;&#13;&#10;Jacob: Uh… I think we should suppress it?&#13;&#10;&#13;&#10;John: How can you do something so violent to this cute little boy? Look at his eyes… animals are innocent. Aintthatrightyoucutieboi&#13;&#10;&#13;&#10;(The abnormality shows no reaction. Only a sound of a bone being chewed is heard.)&#13;&#10;&#13;&#10;Jacob: Sir, your ‘angel’ is chewing a body part of our colleague. &#13;&#10;&#13;&#10;John: What are you, a newbie? Don’t you know anything cute is forgiven here?&#13;&#10;&#13;&#10;Jacob: I never heard about that and won’t believe that. We must tranquilize it. If you won’t, I will do it!&#13;&#10;&#13;&#10;(Tranquilizer fired)&#13;&#10;&#13;&#10;John: NO!&#13;&#10;&#13;&#10;(The abnormality’s moaning)&#13;&#10;&#13;&#10;(Recording cuts off abruptly after a few shouts)&#13;&#10;&#13;&#10;&#13;&#10;…..Thus I request a demotion of the employee who fired tranquilizer to Ppodae.&#13;&#10;Such an animal abuser has no place in our company.&#13;&#10;Our good boy Ppodae is greatly shocked by this incident. He only eats 5kg of his favorite snack now.&#13;&#10;Which leads to another request for the new snack for Ppodae. ‘High-class salmon rich with Vitamin B’. &#13;&#10;I’ll be waiting for the reply.}
+      ]
+    </desc>
+
+    <desc id="6" openLevel="4">
+      [
+      {Reply: &#13;&#10;Requests accepted.&#13;&#10;Side note: In your next request, attach 5 different photos of good boy Ppodae. }
+      ]
+    </desc>
+
+
+
+    <specialTipSize size="3">
+      <specialTip openLevel="1" key="1">$0 likes the instinct work the most. When other works than instinct work was done on it, Qliphoth Counter decreased by medium chance.</specialTip>
+      <specialTip openLevel="1" key="2">Qliphoth Counter decreased when the work result was bad.</specialTip>
+      <specialTip openLevel="1" key="3">When $0 escaped, it voluntarily returned to its containment unit after attacking an employee and taking █████ from their deceased body.</specialTip>
+    </specialTipSize>
+  </observe>
+</creature>

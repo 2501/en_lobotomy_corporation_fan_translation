@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id="300110">
+
+    <narration action="move">
+      #0 is going into $0's containment unit to begin the task. 
+    </narration>
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">D-09-104</codeNo>
+      <portrait openLevel ="1">Sprites/Unit/creature/ReverseClock</portrait>
+
+      <name openLevel ="1">
+        Backward Clock
+      </name>
+
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <openText>
+        Have you fallen to the lowest bottom?
+      </openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {<i>This Abnormality is made based on the idea of the Tumblbug backer '정현교(Jung Hyunkyo)'</i>&#13;&#10;&#13;&#10;An old clock manufactured by an unknown company. It vacuum tubes that give off vintage vibe. The manufacturer stopped making these long ago.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {“…Is your future dark? Have you fallen to the lowest bottom? Have you ever thought, ‘What if I had done or not done that”?&#13;&#10;We, as humanity, have conquered diseases and nature. Now, we have come far enough to harnessing time itself. }
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {Yes, we can rewind your wasted time.&#13;&#10;Just wind the spring, close your eyes, and count to ten.&#13;&#10;When you open your eyes, you will be standing in the exact moment that you wished to be in."}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="2">
+      [
+      {* Read the manual thoroughly. We do not know what will happen if this machinery is handled poorly. We are not responsible for any accidents caused by the user’s carelessness. &#13;&#10;	This clock requires high amount of energy to operate. Please understand that it will take considerable time to charge.}
+      ]
+    </desc>
+
+
+    <specialTipSize size="5">
+      <specialTip openLevel="1" key="1">A light turns off and energy is charged for every work done on $0.</specialTip>
+      <specialTip openLevel="2" key="2">Nothing happened when an employee whose level is lower than 3 worked on it.</specialTip>
+      <specialTip openLevel="2" key="3">After every light has turned on, $0 can be activated. However, $0 could only be operated once a day, so use caution when using it.</specialTip>
+      <specialTip openLevel="2" key="4">&lt;Caution&gt;Employees under level 5 is strictly forbidden from contacting $0 after it is fully charged.</specialTip>
+      <specialTip openLevel="2" key="5">Employee with level 5 or more can operate $0 normally. $0 will send everyone except the employee who activated it to the most peaceful time of that day.</specialTip>
+    </specialTipSize>
+
+
+  </observe>
+</creature>

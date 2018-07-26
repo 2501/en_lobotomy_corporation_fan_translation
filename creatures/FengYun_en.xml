@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="100105">
+
+    <narration action="move">
+      #0 is going into $0's containment unit to begin the task.
+    </narration>
+
+    <narration action="mid1">
+      [
+      {Employee #0 gazes at $0, which is sitting peacefully in meditation.}
+      {$0 never stops to practice, looking far into the serenity and yearning to take back the way in its living years.},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {The anguish of which $0 couldn’t take control fills the containment unit. },
+      ]
+    </narration>
+
+    <narration action="mid3">
+      [
+      {$0 is desperately holding shattered pieces of bead in its hands.},
+      ]
+    </narration>
+
+    <narration action="mid4">
+      [
+      {What is this that I cannot gain through leaving and leaving through gaining.},
+      ]
+    </narration>
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">D-01-110</codeNo>
+      <portrait openLevel ="1">Sprites/Unit/creature/FengYun</portrait>
+
+      <name openLevel ="1">
+        Heroic Monk
+      </name>
+
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <openText> However, if enough sarira to make everyone watch in awe come out from you, your name will be sung through generations. </openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {<i>This Abnormality is made based on the idea of the Tumblbug backer '나준(Na Joon)'</i>&#13;&#10;&#13;&#10;In (Redacted) century, a monk named (Redacted) from (Redacted) area walked the path of Buddhist, seeking the true enlightenment. He was on his way home country to spread his philosophy when he heard about an old monk being cremated in the town nearby. He decided to go and see it, but a man stopped him.&#13;&#10;&#13;&#10;“Sir, there’s a rumor about an evil spirit lingering in that town!”&#13;&#10;&#13;&#10;“Evil spirits are naturally born from people’s heart. How can I miss a cremation of a great old monk because of a rumor?” He answered,&#13;&#10;&#13;&#10;}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {People from all around the town were gathered in the ceremony. They were gazing at the standing corpse of the old monk and chanting the name of Avalokitasvara.&#13;&#10;“Avalokitasvara!”&#13;&#10;“Avalokitasvara!”&#13;&#10;“Avalokitasvara!”&#13;&#10;&#13;&#10;The chant was coming out of more of desperation for something they are yearning for, rather than commemoration. &#13;&#10;&#13;&#10;The fire started cracking as it was fed with kindling. The sound of wooden percussion echoed, and the chanting got louder and louder.&#13;&#10;&#13;&#10;Soon, the crowd started buzzing with nervousness.&#13;&#10;&#13;&#10;“…Something is not right.”&#13;&#10;&#13;&#10;People were massively disappointed by the amount of sarira.&#13;&#10;There were barely two spoons of them. Dumbfounded people soon turned into an angry crowd.&#13;&#10;&#13;&#10;“It does not make any sense that such a great monk had only this little sarira.”&#13;&#10;“He did not practice enough asceticism!”&#13;&#10;“He must have not done enough good deeds.”&#13;&#10;&#13;&#10;The monk was also baffled. He was not familiar with such obsession with sarira at the cremation, and he himself was expecting the amount of sarira that such a great monk deserves. }
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {He talked to a man behind him in the crowd.&#13;&#10;&#13;&#10;“How can they be so upset in such a scared ceremony?”&#13;&#10;&#13;&#10;“Poor and hungry commoners yearn for miracles to save them. By your looks, I assume that you are also on the path of Buddhist. This event must have worried you.”, A very old man in the crowd answered instead.&#13;&#10;&#13;&#10;“Sarira forms when a monk betters his body and spirit, and finally reaches nirvana. It is a natural process and not to be artificially wanted. How do you call it a miracle?”, The monk answered in a slightly disturbed tone.&#13;&#10;&#13;&#10;Then the old man burst out of laughter.&#13;&#10;&#13;&#10;“The cremated monk here is well known for his good deeds. He shared his food to the hungry and clothes to those who are cold. However, as they say, it seems he couldn’t reach the true nirvana as only 2 spoons of sarira came out. He ended up being a poor monk who couldn’t achieve nirvana even though he was respected and known as a benevolent living saint. Do you think you will be any different?”&#13;&#10;&#13;&#10;“I…have proudly practiced…”&#13;&#10;&#13;&#10;“A monk from temple (Redacted) has earned more than 300 spoons of sarira. Colorful lights sparkled across the sky as the crowd paid devout prayers and the sarira were round as bead. The emperor himself ordered to build four temples in his name.”&#13;&#10;&#13;&#10;The monk couldn’t say anything.&#13;&#10;&#13;&#10;“…..But, the creation of sarira is a natural process….”&#13;&#10;&#13;&#10;“It is well known that Buddha had enough sarira to fill a grand palace when he was cremated. Someday, your body will fail and eventually lead you to the eternal heaven. Someday, people will be there for your cremation just like this.”&#13;&#10;&#13;&#10;“.....................”&#13;&#10;&#13;&#10;“If nothing is harvested from your remains, you will be a sinner of the three worlds and your path will reach nowhere. However, if enough sarira to make everyone watch in awe come out from you, your name will be sung through generations. The emperor will be awestruck and build a huge temple in your name, and the people will chant looking at the pagoda of that temple. &#13;&#10;&#13;&#10;“.....................”&#13;&#10;&#13;&#10;“This mere old man is telling you this because I can see you becoming a greatest monk. A few hours of walk from here, there is a mound called (Redacted). Go up there, and you will see several old pagodas. Inside them are boxes of sarira of long-forgotten great monks. They will return to soil if nothing happens to them. But, if you consume them, perhaps you will let out more sarira than Buddha himself…”&#13;&#10;&#13;&#10;Then the monk realized that this old man has suspicious looks and did not sound like his age. He tried to look at the old man’s face, but he was nowhere to be found in an instant. The monk concluded it as a devil’s play and tried to forget. But the old man’s voice lingered in his ears even when he tried to sleep.}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {The monk couldn’t sleep. He decided to take a walk in the night.&#13;&#10;&#13;&#10;However, he found himself around the pagodas that the old man mentioned. They were supposed to be a few hours of walk away from his bed.&#13;&#10;&#13;&#10;For a long time, only a chant saying “Buddha Mantra” echoed around the pagodas.}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {&lt;Excerpt from fable in (Redacted) area&gt;&#13;&#10;&#13;&#10;In the night, a weird sound can be heard around the pagodas and statues in (Redacted) area. It is said that the source of this sound is a demonic creature that has long arms, claws, and unnaturally big mouth. Some say this creature has a shattered bead, but it is not confirmed yet. After this creature appears, people found that offered sarira boxes are forcefully opened and the content inside them are gone. &#13;&#10;&#13;&#10;Furthermore, the monks staying in this providence must not sleep alone, should carry a talisman that repels demonic spirits. &#13;&#10;&#13;&#10;This tale has lead to the tradition of chanting these lines when cremation takes place;&#13;&#10;&#13;&#10;亦僧子乎 (Yeoseungzaho)&#13;&#10;亦僧子乎 (Yeoseungzaho)&#13;&#10;今汝不必僧 (Keumyeobupilseung)&#13;&#10;魔羅汝不極樂往生 (Marayeobugukrakwangsang)&#13;&#10;&#13;&#10;This chant translates into this;&#13;&#10;&#13;&#10;“Are you a monk?&#13;&#10;Are you a monk?&#13;&#10;You are no longer a monk&#13;&#10;A demon shall never reach heaven.”&#13;&#10;&#13;&#10;It is told to the monks who have not realized that they have become a demon.}
+      ]
+    </desc>
+
+    <specialTipSize size="5">
+      <specialTip openLevel="1" key="1">Mental health of the employee who conducted insight work on it was healed.</specialTip>
+      <specialTip openLevel="2" key="2">Qliphoth Counter decreased for every 10 employees dead in the facility. However, it did not recognize the death of employees who were disposed of as execution bullets.</specialTip>
+      <specialTip openLevel="2" key="3">Qliphoth Counter decreased by medium chance when the work result was normal.</specialTip>
+      <specialTip openLevel="2" key="4">Qliphoth Counter decreased when the work result was bad.</specialTip>
+      <specialTip openLevel="2" key="5">Qliphoth Counter reached 0 when O-05-102 passed by $0’s containment unit.</specialTip>
+    </specialTipSize>
+  </observe>
+
+</creature>

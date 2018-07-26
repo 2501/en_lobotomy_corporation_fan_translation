@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+
+  -->
+  <info id ="100062">
+
+    <narration action="move">
+      #0 is going into $0's containment unit to begin the task.
+    </narration>
+
+    <narration action="start">
+      [
+      {Employee #0 feels delicate scent of grass embraces the air.},
+      {Employee #0 feels a gentle breeze, which can’t possibly come inside the containment unit. },
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {The sound of rustling leaves is incredibly tranquil.},
+      {Flowery scent lingers in #0’s nose.},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {Most of the employees here are unhappy. They feel great happiness to the smallest blessing.},
+      ]
+    </narration>
+    
+    <narration action="mid3">
+      [
+      {Incandescent blessing comes for employee #0.},
+      ]
+    </narration>
+    
+    <narration action="mid4">
+      [
+      {When the flower of blessing finally blooms from $0, then…},
+      ]
+    </narration>
+
+
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">D-04-108</codeNo>
+      <portrait openLevel ="0">Sprites/Unit/creature/Yggdrasil</portrait>
+
+      <name openLevel ="1">
+        World Tree
+      </name>
+
+      <name openLevel ="3">
+        Parasyte Tree
+      </name>
+
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+
+      <openText>"Be relaxed, do you not need the blessing?"</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {<i>This Abnormality is made based on the idea of the Tumblbug backer 'llooll530'</i>&#13;&#10;&#13;&#10;A tree with plentiful of leaves.&#13;&#10;Those leaves with rich green color gives off comfortable vibe. The flowery scent carried by a gentle breeze was refreshing.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {The employees who are contacted with the abnormality testified that it provided them psychological comfort. This is proved by the employees’ increased efficiency in working and decrease in mental contamination.}
+      ]
+
+    </desc>
+    
+    <desc id="3" openLevel="2">
+      [
+      {&lt;An excerpt from an employee’s diary&gt;&#13;&#10;&#13;&#10;I thought it was just my imagination. But the voice sounded clearer and clearer as my body and mind exhausted. &#13;&#10;“I can help you.”&#13;&#10;Yes, you can help me.&#13;&#10;What am I wondering for?&#13;&#10;I smell the scent of flower.}
+      ]
+    </desc>
+
+
+    <desc id="4" openLevel="3">
+      [
+      {They imported a tree.&#13;&#10;&#13;&#10;It was a beauty at first glance. I could smell the scent of flower even though there was no breeze or wind. &#13;&#10;My attachment for the tree blindly grew after I smell that scent. I was very intuitive since my childhood. I could sense that this attachment is hazardous.&#13;&#10;&#13;&#10;I tried to avoid getting assigned to the tree by doing everything I could.&#13;&#10;&#13;&#10;“Well, if you put it that way… just this once, okay? Geez, did that tree do something to you?”&#13;&#10;&#13;&#10;His banter flies over into my ear. Did it do something? Yes, it did. And it scares me.&#13;&#10;&#13;&#10;A few days later, the junior, who was originally optimistic, has now become faithful to the work with a smile. I felt uneasy because the face seemed strangely comfortable.&#13;&#10;&#13;&#10;“I’m looking good lately? Yeah, well, that’s because the tree is helping me out.”&#13;&#10;&#13;&#10;He answered light-heartedly. From my experience of several years, I knew that there are only few who can smile so sincerely while working for this company. That means, when someone smiles, it was a sign of something went wrong. I felt unnerved and immediately reported to the superior.&#13;&#10;&#13;&#10;The answer from the superior came sooner than I thought. It was saying, that I am to file an observation report of the abnormality because there are several abnormal behaviors related to this tree spotted in other employees, not only the one I reported about. &#13;&#10;&#13;&#10;The order forced me to contact this tree that I had been avoiding with my best. I knew I couldn’t hand it over to someone else this time.&#13;&#10;&#13;&#10;I couldn’t see a barren, naked tree that I saw the day it was imported. Instead, I saw the containment unit covered in grass that seem to be sprawling around the tree as the center. But, a grass can’t grow in the containment unit. This facility is completely inorganic. The moment I felt that something is wrong,&#13;&#10;&#13;&#10;‘Hello, have you come here to be blessed, too?’&#13;&#10;&#13;&#10;A voice echoed in my head... }
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {<i>(It was difficult to decrypt the content as the writing becomes heavily distorted from this point)</i>&#13;&#10;&#13;&#10;I don’t know how I wrote the observation report. What’s certain is that I just wrote what I felt about the tree, that this beautiful plant is making employees happy and will contribute the humanity’s quest for prosperity and advancement. &#13;&#10;&#13;&#10;But how can an abnormality be a good influence on humanity?&#13;&#10;&#13;&#10;‘I just want to help you.’&#13;&#10;&#13;&#10;A voice without a speck of malicious intent echoed again in my head. Yes, it is just helping me.&#13;&#10;&#13;&#10;‘And if you’re okay with it, could you bring your friends who are having a hard time? I want to help them.”&#13;&#10;&#13;&#10;Yes, this tree will easily bring peace to their mind. Speaking of which, that newbie seems to be pretty depressed lately. &#13;&#10;&#13;&#10;“I know a place that can make you feel better. If you want to come along.”&#13;&#10;&#13;&#10;She followed me without any suspicion. It was not hard to bring her to the tree’s containment unit.&#13;&#10;&#13;&#10;I offer her to the tree. She can, she will get better.&#13;&#10;&#13;&#10;‘You brought your friend. You are a good child. Let me gift you with something.’&#13;&#10;&#13;&#10;I feel something sprouting in me. I can’t move my limbs. No, it’s not something bad. I am being reborn with the tree. &#13;&#10;&#13;&#10;The tree and I are becoming whole. &#13;&#10;&#13;&#10;Ah, I can fully feel it now.}     ]
+    </desc>
+
+     <specialTipSize size="7">
+      <specialTip openLevel="1" key="1">A bud sprouted from the upper part of $0, blessing the employee when the work is finished on it. The employee with the blessing enjoyed from the increased work efficiency and mental health.</specialTip>
+      <specialTip openLevel="1" key="2">Qliphoth Counter decreased when rppression work is done.</specialTip>
+      <specialTip openLevel="1" key="3">Qliphoth Counter decreased in low chance when the abnormality escapes.</specialTip>
+      <specialTip openLevel="1" key="4">Qliphoth Counter decreased when a work is done 5 times on other abnormalities while $0 was being neglected.</specialTip>
+      <specialTip openLevel="1" key="5">When Qliphoth Counter reached 0, $0 forced employees to its containment unit and blessed them.</specialTip>
+      <specialTip openLevel="1" key="6">When 5 buds sprouted, $0 turned dark and the employees who were blessed panicked. After a while, stems ripped through their skin and turned them into a sapling (D-04-108-1) which strikingly resembles the abnormality itself.</specialTip>
+      <specialTip openLevel="1" key="7">D-04-108-1 secretes highly contagious and fatal poison. They need to be immediately removed to decontaminate the area.</specialTip>
+    </specialTipSize>
+
+  </observe>
+
+<child>
+    <name>Sapling</name>
+    <codeId>D-04-108-1</codeId>
+  </child>
+</creature>

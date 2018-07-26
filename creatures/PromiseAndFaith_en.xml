@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id="300108">
+
+    <narration action="move">
+      #0 is going into $0's containment unit to begin the task.
+    </narration>
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">T-09-97</codeNo>
+      <portrait openLevel ="1">Sprites/Unit/creature/PromiseAndFaith</portrait>
+
+      <name openLevel ="1">
+        Old Belief and Promise 
+      </name>
+
+      <riskLevel openLevel ="1">
+        ZAYIN
+      </riskLevel>
+
+      <openText>
+        Betrayed hearts were slowly forgotten in the depths.
+      </openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {A mysterious marble hanging in the containment unit.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {We know about countless promises and beliefs that have been repeated from ages ago.}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {However only hollowness and betrayal returned from them.}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {Betrayed hearts were slowly forgotten in the depths.}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {If you try without wanting anything in return, you might receive an unexpected reward.}
+      ]
+    </desc>
+
+
+    <specialTipSize size="4">
+      <specialTip openLevel="1" key="1">Use the target to upgrade an E.G.O weapon. Small energy will be consumed upon upgrading.</specialTip>
+      <specialTip openLevel="2" key="2">Weapon upgraded through the target will have stronger Attack Power.</specialTip>
+      <specialTip openLevel="2" key="3">However, there’s a chance the E.G.O weapon will perish during the upgrade.</specialTip>
+      <specialTip openLevel="2" key="4">Upgraded weapon will lose the target’s influence and return to its original Attack Power after a day.</specialTip>
+    </specialTipSize>
+
+
+
+  </observe>
+</creature>
