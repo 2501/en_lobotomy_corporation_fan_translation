@@ -1,0 +1,117 @@
+# How to read this file
+* If a file is only noted in the list, it hasn't yet been touched.
+* If a file is noted in the list and has sub-headings, those will describe translation progress on or up to those portions of the file.
+    * Notes of this kind can be by section, line number, or otherwise, so long as it's clear.
+    * Notes of this kind can also call out files where assistance is needed (particularly tricky translation).
+* If a file is unambiguously done, it should be marked with a single sub-heading: DONE. Like below:
+    * DONE
+    
+# The List
+
+* AgentLyrics_en
+* AgentNewLyrics_en
+* AngelaDesc_en
+* SefiraDesc_en
+* Skills_en
+* Tutorial_en
+* \creatures\1.76mhz_en
+* \creatures\Alriune_en
+* \creatures\ArmorCreature_en
+* \creatures\AuthorNote_en
+* \creatures\Baku_en
+* \creatures\Bald_en
+* \creatures\BeautyBeast_en
+* \creatures\BigBadWolf_en
+* \creatures\Bigbird_en
+* \creatures\BigTreeSap_en
+* \creatures\BlackSwan_en
+* \creatures\BloodBath_en
+* \creatures\BloodyTree_en
+* \creatures\BlueStar_en
+* \creatures\BossBird_en
+* \creatures\BugDawn_en
+* \creatures\BugDusk_en
+* \creatures\BugMidnight_en
+* \creatures\Bunny_en
+* \creatures\Butterfly_en
+* \creatures\Censored_en
+* \creatures\CircusDawn_en
+* \creatures\CircusDusk_en
+* \creatures\CircusNoon_en
+* \creatures\Cosmos_en
+* \creatures\DangoCreature_en
+* \creatures\DeathAngel_en
+* \creatures\DesireHeart_en
+* \creatures\DontTouchMe_en
+* \creatures\Dummy_en
+* \creatures\Fairy_en
+* \creatures\FengYun_en
+* \creatures\FireBird_en
+* \creatures\Freischutz_en
+* \creatures\GalaxyBoy_en
+* \creatures\Happyteddy_en
+* \creatures\HealthBracelet_en
+* \creatures\HellTrain_en
+* \creatures\Helper_en
+* \creatures\IronMaiden_en
+* \creatures\JusticeReceiver_en
+* \creatures\KnightOfDespair_en
+* \creatures\LadyLookingAtWall_en
+* \creatures\LightsHammer_en
+* \creatures\LittleWitch_en
+* \creatures\LongBird_en
+* \creatures\LookAtMe_en
+* \creatures\Lumberjack_en
+* \creatures\MachineDawn_en
+* \creatures\MachineDusk_en
+* \creatures\MachineMidnight_en
+* \creatures\MachineNoon_en
+* \creatures\MagicalGirl_2_en
+* \creatures\MagicalGirl_en
+* \creatures\Matchgirl_en
+* \creatures\MeatIdol_en
+* \creatures\NamelessFetus_en
+* \creatures\Nullthing_en
+* \creatures\OldLady_en
+* \creatures\Onebadmanygood_en
+* \creatures\OrangeTree_en
+* \creatures\OtherWorldPortrait_en
+* \creatures\OutterGodDawn_en
+* \creatures\OutterGodNoon_en
+* \creatures\Piano_en
+* \creatures\PinkCorps_en
+* \creatures\PlagueDoctor_en
+* \creatures\Porccu_en
+* \creatures\Ppodae_en
+* \creatures\PromiseAndFaith_en
+* \creatures\ProphecyOfSkin_en
+* \creatures\QueenBee_en
+* \creatures\RedHood_en
+* \creatures\RedShoes_en
+* \creatures\ResearcherNote_en
+* \creatures\ResetMirror_en
+* \creatures\ReverseClock_en
+* \creatures\Rudolph_en
+* \creatures\Sakura_en
+* \creatures\Scarecrow_en
+* \creatures\ScytheClock_en
+* \creatures\Shark_en
+* \creatures\Shelter_en
+* \creatures\ShyThing_en
+* \creatures\SilentOrchestra_en
+* \creatures\SingingMachine_en
+* \creatures\SlimeGirl_en
+* \creatures\SmallBird_en
+* \creatures\SnowQueen_en
+* \creatures\SnowWhite_en
+* \creatures\SpiderMom_en
+* \creatures\StraitJacket_en
+* \creatures\Theresia_en
+* \creatures\ViscusSnake_en
+* \creatures\Wellcheers_en
+* \creatures\Wraith_en
+* \creatures\Yang_en
+* \creatures\Yggdrasil_en
+* \creatures\Yin_en
+* \creatures\YouMustHappy_en
+* \creatures\YoungPrince_en
