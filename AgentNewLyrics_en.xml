@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <!--
+  사실 있음
+  
+  직원 상황별 대사
+  
+  AgentNewgrade_XXX_Y_Z : XXX - 상황, Y - 직원 유형, Z - 텍스트 넘버
+  
+  Y : 0 ~ 4 (A,R,W,B,P 순. A는 모든 유형에 적용)
+  
+  -->
+
+  <category type="normal">
+    <grade level="1">
+      <lyrics rwbp="a">
+        <lyric>I can’t believe I’m working for one of the Wings now!</lyric>
+        <lyric>I’ve finished the management training, but I still haven’t got the hang of it.</lyric>
+        <lyric>Why is everyone telling me to be careful around an abnormality? How dangerous are they?</lyric>
+        <lyric>I just hope the work isn’t too difficult.</lyric>
+        <lyric>I can't even imagine the experience the manager have had to be where he is now.</lyric>  <!-- *-->
+        <lyric>I can proudly tell people now that I have joined the Wing.</lyric>
+      </lyrics>
+      <lyrics rwbp="r">
+        <lyric>The smoother the work is, the faster we finish.</lyric>
+        <lyric>Let us keep the steam up for another day.</lyric>
+        <lyric>Let’s do this!</lyric>
+        <lyric>So, we need to satisfy abnormalities’ desires such as hunger with instinct work.</lyric>
+        <lyric>We’ve made it until now. Let’s keep it that way.</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>Even someone from the Outskirt is here, too. What’s wrong with the employment directives?</lyric>
+        <lyric>What’s up with the chip in our armbands?</lyric>
+        <lyric>The guy I saw was replaced by someone else before I knew it.</lyric>
+        <lyric>We need to analyze abnormalities by insight work and create the environment that they favor.</lyric>
+        <lyric>The directive that forces us to do whatever the order is too harsh, I think. </lyric> 
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>If I work hard here, I can bring my family to the Nest.</lyric>
+        <lyric>I know there are sinister rumors about the Wings, but I have no choice. The pay is just too good, and everyone looks up to you.</lyric>
+        <lyric>I can’t believe we can actually communicate with abnormalities.</lyric>
+        <lyric>Perhaps we can befriend abnormalities?</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>I like the facility here, but the air is too heavy.</lyric>
+        <lyric>I feel like being watched.</lyric>
+        <lyric>Repression work, a work that repress everything that can erupt…</lyric>
+        <lyric>The facility and its hallways are branded with fear and despair.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="2">
+      <lyrics rwbp="a">
+        <lyric>Abnormalities are dangerous than I thought.</lyric>
+        <lyric>I can’t believe people can die this easily.</lyric>
+        <lyric>This is the true face of Lobotomy…</lyric>
+        <lyric>I thought I will never win against an abnormality back then, but I feel like I can now.</lyric>
+        <lyric>This is better than whatever happens in the Backalley in night.</lyric>
+      </lyrics>
+      <lyrics rwbp="r">
+        <lyric>You just need to go with the flow of the body and mind when using a weapon.</lyric>
+        <lyric>The definition of “food” is pretty ambiguous when they’re for abnormalities.</lyric>
+        <lyric>The abnormalities like something else other than food.</lyric>
+        <lyric>We can’t always be gloomy. Let’s keep our strength up!</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>Is this happening in other wings…?</lyric>
+        <lyric>I thought Lobotomy Corp was just a eco-friendly energy producer...</lyric>
+        <lyric>There are something off about this place.</lyric>
+        <lyric>This is way too inefficient. Why do these dangerous beings need to be managed by humans?</lyric>
+        <lyric>It takes more than mere knowledge to analyze abnormalities.</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>I wish I could get the hang of it already.</lyric>
+        <lyric>Not all abnormalities are bad…</lyric>
+        <lyric>I’m starting to see what’s the good way to handle the abnormalities.</lyric>
+        <lyric>They say, “Never get personally attached to abnormalities”, but…</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>The equipment here is fascinating… I feel nostalgic about them.</lyric>
+        <lyric>I wonder how everyone else is feeling about working in this place.</lyric>
+        <lyric>Something in my heart wavers every time I do repression work.</lyric>
+        <lyric>I feel like everything here is happening with a purpose.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="3">
+      <lyrics rwbp="a">
+        <lyric>New guys have no idea what they will face here.</lyric>
+        <lyric>I need to endure this. They give out vacations to the employees who worked for 2 months.</lyric>
+        <lyric>I heard rumors about monsters in the Backalley in night. They sound awfully like abnormalities.</lyric>
+        <lyric>If I die, I am just replaced by someone else…</lyric>
+        <lyric>As bitter it is, but I’m getting accustomed to the life here.</lyric>
+        <lyric>This is better than dying off in the Backalley, though.</lyric>
+      </lyrics>
+      <lyrics rwbp="r">
+        <lyric>I can eat after seeing corpses now.</lyric>
+        <lyric>I hate myself for being used to deaths.</lyric>
+        <lyric>The type of “food” is different by the type of abnormalities..</lyric>
+        <lyric>The stench of blood still lingers in my nose. It doesn’t get washed away in water.</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>Is this really worth it?</lyric>
+        <lyric>I saw what happens when a person goes insane.</lyric>
+        <lyric>What if abnormalities are something like gods?</lyric>
+        <lyric>The more I know about the abnormalities by insight work, the more information that I can’t understand.</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>I hate them. They ruthlessly murder us, but we have to take care of them. How unfair is that?</lyric>
+        <lyric>Do not get personally attached to an abnormality, even if you’re doing attachment work.</lyric>
+        <lyric>They are so picky about the games.</lyric>
+        <lyric>Friends are meaningless here. However, you can’t go through a day without comrades beside you.</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>I feel like I’ve woken up after a long slumber sometimes</lyric>
+        <lyric>It feels like being in a dream whenever facing an abnormality.</lyric>
+        <lyric>We need to know what they are and repress them.</lyric>
+        <lyric>It feels like the souls of the dead still remain here.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="4">
+      <lyrics rwbp="a">
+        <lyric>I wonder how many rookies will die</lyric>
+        <lyric>Whatever you say, manager.</lyric>
+        <lyric>Don’t get too serious about this.</lyric>
+        <lyric>I’ll buy W corporation’s travel package in my next vacation.</lyric>
+        <lyric>If I work a bit harder, my family can come to the Nest.</lyric>
+      </lyrics>
+      <lyrics rwbp="r">
+        <lyric>It’s not so different. Suppressing abnormalities, killing panicked employees.</lyric>
+        <lyric>I hope the work finishes soon.</lyric>
+        <lyric>I miss the smell of blood.</lyric>
+        <lyric>Eating is the only joy we can find here.</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>A human mind is too fragile.</lyric>
+        <lyric>You should not try to understand things that can’t be understood.</lyric>
+        <lyric>We will lose our humanity some day if we continue to work here.</lyric>
+        <lyric>Some people just have to do what they’re told not to.</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>Everyone has their own business.</lyric>
+        <lyric>Let’s go easy. Don’t overthink things.</lyric>
+        <lyric>Just relax and work. Everything will work out.</lyric>
+        <lyric>Don’t get too nervous. We can solve this one by one.</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>The essence of repression work is connected to the subject’s purpose of existence.</lyric>
+        <lyric>We are all equal in the face of death.</lyric>
+        <lyric>Our souls will flow through the world even if we lose our bodies.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="5">
+      <lyrics rwbp="a">
+        <lyric>Everyone dies someday.</lyric>
+        <lyric>SSDD, we just follow orders.</lyric>
+        <lyric>There’s not much of meaning in this. We work, and we get paid. That’s all.</lyric>
+        <lyric>Don’t worry even if you’re new here. You’ll get used to it in no time.</lyric>
+        <lyric>Don’t think too much about the people who died. Just accept the fact.</lyric>
+      </lyrics>
+      <lyrics rwbp="r">
+        <lyric>We’re nothing but blood and flesh, after all.</lyric>
+        <lyric>Blood gracefully flows in every life.</lyric>
+        <lyric>The purpose of instinct work is merely keeping them in a physical form.</lyric>
+        <lyric>The life is a beautiful flame for it is weak, yet intense.</lyric>
+        <lyric>We must do what we can do now, not later.</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>What is humanity, after all? Is it humane to seek truth?</lyric>
+        <lyric>We must see things beyond what we can see.</lyric> <!-- *-->
+        <lyric>Everyone has their own mission to prove their existence.</lyric>
+        <lyric>We recreate the world by seeing the truth with the eye of wisdom.</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>Humans, abnormalities, it’s not important. What’s really important is the resonation of existence.</lyric>
+        <lyric>I can at least protect others.</lyric>
+        <lyric>A relationship is a chorus that blooms from the contact between beings.</lyric>
+        <lyric>Shells are just shells. We must not forget what’s beneath them.</lyric>
+        <lyric>If we can become one and share our existence, it’d be fascinating.</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>Death is not the end of everything.</lyric>
+        <lyric>Life is beautiful because it shines through the darkness of the night like stars.</lyric>
+        <lyric>The setting of stars is magnificent to see.</lyric>
+        <lyric>The true nature of repression work is the denial of purpose of existence.</lyric>
+        <lyric>We will come again after death, as our souls will guide us...</lyric>
+        <lyric>Abnormalities have souls, just like humans...</lyric>
+      </lyrics>
+    </grade>
+  </category>
+
+  <category type="panic">
+    <grade level="1">
+      <lyrics rwbp="a">
+        <lyric>Please give orders! Please give orders! Please give orders! Please give orders! Please give orders!</lyric>
+        <lyric>LET ME GO HOME! I WANT TO GO HOME!</lyric>
+        <lyric>Manager, please do something about this situation if you’re seeing this! HELP ME!</lyric>
+        <lyric>AAAAAAAAAAAAAAAAAAAHHHHHHHHHHHH!!</lyric>
+      </lyrics>
+    </grade>
+    <grade level="2">
+      <lyrics rwbp="r">
+        <lyric>I don’t want to die alone…</lyric>
+        <lyric>Yeah, it’s your fault! YOU MESSED UP EVERYTHING!</lyric>
+        <lyric>You’re the one to blame! Not me!</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>It’s my fault. It’s my responsibility.</lyric>
+        <lyric>I don’t see any hope in this situation.</lyric>
+        <lyric>Even if I survive, I will suffer from this moment for the rest of my life.</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>Help me! I want to get out of here, open the emergency door!</lyric>
+        <lyric>Manager, open the emergency door! LET ME OUT!</lyric>
+        <lyric>I’m scared. Everyone’s dead. What should I do?</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>Look, manager! I have not failed!</lyric>
+        <lyric>I am not like these idiots around me! LOOK WHAT I DO!</lyric>
+        <lyric>What’s with the long face? Just wait, I’ll make you happy!</lyric>
+      </lyrics>
+    </grade>
+    <grade level="3">
+      <lyrics rwbp="r">
+        <lyric>Just be gone! This company, us, you, BE GONE!</lyric>
+        <lyric>I can do this. I can kill humans like they did.</lyric>
+        <lyric>YOU HAVE ABANDONED ME!!!</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>The hallway is splashed with blood and brain fluid…… You can see it, too, right? We need to clean it…</lyric>
+        <lyric>I saw my dead colleague yesterday. We had dinner and coffee together. He seemed alright. I might go visit him soon.</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>We’re all going to die. They will ravage our body and mind in this miserable place!</lyric>
+        <lyric>I DON’T WANT TO DIE! I DON’T WANT TO GET KILLED LIKE THEM!</lyric>
+        <lyric>HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!</lyric>
+        <lyric>DON’T SEND ME IN THERE!!!! DON’T KILL ME!!!</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>IwanttoapologizetomydeadfriendsIamnotmeanttodielikethisImissmyparentssomuchnow</lyric>
+        <lyric>Let me show you my imaginary friends! They asked me, screaming that they want to get out!</lyric>
+      </lyrics>
+    </grade>
+    <grade level="4">
+      <lyrics rwbp="r">
+        <lyric>DIE! DIE DIE DIE!</lyric>
+        <lyric>The smell of blood calls out to me. I want blood and flesh.</lyric>
+        <lyric>I will kill everyone. I will destroy everything. There’s no meaning in anything, after all.</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>I hear someone. It’s the sound of home. I can’t stop hearing it.</lyric>
+        <lyric>There’s no hope. My mind collapses. Everything collapses.</lyric>
+        <lyric>We will all sink and be devoured by madness.</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>I can’t. I tried to get used to it. BUT I CAN’T!</lyric>
+        <lyric>Please let me out of here. I tried. But I can’t take it anymore!</lyric>
+        <lyric>We don’t want to die like this. We’re not here to die like this.</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>Let us seek peace from them.</lyric>
+        <lyric>I’m sorry, friend. I will free you now.</lyric>
+        <lyric>Come out, everyone! Come out and free us from this accursed place!</lyric>
+      </lyrics>
+    </grade>
+    <grade level="5">
+      <lyrics rwbp="r">
+        <lyric>It’s going to be fun. The melody of ripping flesh!</lyric>
+        <lyric>Why do humans die so easily? Like you.</lyric>
+        <lyric>It’s going to end quickly. I will free you from the prison of flesh.</lyric>
+      </lyrics>
+      <lyrics rwbp="w">
+        <lyric>The whispers of the moon and the sound of stars. The truth beyond…</lyric>
+        <lyric>To the horizon of knowledge, beyond the understanding…</lyric>
+        <lyric>Their roar. The resonation between you and me. The incandescent wisdom…</lyric>
+      </lyrics>
+      <lyrics rwbp="b">
+        <lyric>I will never get out of here.</lyric>
+        <lyric>We will eventually become one in the source.</lyric>
+        <lyric>Losing sanity is the only redemption here.</lyric>
+      </lyrics>
+      <lyrics rwbp="p">
+        <lyric>We will find our redemption through abnormalities.</lyric>
+        <lyric>Abnormalities are the true origin of humans. Let us reach and find redemption.</lyric>
+        <lyric>Let us reach the paradise beyond death, together with abnormalities.</lyric>
+      </lyrics>
+    </grade>
+  </category>
+
+  <category type="horror">
+    <grade level="0">
+      <lyrics rwbp="a">
+        <lyric>It’s nothing.</lyric>
+        <lyric>I can still do this.</lyric>
+        <lyric>Piece of cake.</lyric>
+        <lyric>It only tickles</lyric>
+        <lyric>Boring.</lyric>
+        <lyric>It doesn’t even tickle me.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="1">
+      <lyrics rwbp="a">
+        <lyric>Let’s calm down. As we always do.</lyric>
+        <lyric>Just don’t lose your mind and keep to the manual.</lyric>
+        <lyric>Let’s just do as we’ve been always doing.</lyric>
+        <lyric>Let’s just don’t get careless.</lyric>
+        <lyric>Focus…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="2">
+      <lyrics rwbp="a">
+        <lyric>I’m getting nervous.</lyric>
+        <lyric>Slowly, slowly…</lyric>
+        <lyric>Breathe in, breathe out…</lyric>
+        <lyric>Let’s just keep to the manual.</lyric>
+        <lyric>It will be fine if we focus, I think…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="3">
+      <lyrics rwbp="a">
+        <lyric>I can’t make a mistake here…</lyric>
+        <lyric>My legs are trembling…</lyric>
+        <lyric>Damn, it’s scary.</lyric>
+        <lyric>It’s sending chills down my spine.</lyric>
+        <lyric>Please, nothing happens…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="4">
+      <lyrics rwbp="a">
+        <lyric>GOD DAMN IT!!!</lyric>
+        <lyric>What should we do?</lyric>
+        <lyric>What should we do in this situation?</lyric>
+        <lyric>My body doesn’t move…</lyric>
+        <lyric>Help…</lyric>
+        <lyric>I don’t want to die!</lyric>
+        <lyric>I need to run away...</lyric>
+      </lyrics>
+    </grade>
+    <grade level="5">
+      <lyrics rwbp="a">
+        <lyric>*gasps*</lyric>
+        <lyric>What…</lyric>
+        <lyric>What have I seen…?</lyric>
+        <lyric>I can’t take it…</lyric>
+        <lyric>I can’t understand…</lyric>
+        <lyric>...................</lyric>
+        <lyric>Everything has stopped…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="6">
+      <lyrics rwbp="a">
+        <lyric>This is god…</lyric>
+        <lyric>My existence is meaningless…</lyric>
+        <lyric>We are petty beings…</lyric>
+        <lyric>All-mighty existence beyond the realm of beings…</lyric>
+        <lyric>Mercy…</lyric>
+        <lyric>Grant us salvation…</lyric>
+        <lyric>I was nothing, after all…</lyric>
+        <lyric>Let us watch in awe…</lyric>
+      </lyrics>
+    </grade>
+  </category>
+
+  <category type="otherdead">
+    <grade level="0">
+      <lyrics rwbp="a">
+        <lyric>Another guy kicks the bucket.</lyric>
+        <lyric>Poor bastard.</lyric>
+        <lyric>We don’t have time to grief for them.</lyric>
+        <lyric>It happens all the time.</lyric>
+        <lyric>Those who will die, will die.</lyric>
+        <lyric>Weakling.</lyric>
+        <lyric>I will pay respect, at least.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="1">
+      <lyrics rwbp="a">
+        <lyric>Let us pay respect…</lyric>
+        <lyric>Another employee dies.</lyric>
+        <lyric>I need to get used to deaths..</lyric>
+        <lyric>We can’t let grief hold us.</lyric>
+        <lyric>I wonder if there’s anyone who will cry for them.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="2">
+      <lyrics rwbp="a">
+        <lyric>Damn it, someone died.</lyric>
+        <lyric>Friendly down!</lyric>
+        <lyric>He’s gone…</lyric>
+        <lyric>We lost one. Be careful!</lyric>
+        <lyric>Let’s focus. I can’t die…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="3">
+      <lyrics rwbp="a">
+        <lyric>{0}… Are you really dead?</lyric>
+        <lyric>I can’t believe you’ve died like this.</lyric>
+        <lyric>I can’t let them kill me, too.</lyric>
+        <lyric>Please, please, please…</lyric>
+        <lyric>Is {0} really dead? Is it my turn?</lyric>
+      </lyrics>
+    </grade>
+    <grade level="4">
+      <lyrics rwbp="a">
+        <lyric>By the gods…</lyric>
+        <lyric>I relied on that person…</lyric>
+        <lyric>What I we do…?</lyric>
+        <lyric>If even {0} is dead…</lyric>
+        <lyric>I’m dead now. Even {0} has died like that…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="5">
+      <lyrics rwbp="a">
+        <lyric>I am done.</lyric>
+        <lyric>I can’t believe that person died.</lyric>
+        <lyric>WE WILL ALL DIE!</lyric>
+        <lyric>Employee {0} has died, I will not be different.</lyric>
+      </lyrics>
+    </grade>
+  </category>
+
+  <category type="otherpanic">
+    <grade level="0">
+      <lyrics rwbp="a">
+        <lyric>Another one goes insane.</lyric>
+        <lyric>Heart is easily breakable.</lyric>
+        <lyric>Weak minded have no place here.</lyric>
+        <lyric>The sound of despair, I’m used to it.</lyric>
+        <lyric>Even the screams delight me now.</lyric>
+        <lyric>I thought I was going to go crazy back then whenever I saw something like that. But now…</lyric>
+        <lyric>It will be quiet again after a while.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="1">
+      <lyrics rwbp="a">
+        <lyric>Another one that lost heart.</lyric>
+        <lyric>I can’t become like him.</lyric>
+        <lyric>I’m getting used to seeing the face of insanity.</lyric>
+        <lyric>The screams of the mad always disturb me.</lyric>
+        <lyric>Will I lose my mind like them some day?</lyric>
+      </lyrics>
+    </grade>
+    <grade level="2">
+      <lyrics rwbp="a">
+        <lyric>We have a panicked!</lyric>
+        <lyric>Someone just reached the maximum mental contamination level!</lyric>
+        <lyric>I can’t lose my mind.</lyric>
+        <lyric>I need to keep the tension here… I can’t lose my mind.</lyric>
+        <lyric>It’s painful to watch. It will make me go insane.</lyric>
+        <lyric>I don’t want to hear those screams of pain.</lyric>
+      </lyrics>
+    </grade>
+    <grade level="3">
+      <lyrics rwbp="a">
+        <lyric>Even the ones with higher rank goes insane.</lyric>
+        <lyric>I don’t know if I can endure the madness of this place.</lyric>
+        <lyric>Please don’t give up on your mind.</lyric>
+        <lyric>Please come back!</lyric>
+        <lyric>What have you seen?</lyric>
+        <lyric>{0}, please, get back…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="4">
+      <lyrics rwbp="a">
+        <lyric>The higher ranks go crazy, too…</lyric>
+        <lyric>How long will I endure this madness?</lyric> <!-- *-->
+        <lyric>Nobody's safe in this place.</lyric> <!-- *-->
+        <lyric>What has driven that person insane?</lyric>
+        <lyric>Employee {0}… Maximum mental contamination level… oh god…</lyric>
+      </lyrics>
+    </grade>
+    <grade level="5">
+      <lyrics rwbp="a">
+        <lyric>Madness rules this place…</lyric>
+        <lyric>{0}…not you… you were supposed to protect us…</lyric>
+        <lyric>THAT PERSON WILL KILL US ALL! THIS PLACE WILL BE THE HELL FOR US!</lyric>
+        <lyric>WE WILL ALL GO MAD AND DIE LIKE THAT EMPLOYEE!!</lyric>
+        <lyric>There’s no hope in this place… everyone will eventually go crazy…</lyric>
+        <lyric>It will only be a matter of time before I go insane like employee {0}…</lyric>
+      </lyrics>
+    </grade>
+   
+  </category>
+
+  <!--Tumblbug Agent Lyrics -->
+  <credit>
+    <category type="normal">
+      <unit id="0">
+        <!--미스터블랙 -->
+        <lyric>It’s good for you to laugh. So, laugh!</lyric>
+        <lyric>HAHAHAHAHAHAHAHAHAHA!</lyric>
+        <lyric>Smile from ear to ear! Like this!</lyric>
+      </unit>
+      <unit id="1">
+        <!-- 양치기 -->
+        <lyric>A shepherd tends to the sheep to take wool and meat. It’s just like what we do.</lyric>
+        <lyric>Things like this happen too often in the world. Even among the people.</lyric>
+        <lyric>But those are not sheep. That’s for certain.</lyric>
+      </unit>
+      <unit id="2">
+        <!--김대리 -->
+        <lyric>Where…where is my pills?</lyric>
+        <lyric>I wish I could go home in time today…</lyric>
+        <lyric>No! I didn’t say anything, manager!</lyric>
+      </unit>
+      <unit id="3">
+        <!--아란 -->
+        <lyric>Whatever.</lyric>
+        <lyric>I’m trying my best.</lyric>
+        <lyric>Annoying…</lyric>
+      </unit>
+      <unit id="4">
+        <!--유메카 -->
+        <lyric>I’m craving strawberry cake.</lyric>
+        <lyric>What day is it today? I forgot it again.</lyric>
+        <lyric>What am I supposed to do again? Oh, yeah.</lyric>
+      </unit>
+      <unit id="5">
+        <!--이희창 -->
+        <lyric>I’m doing this for money, not because I enjoy it.</lyric>
+        <lyric>This job is such a pain in the neck.</lyric>
+        <lyric>I really need to quit this job.</lyric>
+      </unit>
+      <unit id="6">
+        <!--전상민 -->
+        <lyric>God, I don’t want to do anything.</lyric>
+        <lyric>I wonder how many will die today.</lyric>
+        <lyric>Perhaps I will die too, very soon.</lyric>
+      </unit>
+      <unit id="7">
+        <!--에피비네아 -->
+        <lyric>I should make a lucky charm for everyone. I’m going to secretly put them onto people!</lyric>
+        <lyric>It’s an abnormality observation report, this one too…. oh, here it is! The employee observation report!</lyric>
+        <lyric>I’m supposed to spend breaktime doing things that are good for me. So, I guess it’s okay to spy on people to check if they’re okay because it comforts me…?</lyric>
+      </unit>
+      <unit id="8">
+        <!--PESCA -->
+        <lyric>*sigh* There’s not a single handsome guy here…</lyric>
+        <lyric>I want to work little and earn a lot.</lyric>
+        <lyric>I wish I get to work on a cute abnormality, if that’s possible.</lyric>
+      </unit>
+      <unit id="9">
+        <!--SpeciaLee -->
+        <lyric>Night time overwork again, great.</lyric>
+        <lyric>I want to go home.</lyric>
+        <lyric>Ah…I don’t wanna do it.</lyric>
+      </unit>
+      <unit id="10">
+        <!--예띠 -->
+        <lyric>I want to see more abnormalities when I promote! I can do that, right?</lyric>
+        <lyric>I feel like I should be treated better!</lyric>
+        <lyric>My friends and family are going to be super surprised when they hear that I’m working here. Hehe!</lyric>
+      </unit>
+      <unit id="11">
+        <!--Alex-->
+        <lyric>Oh, sorry. What can I help you?</lyric>
+        <lyric>I'm planning to have spaghetti for dinner.</lyric>
+        <lyric>Always stay focused. You never know what would happen.</lyric>
+      </unit>
+    </category>
+
+    <category type="panic">
+      <unit id="0">
+        <lyric>SMILE! SMILE! SMILE!</lyric>
+      </unit>
+      <unit id="1">
+        <lyric>It was…better in my old days…. Guards! GUAAAAAAAAARDS!</lyric>
+      </unit>
+      <unit id="2">
+        <lyric>YAY! OVERWORK AGAIN!</lyric>
+      </unit>
+      <unit id="3">
+        <lyric>Going to graduate school was my biggest mistake!</lyric>
+      </unit>
+      <unit id="4">
+        <lyric>It’s not a bunny! I’m not going to do it!</lyric>
+      </unit>
+      <unit id="5">
+        <lyric>SHOULD HAVE QUIT A LONG TIME AGO! AAAAAAAAAAAAAA!</lyric>
+      </unit>
+      <unit id="6">
+        <lyric>I don’t want to die!</lyric>
+      </unit>
+      <unit id="7">
+        <lyric>No…everyone will die…! Just like him…!</lyric>
+      </unit>
+      <unit id="8">
+        <lyric>Oh, heavens! Somebody, help us!</lyric>
+      </unit>
+      <unit id="9">
+        <lyric>...</lyric>
+      </unit>
+      <unit id="10">
+        <lyric>I never should have come here in the first place. I was a fool…. I want to go home. I want to go home, please…</lyric>
+      </unit>
+      <unit id="11">
+        <lyric>AHAHAHAHAHAHAHA!! I never felt any better!!!</lyric>
+      </unit>
+    </category>
+
+    <category type="horror">
+      <unit id="0">
+        <lyric>Hey, buddy. Are you smiling like a good boy?</lyric>
+      </unit>
+      <unit id="1">
+        <lyric>These…damned things…</lyric>
+      </unit>
+      <unit id="2">
+        <lyric>I’m not home yet!</lyric>
+      </unit>
+      <unit id="3">
+        <lyric>Work never ends, huh….</lyric>
+      </unit>
+      <unit id="4">
+        <lyric>That’s a bunny… That’s a fluffy cute bunny…</lyric>
+      </unit>
+      <unit id="5">
+        <lyric>It’s all over now.</lyric>
+      </unit>
+      <unit id="6">
+        <lyric>We’re done for.</lyric>
+      </unit>
+      <unit id="7">
+        <lyric>Have you lost something dear to you, too…?</lyric>
+      </unit>
+      <unit id="8">
+        <lyric>Wow, how marvelous! I want to touch it♡♡♡</lyric>
+      </unit>
+      <unit id="9">
+        <lyric>?!</lyric>
+      </unit>
+      <unit id="10">
+        <lyric>Wow! Maybe we can be friends?</lyric>
+      </unit>
+      <unit id="11">
+        <lyric>…Okay, here goes nothing.</lyric>
+      </unit>
+    </category>
+
+    <category type="otherdead">
+      <unit id="0">
+        <lyric>…. I can’t see your smile anymore.</lyric>
+      </unit>
+      <unit id="1">
+        <lyric>I told you that they are not sheep nor hunting dogs…</lyric>
+      </unit>
+      <unit id="2">
+        <lyric>I, I need to get out of here!</lyric>
+      </unit>
+      <unit id="3">
+        <lyric>I didn’t get my degrees for this!</lyric>
+      </unit>
+      <unit id="4">
+        <lyric>Are, are you dead? Seriously? I don’t know anything!</lyric>
+      </unit>
+      <unit id="5">
+        <lyric>We are all going to die…</lyric>
+      </unit>
+      <unit id="6">
+        <lyric>I might have ended up like that if I were a bit late…</lyric>
+      </unit>
+      <unit id="7">
+        <lyric>…. I thought I could protect this time.</lyric>
+      </unit>
+      <unit id="8">
+        <lyric>I’m not going to die until I meet a handsome guy.</lyric>
+      </unit>
+      <unit id="9">
+        <lyric>!!!</lyric>
+      </unit>
+      <unit id="10">
+        <lyric>I, I know I will end up just like that someday…but this….</lyric>
+      </unit>
+     <unit id="11">
+        <lyric>This is why I don't make promises.</lyric>
+      </unit>
+    </category>
+
+    <category type="otherpanic">
+      <unit id="0">
+        <lyric>Just smile, friend! It will calm you down.</lyric>
+      </unit>
+      <unit id="1">
+        <lyric>Get out of my face, you piece of crap.</lyric>
+      </unit>
+      <unit id="2">
+        <lyric>O, overtime again?</lyric>
+      </unit>
+      <unit id="3">
+        <lyric>Somebody, stop him!</lyric>
+      </unit>
+      <unit id="4">
+        <lyric>Again? I guess I’m the only sane one here.</lyric>
+      </unit>
+      <unit id="5">
+        <lyric>Huh? What’s going on? I feel like I should run.</lyric>
+      </unit>
+      <unit id="6">
+        <lyric>Let’s take care of that idiot before things go out of control.</lyric>
+      </unit>
+      <unit id="7">
+        <lyric>I wish I could calm you down…</lyric>
+      </unit>
+      <unit id="8">
+        <lyric>Wake up! What happened to you?</lyric>
+      </unit>
+      <unit id="9">
+        <lyric>!</lyric>
+      </unit>
+      <unit id="10">
+        <lyric>I can’t believe people can turn like that… I’m not sure I will be fine….</lyric>
+      </unit>
+      <unit id="11">
+        <lyric>This is much more sadder than I expected.</lyric>
+      </unit>
+    </category>
+  </credit>
+
+  
+  
+</root>

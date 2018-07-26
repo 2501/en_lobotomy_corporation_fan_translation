@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+  <step index ="1">
+    <node idx ="0">
+      <text></text>
+      <!--just for timer-->
+    </node>
+
+    <node idx ="1">
+      <text>Hello manager. Welcome to Lobotomy Corporation. Starting today you are responsible for managing abnormalities we have and ensuring we meet the daily energy quota.</text>
+      <!-- 화살표, 하이라이트도 여기에 추가 -->
+    </node>
+
+    <node idx ="2">
+      <text>You can move the camera around with W,A,S,D on your keyboard or by pressing and holding the secondary mouse button, then dragging the mouse.</text>
+    </node>
+
+    <node idx ="3">
+      <text>You can zoom in or out the screen with F,G on your keyboard or by scrolling wheel on the mouse.</text>
+    </node>
+
+    <node idx ="4">
+      <text>Let's try a simple maneuver. When you hover your mouse over an employee, some information about them will be revealed on the right. Please try selecting an employee by pressing the primary mouse button.</text>
+    </node>
+
+    <node idx ="5">
+      <text>Well done. The information displayed in the bar on the right now is related to the selected employee. Some of it might be of importance, such as their state values and E.G.O equipment. Please look in the manual at the &lt;Employees&gt; article for details about what these mean.</text>
+    </node>
+
+    <node idx ="6">
+      <text>The bar on the top left here shows the amount of energy you need to collect for the day. On the top right you can find what missions you are able to clear today.</text>
+    </node>
+
+    <node idx ="7">
+      <text>Energy can be produced when a product called Positive Enkephalin is released by an abnormality, something it might do when it is being worked on. Please select a containment unit that holds an abnormality with the primary mouse button.</text>
+    </node>
+
+    <node idx ="8">
+      <text>Since you have yet to learn any information about this abnormality, you have no way of knowing how well it would respond to any work. In order to find out an employee has to preform work with it. So for now, please select the first type of work availible, Instinct work.</text>
+    </node>
+
+    <node idx ="9">
+      <text>Instinct work is conducted to satisfy an abnormality's primal and physiological desires. An employee who conducts instinct work will increase their Fortitude at the end of the day, which increases their Health Points (HP).</text>
+    </node>
+
+    <node idx ="10">
+      <text>The different types of work you can request you employees to perform on abnormalities have different results. These results are different for each abnormality. The succesrate also varies per type of work and is different per abnormality as well.</text>
+    </node>
+
+    <node idx ="11">
+      <text>It can be quite staining for the fragile mind when someone meets an abnormality. If your employee isn't ready enough, it may make the abnormality seem frightening or disturbing to them. As such, they may react severely towards facing it and it can lower their Sanity Points (SP).</text>
+    </node>
+
+    <node idx ="12">
+      <text>An abnormality releases Enkephalin when employees work with them. We collect this into boxes. Depending on how well the employee performs the work, the abnormality will respond Positive or Negative. When it reacts positively, it will release Positive Enkephalin, which produces a PE-Box.</text>
+    </node>
+
+    <node idx ="13">
+      <text>If however the abnormality reacts negatively, it will release Negative Enkephalin instead and damage the employee. You should keep in mind that when an employee's Health or Sanity drops completely, the work is then forcefully ended.</text>
+    </node>
+
+    <node idx ="14">
+      <text>An abnormality's mood might change depending on the outcome of the work done on it. The outcome can be predicted based on the amount of PE-Boxes we obtained thanks to the work. An abnormality has generally three ways of responding to it: Good, Neutral and Bad. It may use a special ability or try to escape depending on the outcome.</text>
+    </node>
+
+    <node idx ="15">
+      <text>When the work is finished, the energy generated and PE-Boxes are collected. The PE-Boxes are stored and shown in the abnormality's PE-Box counter. Each abnormality produces a unique set of PE-Boxes, which can be used to unlock the abnormality's information details, increase the observation level you have with it or to extract E.G.O Equipment from it.</text>
+    </node>
+
+    <node idx ="16">
+      <text>After work has been performed with it, the same abnormality cannot be worked with for a short period of time. In the mean time, you can send your employees to other abnormalities to perform work with those or let them heal up.</text>
+    </node>
+
+    <node idx ="17">
+      <text>When the regenerator guage fills up completely, employees in the main room will be healed. It will restore both their Health (HP) and Sanity (SP).</text>
+    </node>
+
+    <node idx ="18">
+      <text>Let's try ordering an employee to do a different type of work in a slightly different way. Click on the employee using the primary mouse button</text>
+    </node>
+
+    <node idx ="19">
+      <text>Then use the secondary mouse button on the abnormality containment unit.</text>
+    </node>
+
+    <node idx ="20">
+      <text>We still don't know much about this abnormality, so let's just try ordering the employee to perform Insight work with it.</text>
+    </node>
+
+    <node idx ="21">
+      <text>Insight work is conducted to improve the environment the abnormality resides in. An employee who conducts insight work will increase their Prudence at the end of the day, which increases their Sanity Points (SP).</text>
+    </node>
+
+    <node idx ="22">
+      <text></text>
+    </node>
+
+    <node idx ="23">
+      <text>You now have collected enough of this abnormality's PE-Boxes. It's time to learn about observation. Please press the label bar displayed on top of the containment unit. For now it displays the subject number, but after unlocking its basic information, its name will be displayed here instead.</text>
+    </node>
+
+    <node idx ="24">
+      <text>This is the information we currently have on the said abnormality. As you can see, we don't have much knowledge about it yet as most of it is locked away.</text>
+    </node>
+
+    <node idx ="25">
+      <text>You need to spend some of the unique PE-Boxes we collected from the abnormality in order to gain specific information. Please try to unlock the basic information about the abnormality.</text>
+    </node>
+
+    <node idx ="26">
+      <text>Details concerning the management process of the abnormality are displayed here. If there is something the abnormality doesn't like, it can result in a decrease of its Qliphoth Counter and cause problems in energy production, so make sure you unlock and read these thoroughly. Please try to unlock it now.</text>
+    </node>
+
+    <node idx ="27">
+      <text>How the abnormality's would react towards the different types of work is displayed here. The more prefered the work is, the higher the succesrate will be. The number on the left of it indicates the level of the work an employee has to have with it for the displayed succesrate to count. Please unlock all the work favor guidelines.</text>
+    </node>
+
+    <node idx ="28">
+      <text>Let's proceed. This area here shows what maximum Qliphoth Counter value of the abnormality is. It will also show whether or not the abnormality will escape when the Qliphoth Counter reached 0 as well as how resistant it is to certain types of damage after it has escaped, which is something you would need to know to manage such situation. Please unlock the escape information.</text>
+    </node>
+
+    <node idx ="29">
+      <text>You are now finished with the observation of this abnormality. As you unlock information details, the observation level of the abnormality is increased and will give benefits when working with the abnormality, such as an increased work speed or succesrate.</text>
+    </node>
+
+    <node idx ="30">
+      <text>As you increase the observation level and reach a certain point, you will be capable of extracting E.G.O Equipment from the abnormality at the cost of PE-Boxes. E.G.O Weapons are powerful tools that can help with suppressing abnormalities. Please extract an E.G.O Weapon.</text>
+    </node>
+
+    <node idx ="31">
+      <text>An E.G.O Suit offers an increased resistance to certain types of damage. Some types of damage might come in harder than others depending on what E.G.O Suit the employee uses. Please extract an E.G.O Suit.</text>
+    </node>
+
+    <node idx ="32">
+      <text>Well done. You can see what E.G.O Gift the abnormality has a chance on passing to an employee here. If this area is unlocked, when an employee finishes work with the abnormality, they would have a chance of receiving the E.G.O Gift displayed here. Usually the chances of this happening are slim.</text>
+    </node>
+
+    <node idx ="33">
+      <text>Now lastly, let's check the abnormality's observation records. Please click on Abnormality Story.</text>
+    </node>
+
+    <node idx ="34">
+      <text>You can see the obversation records of the abnormality here. Entries are be added as your observation level increases. Looks like we reviewed everything, so let's close this information window. Please press Leave.</text>
+    </node>
+
+    <node idx ="35">
+      <text>Now that you have unlocked the basic information, some of this information is displayed on top of the containment unit. And since we unlocked the work favors, we now know the abnormality prefers attachment work. Let's try ordering an employee to perform attachment work on it. Click on the abnormality's containment unit.</text>
+    </node>
+
+    <node idx ="36">
+      <text>Some of the basic information is displayed in this window as well, which might be useful. Please try ordering an employee to do attachment work.</text>
+    </node>
+
+    <node idx ="37">
+      <text>Since you unlocked the favor guide for attachment work, the succesrate the employee has and amount of time they need to perform the work is displayed. You can also see the information details of the employee when you hover your mouse over them. This allows you to make mindful decisions when giving the work orders. Please select an employee to do the work.</text>
+    </node>
+
+    <node idx ="38">
+      <text>Let me warn you about one more thing. When your employees enter a containment unit to do work with an abnormality, the Qliphoth Meltdown guage is filled up by one block.</text>
+    </node>
+
+    <node idx ="39">
+      <text>When the guage is filled up completely, a Qliphoth Meltdown will occur in the facility. The number next to the guage shows how many containment units will be affected. The affected units themselves will have a Meltdown Alert displayed around them.</text>
+    </node>
+
+    <node idx ="40">
+      <text>When the Qliphoth Meltdown happens, the containment unit has beside the alert indication a timer displayed with a bar on top of it. Normally this would slowly drop, but when the abnormality inside the containment unit is being worked on at that time, the meltdown timer is put on hold till after it is finished.</text>
+    </node>
+
+    <node idx ="41">
+      <text>The meltdown can be taken care of by performing work with the abnormality of the affected containment unit. If the meltdown is not dismissed within the time limit, energy will be lost and the Qliphoth Counter of the unit will drop to 0, so please try to prevent that. You can see more detailed information about this in the manual at the &lt;Repeated Work Penalty&gt; article.</text>
+    </node>
+
+    <node idx ="42">
+      <text>Whenever a Qliphoth meltdown occurs in the facility, the Meltdown Level increases. The higher the meltdown level is, the more containment units that will be affected by the Qliphoth Meltdown. There is also a chance of Ordeals appearing instead of a meltdown happening. If you wish to know what Ordeals are, please consult the manual and look at the relevant article.</text>
+    </node>
+
+    <node idx ="43">
+      <text>I think I told you almost everything about managing abnormalities. If you wish to read more about it, please look it up in the manual. You can consult it at any time during management by pressing F1. Now finish the management of this day by pressing the Complete button at the top.</text>
+    </node>
+
+    <node idx ="44">
+      <text>After finishing management of the day, the employees who performed work will have their state values increased according to the types of work they performed. After a state value passes a certain point, it's level will increase. The level of the employee can also increase after having enough total value points. The employees that achieved this are considered promoted and shown in the list below.</text>
+    </node>
+
+    <node idx ="45">
+      <text>You will also receive LOB as a reward for your work according to your management rank. You can increase your management rank by letting more employees survive the day. The higher your management rank, the more LOB you receive. If however there is an abnormality on the loose when you finish the management of the day, you will lose some of the LOB you were about to earn.</text>
+    </node>
+
+    <node idx ="46">
+      <text>You can see which missions you succesfully managed to complete on this day in the list here. When you succesfully complete a mission, you can conduct research at the start of the next day.</text>
+    </node>
+
+    <node idx ="47">
+      <text>After finishing management, you can choose to go to the next day or retry this day. Dead employees and destroyed E.G.O Equipment are recovered when you choose retry, but you will lose observations, PE-Boxes, extracted E.G.O Equipment and the promotions employees received for their work on this day.</text>
+    </node>
+
+    <node idx ="48">
+      <text>Now please press Skip to Next Day. I will tell you about deployment next.</text>
+    </node>
+
+    <node idx ="49">
+      <text></text>
+    </node>
+  </step>
+
+  <step index ="2">
+    <node idx ="0">
+      <!-- for timer -->
+    </node>
+
+    <node idx ="1">
+      <text>When you succesfully manage to clear a mission on the previous day, you can conduct research. Purposals for research are then displayed at the start of the day. You can select one and conduct the research by clicking and dragging it to the slot in the lower right, then hitting OK. Please try to do so with this example research purposal.</text>
+    </node>
+
+    <node idx ="2">
+      <text></text>
+    </node>
+
+    <node idx ="3">
+      <text>Do you recall how much LOB you received during management the other day? You can see the total amount of LOB you have left over here. During this tutorial phase, I will show you how you can spend your LOB, how you can hire new employees and how you can set them up for deployment.</text>
+    </node>
+
+    <node idx ="4">
+      <text>Let's start with hiring new employees. Try pressing the Hire button.</text>
+    </node>
+
+    <node idx ="5">
+      <text>Here you can see the information and looks of your soon to be new employee. You can increase one of the four state values before hiring them by clicking the arrow button next to it. If for example you wish to hire an employee that has more HP, you can increase its Fortitude. Please try doing this.</text>
+    </node>
+
+    <node idx ="6">
+      <text>As you increase the state values of an employee before hiring, the amount of LOB required to hire them will increase as well. The higher the values, the more LOB it will cost. You may need to review how much LOB you are willing to spend on one employee as well as how much you have left after ward before finalizing your decisions.</text>
+    </node>
+
+    <node idx ="7">
+      <text>Once you finish setting the employee the way you want it, you can press the Hire button again to hire the employee. Please do so now.</text>
+    </node>
+
+    <node idx ="8">
+      <text>You now have hired a new employee. Let's take a look at it's status and information. Please click on the employee.</text>
+    </node>
+
+    <node idx ="9">
+      <text>Just like during management, the information displayed about the employee here is the same. If you think your employee could use an increase in a state value, you can still do so by reinforcing the employee. Please press on the Reinforcement of Employee button.</text>
+    </node>
+
+    <node idx ="10">
+      <text>And just like when hiring a new employee, you can increase a state value here by pressing the arrow next to it. Like before it will cost LOB when you do this, so keep that in mind. Try increasing the prudence by 1.</text>
+    </node>
+
+    <node idx ="11">
+      <text>Now, to finish the reinforcement, press confirm.</text>
+    </node>
+
+    <node idx ="12">
+      <text>Your new employee seems ready to be dispatched. Let's try to do this. Click and drag the employee with the primary mouse button over to one of the slots in the Central Command Team.</text>
+    </node>
+
+    <node idx ="13">
+      <text>Well done. Now lets give to it some equipment. Remember that we extracted some E.G.O Equipment from the abnormality the previous day? We can give those to the employees. Please press the E.G.O List button.</text>
+    </node>
+
+    <node idx ="14">
+      <text>Currently displayed in the center is the list of available E.G.O Weapons you collected and some information about them. Now click on one of the employees you have which shown in the list on the right to select it.</text>
+    </node>
+
+    <node idx ="15">
+      <text>Good. You can now equip E.G.O Weapon to the selected employee by pressing one of the empty slots under Equippability.</text>
+    </node>
+
+    <node idx ="16">
+      <text>Now let's look at the list of E.G.O Suits we have available. Please press on the E.G.O Suit tab.</text>
+    </node>
+
+    <node idx ="17">
+      <text>Like before, you can equip one of the available E.G.O Suits by pressing one of the empty slots.</text>
+    </node>
+
+    <node idx ="18">
+      <text>Please try equipping the other employees with both an E.G.O Weapon and E.G.O Suit.</text>
+    </node>
+
+    <node idx ="19">
+      <text>Excellent. Now lets head back to the deployment screen. Please press Leave.</text>
+    </node>
+
+    <node idx ="20">
+      <text>Looks like there is a Mission here that you can clear on this day. You don't nessecarily have to clear it, but it is recommended since it would allow you to conduct research the next day.</text>
+    </node>
+
+    <node idx ="21">
+      <text>One more thing. If you have any questions before starting the management process again, you can review the manual by hitting the button on top. You can also view the manual from the menu displayed when pressing ESC.</text>
+    </node>
+
+    <node idx ="22">
+      <text>Next I will tell you briefly how to deal with emergiency situations that can occur during management. When you're ready for that, please press the Start button.</text>
+    </node>
+  </step>
+
+  <step index ="3">
+    <node idx ="0">
+      <!-- for timer -->
+    </node>
+
+    <node idx ="1">
+      <text>Let me explain to you how to deal with emergiency situations. The number displayed here is called a Qliphoth Counter. It will decrease when you do something that violates the guidelines displayed at Managerial Works on the abnormality's information screen or fail to avert the Qliphoth Meltdown in time.</text>
+    </node>
+
+    <node idx ="2">
+      <text>Are you wondering now what would happen when the Qliphoth Counter of an abnormality hits 0? Let's find out. Please select the containment unit and order an employee to do Repression work.</text>
+    </node>
+
+    <node idx ="3">
+      <text></text>
+    </node>
+
+    <node idx ="4">
+      <text></text>
+    </node>
+
+    <node idx ="5">
+      <text></text>
+    </node>
+
+    <node idx ="6">
+      <text>When an abnormality's Qliphoth Counter hits 0, the abnormality will either escape or use a special ability. This can lead to inconvenient situations. This particular abnormality happens to escape under this condition. Employees can't work with it when it is escaped, so we'll need to Suppress it. Please select the escaped abnormality.</text>
+    </node>
+
+    <node idx ="7">
+      <text>Abnormalities have four different types of damage they can inflict on employees. RED which decreases Health (HP), WHITE which decreases Sanity (SP), BLACK which decreases both HP and SP and PALE, which decreases Health by percentages based on the target's maximum HP. Employees equipped with E.G.O Weapons can also utilize one of these 4 damage types.</text>
+    </node>
+
+    <node idx ="8">
+      <text>Abnormalities also have a set of defenses based on the damage types. Some type of damage might be weaker while others may be fatal to them. You can suppress an abnormality more effectively when your employees attack using the type of damage the abnormality is weak against. </text>
+    </node>
+
+    <node idx ="9">
+      <text>This abnormality deals RED damage and is weak to WHITE damage. Conveniently, our employees are all equipped with E.G.O Suits that offer resistance against RED damage and carry E.G.O Weapons that deal WHITE damage.</text>
+    </node>
+
+    <node idx ="10">
+      <text>One more thing, if the employee carries a E.G.O Weapon which E.G.O Level is higher than the abnormality's Risk Level, they will deal more damage to the abnormality and take less damage from it. In the current situation, the E.G.O Level and Abnormality's Risk Level are the same, so currently this does not apply.</text>
+    </node>
+
+    <node idx ="11">
+      <text>When the suppression window is displayed, you can see what type of damage an employee will deal on the target before sending an order and when you hover your mouse over the employee, you will be able to see their defenses against the four types of damage abnormalities can inflict. Now please, choose an employee to conduct the suppression of this escaped abnormality.</text>
+    </node>
+
+    <node idx ="12">
+      <text></text>
+    </node>
+
+    <node idx ="13">
+      <text>Meeting an abnormality, especially when it is on the loose can be quite shocking and frightening for your employees. Just like when they enter a containment unit to do work on an abnormality, it could damage their Sanity. If the Risk Level of the abnormality is High compared to the employee's Level, it will cause a greater stain on their mind and lower their SP.</text>
+    </node>
+
+    <node idx ="14">
+      <text>It looks like this abnormality might be a bit too strong to suppress for just one employee. Be careful by the way, if an employee dies, the E.G.O Equipment they were using will be lost as well. Let's order the rest of the employees to help suppress this abnormality. Please select the other two employees by clicking and dragging with the primary mouse button.</text>
+    </node>
+
+    <node idx ="15">
+      <text>Now click on the abnormality with the secondary mouse button to immediately order them to suppress it. It's a lot safer and easier to give orders such as these when you Pauze. You can Pauze by pressing the icon in the lower left, or by pressing the Space Bar on your keyboard.</text>
+    </node>
+
+    <node idx ="16">
+      <text></text>
+    </node>
+
+    <node idx ="17">
+      <text>You did well handling this situation. Now let’s move these employees to the main room in the department. Select them all by clicking and dragging with the primary mouse button.</text>
+    </node>
+
+    <node idx ="18">
+      <text>While they’re selected click the main room with secondary mouse button. You can use this method to move them to other places as well by the way, such as hallways and other departments.</text>
+    </node>
+
+    <node idx ="19">
+      <text></text>
+    </node>
+
+    <node idx ="20">
+      <text></text>
+    </node>
+
+    <node idx ="21">
+      <text>When an employee has lost all of their sanity points (SP) they will panic. A panicked employee will show different behavior from a regular one and cannot be controlled. What they will do depends on their highest level state value. If you wish to learn more about this please refer to the &lt;Employee Panic&gt; article in the manual. Please click the panicked employee with primary mouse button.</text>
+    </node>
+
+    <node idx ="22">
+      <text>Employees can be recovered from their panic when their SP is restored to 100%. You can restore their SP by attacking the employee with WHITE or BLACK damage dealing weapons. Conveniently, all the available employees are equipped with weapons that deal WHITE damage. Please select all available employees and order them to suppress the panicked employees.</text>
+    </node>
+
+    <node idx ="23">
+      <text></text>
+    </node>
+
+    <node idx ="24">
+      <text>That was excellent. Well done. If you ever get into a situation you'd wish to redo, such as reversing the damage that was done, you can do so by pressing ESC and click Return to Memory Repository or by clicking on Retry. When you choose Return to Memory Repository, you can go back to the last day the Memory was Imprinted into the Repository. When you do so, acquired E.G.O Equipment and abnormality observation details will remain with you. Retry doesn’t do that, but it does let you start from the current day’s deployment process.</text>
+    </node>
+
+    <node idx ="25">
+      <text>Now let's call all employees back to the main room of the department. You can do this by selecting all of them and using secondary click on the desired location, but when you just want them all back in the main room, there is an easier way. Next to the regenerator guage there is a Return button. You can use this button to call back the employees assigned to the department to the respective main room. Please try doing so.</text>
+    </node>
+
+    <node idx ="26">
+      <text></text>
+    </node>
+
+    <node idx ="27">
+      <text>This wraps up our basic manager education and training sessions. If you have any questions during the management process, please refer to the manual by pressing F1. If you want to know what certain aspects of the user interface mean, hover your mouse over them and take a look at the tool tip displayed. Manager, I wish you luck and good health on the job.</text>
+    </node>
+  </step>
+
+</root>
+<!-- 씬 분리할지 안할지 미정
+이전 DAY에서 미션을 완료했다면 지금처럼 연구를 진행할 수 있습니다. 연구 제안서를 마우스 좌클릭으로 집은 후 드래그하여 넣어주세요.
+지난 관리에서 획득한 LOB이 보이시나요? 현재 보유한 LOB은 이곳에서 확인할 수 있습니다. 이번에는 LOB을 사용하여 직원을 고용하고 배치하는 방법을 가르쳐드리겠습니다.
+고용 버튼을 누르세요.
+고용 시 직원의 능력치를 올릴 수 있습니다. 직원의 용기 등급을 1 올려주세요.
+직원의 능력치를 올릴 경우 고용 비용이 높아집니다. 보유한 LOB을 고려하며 직원을 고용해주세요.
+직원의 설정이 완료되었으면 고용 버튼을 다시 한번 누르세요.
+새로운 직원이 고용되었습니다. 고용된 직원의 정보를 확인해볼까요? 직원을 클릭해주세요
+관리 파트 때와 마찬가지로 직원을 클릭하여 직원의 정보를 확인할 수 있습니다. 직원의 능력치 중 부족한 능력치가 있을 경우 직원 강화를 통해 능력치를 올릴 수 있습니다. 직원 강화를 클릭해주세요.
+직원 강화도 고용 때와 마찬가지로 원하는 능력치의 화살표를 눌러 해당 능력치를 올릴 수 있습니다. 직원의 지혜 등급을 1 올려주세요.
+강화가 완료되었으면 승인 버튼을 누르세요.
+고용된 직원을 마우스 왼쪽 클릭으로 선택한 후 드래그하여 지휘팀에 배치하세요.
+좋아요. 이제 직원들에게 지난 관리에서 제조한 E.GO 장비를 장착시켜보죠. E.G.O LIST 버튼을 눌러주세요.
+첫번째 직원을 선택해주세요.
+E.G.O 장착 목록의 빈칸을 눌러 직원에게 E.G.O WEAPON을 장착시키세요.
+E.G.O SUIT 탭을 눌러 E.G.O SUIT의 목록도 확인해보세요.
+마찬가지로 E.G.O 장착 목록의 빈칸을 눌러 직원에게 E.G.O SUIT를 장착시키세요.
+이제 나머지 직원에게도 E.G.O를 장비시켜주세요.
+잘하셨어요. 다시 배치파트로 돌아가죠. 나가기 버튼을 눌러주세요.
+이번 DAY에서 진행할 수 있는 미션입니다. 미션을 완료하면 연구를 진행할 수 있으니 가능한 미션을 꼭 진행해주세요.
+마지막으로 관리 시작 전 궁금한 점이 있다면 이 곳을 눌러 메뉴얼을 확인해주세요. 이제 관리를 시작하도록 하겠습니다. 관리 시작 버튼을 눌러주세요.
+-->

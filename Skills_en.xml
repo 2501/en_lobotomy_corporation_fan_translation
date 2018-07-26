@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+  <skill id="1" name="Instinct" called="Instinct work"/>
+  <skill id="2" name="Insight" called="Insight work"/>
+  <skill id="3" name="Attachment" called="Attachment work"/>
+  <skill id="4" name="Repression" called="Repression work"/>
+  
+  <!-- 도구형 환상체 -->
+  <skill id="5" name="UseTool" called="Use Tool"/>
+  <skill id="6" name="Confess" called="Confess work"/>
+  
+  <!-- 연주 -->
+  <skill id="7" name="Performance" called="Performance work"/>
+</skills>
