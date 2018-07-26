@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localize>
+
+  <text id="boss_seed">Seed of Light Germination</text>
+
+
+  <text id="boss_recive_mission_up_txt">Manifestation of Clipa by Disruption of Sephirah</text>
+  <text id="boss_recive_mission_down_txt">Sephirah Core Suppression Required</text>
+
+  <text id="boss_tutorial_0">The button won’t show up if all Sephirah episodes aren’t cleared yet.</text>
+  <text id="boss_tutorial_1">“Conditions Not Met” button will show up if you received Boss Battle mission but didn’t satisfy its conditions. You need to satisfy all conditions below to activate the Boss Battle button.</text>
+  <text id="boss_tutorial_2">When all conditions for Boss Battle are satisfied, the Boss Battle button at the top left will be activated.</text>
+  <text id="boss_tutorial_3">If you click on the Boss Battle button, employees in that department will be unregistered and conditions to clear the Boss Battle and handicaps will be shown.</text>
+  <text id="boss_tutorial_4">After clicking on the Boss Battle button, the previous “Start Management” button will be changed to “Suppress Core” button.</text>
+
+  <text id="boss_common_clear">Complete Synchronization</text>
+  <text id="boss_common_qliphoth">Relevant department won’t be influenced by Qliphoth Meltdown.</text>
+  
+  <!--Malkut-->
+  <text id="boss_malkut_clear">Requires Qliphtoth Meltdown Level 6 + Energy Refine.</text>
+  <text id="boss_malkut_condition">Command system error is detected.</text>
+
+  <text id="boss_malkut_reward_0">Increase clear reward LOB per day</text>
+  <text id="boss_malkut_reward_1">Employees move faster.</text>
+
+  <text id="boss_malkut_default_0">This is what you call an uncontrollable situation, manager.</text>
+  <text id="boss_malkut_default_1">Everything’s all jumbled up, messed up, flustered... hahaha.</text>
+  <text id="boss_malkut_default_2">Unpredictable, isn't it?</text>
+
+  <text id="boss_malkut_overload1_0">I could have done it.</text>
+  <text id="boss_malkut_overload1_1">I only wanted to help.</text>
+
+  <text id="boss_malkut_overload2_0">I knew I didn't have authority over this experiment, and that’s why I was so nervous.</text>
+  <text id="boss_malkut_overload2_1">Make sure you feel this horrible sense of helplessness.</text>
+
+  <text id="boss_malkut_overload3_0">Please watch me, manager! Let me take care of this situation!</text>
+  <text id="boss_malkut_overload3_1">I have lots of things to do, just take a look at my notebook, it’s all worn out....</text>
+
+  <text id="boss_malkut_overload4_0">Can't you hear the sound of it struggling? As if to say it cannot fall asleep like this.</text>
+  <text id="boss_malkut_overload4_1">Can I get a compliment now? So I feel proud.</text>
+
+  <text id="boss_malkut_overload5_0">- It's really not that hard, looking back.</text>
+  <text id="boss_malkut_overload5_1">I understand now why looking down on someone can be quite fun, manager...</text>
+
+  <text id="boss_malkut_finish_0">Oh, I couldn't do it... </text>
+
+  <text id="boss_malkut_story_finish">'Will To Stand Up Straight'</text>
+
+
+  <!--Yesod-->
+  <text id="boss_yesod_clear">Requires Qliphtoth Meltdown Level 6 + Energy Refine.</text>
+  <text id="boss_yesod_condition">Information system error is detected.</text>
+
+  <text id="boss_yesod_reward_0">Increase PE-BOX gain by 25%</text>
+
+  <text id="boss_yesod_default_0">What was I looking at?</text>
+  <text id="boss_yesod_default_1">This impenetrable darkness is inexplicably lonely.</text>
+  <text id="boss_yesod_default_2">You can't see anything properly.</text>
+
+  <text id="boss_yesod_overload1_0">What did we do wrong? </text>
+  <text id="boss_yesod_overload1_1">Are we not even able to fall into despair?</text>
+
+  <text id="boss_yesod_overload2_0">To tell you the truth, I didn’t want to see any more deaths.</text>
+  <text id="boss_yesod_overload2_1">We created monsters that were not meant for this world. This sin can never be forgiven.</text>
+
+  <text id="boss_yesod_overload3_0">You should know that all the information you just mindlessly read was from someone's dire sacrifice.</text>
+  <text id="boss_yesod_overload3_1">I'm from the Information Team. I take a great deal of pride in my team for obtaining information and deleting it as ordered.</text>
+
+  <text id="boss_yesod_overload4_0">You’re unfit to be a manager since you can't even remember the rules.</text>
+  <text id="boss_yesod_overload4_1">Didn’t you see my rotting flesh, oozing with pus? </text>
+
+  <text id="boss_yesod_overload5_0">I have been in despair for such a long time.</text>
+  <text id="boss_yesod_overload5_1">I pretended that everything was okay, but in reality, it wasn't. I was dying in the inside.</text>
+
+  <text id="boss_yesod_finish_0">I was the one who was blind to what was in front of me... </text>
+
+  <text id="boss_yesod_story_finish">'Distinctive Reasoning'</text>
+
+
+  <!--Netzach-->
+  <text id="boss_netzach_clear">Requires Qliphtoth Meltdown Level 6 + Energy Refine.</text>
+  <text id="boss_netzach_condition">Agent recover system error is detected.</text>
+
+  <text id="boss_netzach_reward_0">The regenerator will heal employees, including those in hallways.(Efficiency of 50%.)</text>
+
+  <text id="boss_netzach_default_0">No one is safe here. The Security Team is just for show.</text>
+  <text id="boss_netzach_default_1">It’s no use to extend unwanted death because what's there at the end?</text>
+
+  <text id="boss_netzach_overload1_0">Why do I have to wake up and do things I don't want to do today?</text>
+  <text id="boss_netzach_overload1_1">One moment I woke up again in this place, and I met you, who I never wanted to see again...</text>
+
+  <text id="boss_netzach_overload2_0">You weren’t the one I wanted to put my trust into.</text>
+  <text id="boss_netzach_overload2_1">This place can be never safe.</text>
+
+  <text id="boss_netzach_overload3_0">Abandon your sense of guilt. They couldn’t be saved anyway. </text>
+  <text id="boss_netzach_overload3_1">Since this place is always horrible, all that can be hoped for is a blissful end.</text>
+
+  <text id="boss_netzach_overload4_0">I never wished to be in this position, ever.</text>
+  <text id="boss_netzach_overload4_1">In the end, the hope that somebody can live thanks to me is gone.</text>
+
+  <text id="boss_netzach_overload5_0">Leave me alone, that’s what you’re best at.</text>
+  <text id="boss_netzach_overload5_1">I want to close my eyes and enjoy a good sleep just once.</text>
+
+  <text id="boss_netzach_finish_0">I stopped breathing, but if life calls me once again...</text>
+
+  <text id="boss_netzach_story_finish">'Courageous Fortitude'</text>
+
+
+  <!--Hod-->
+  <text id="boss_hod_clear">Requires Qliphtoth Meltdown Level 6 + Energy Refine.</text>
+  <text id="boss_hod_condition">Agent status error is detected.</text>
+
+  <text id="boss_hod_reward_0">New Employee Grade 3.</text>
+
+  <text id="boss_hod_default_0">Well, shall we partake in an employee educational video together?</text>
+  <text id="boss_hod_default_1">Please do it right! All the employees will see this educational video and refer to it.</text>
+  <text id="boss_hod_default_2">Ok, everyone. Look here and say cheese!</text>
+
+  <text id="boss_hod_overload1_0">I want to assist and help as much as I can here.</text>
+  <text id="boss_hod_overload1_1">I wish I was needed by everyone.</text>
+
+  <text id="boss_hod_overload2_0">Why does nobody understand my kindness?</text>
+  <text id="boss_hod_overload2_1">I'm the only one who cares about them, but why do they hate me?</text>
+
+  <text id="boss_hod_overload3_0">Manager, you're not mad at me, right? Please don’t be angry, I'm a good Sephirah.</text>
+  <text id="boss_hod_overload3_1">The number of surviving employees depends on my efforts. But does anyone thank me? No.</text>
+
+  <text id="boss_hod_overload4_0">Employees are suffering! Things aren't working out without me.</text>
+  <text id="boss_hod_overload4_1">Where's Tiffany? It’s past her counseling appointment. Why isn’t she here?</text>
+
+  <text id="boss_hod_overload5_0">Forgive me, manager. If you can’t forgive, then please forget.</text>
+  <text id="boss_hod_overload5_1">You would all be dead without me! Every last one of you!</text>
+
+  <text id="boss_hod_finish_0">Maybe I wasn’t a good person from the beginning...</text>
+
+  <text id="boss_hod_story_finish">'The Hope to be a Better Person'</text>
+
+  <!--Tipereth-->
+  <text id="boss_tipererth1_clear">Requires Qliphtoth Meltdown Level 10</text>
+  <text id="boss_tipererth1_condition">Qliphoth Meltdown is detected.</text>
+  
+  <text id="boss_tipererth1_reward_0">Increase base number of bullets by 30% + Activate P Property Shield</text>
+  <text id="boss_tipererth1_default_0">All containment units are under my control.</text>
+  <text id="boss_tipererth1_default_1">This song, Tiphereth's dirge, is for Tiphereth.</text>
+  <text id="boss_tipererth1_default_2">I hope this song will appease our souls.</text>
+
+  <text id="boss_tipererth1_overload1_0">We are two, but we are one. Do you know what this means?</text>
+
+
+  <text id="boss_tipererth1_overload2_0">The Central Team is quite big. Everyone has their hands full.</text>
+
+
+  <text id="boss_tipererth1_overload3_0">Is it time for another replacement? Time to go to storage...</text>
+
+
+  <text id="boss_tipererth1_overload4_0">Did Tiphereth get to what they wanted? No, what did you really want from the beginning?</text>
+
+
+  <text id="boss_tipererth1_overload5_0">Don't sit there looking at me like that, with that forlorn smile, I have already abandoned you.</text>
+
+
+  <text id="boss_tipererth1_overload6_0">I wish to walk with you again with the sound of the waves in the background.</text>
+
+
+  <text id="boss_tipererth1_overload7_0">If the song you are listening to now is a dirge...</text>
+
+
+  <text id="boss_tipererth1_overload8_0">Then could you show when Tiphereth returns how I've grown and strong I've been...?</text>
+
+
+  <text id="boss_tipererth1_overload9_0">You said there will only be happiness next time...</text>
+
+
+  <text id="boss_tipererth1_finish_0">Was all of this worth it?</text>
+
+  <text id="boss_tipererth1_story_finish">"Expectation of the Meaning of Existence" </text>
+
+  <!--chesed-->
+  <text id="boss_chesed_clear">Requires Qliphtoth Meltdown Level 8 + Energy Refine.</text>
+  <text id="boss_chesed_condition">Anomaly detected while receiving damage.</text>
+
+  <text id="boss_chesed_reward_0">Recover with a 25% chance before an employee dies or panic (Once a day per employee)</text>
+
+  <text id="boss_chesed_default_0">You're very moody today.</text>
+  <text id="boss_chesed_default_1">Let my employees rest in peace. </text>
+  <text id="boss_chesed_default_2">Feel this vast pain...</text>
+
+  <text id="boss_chesed_overload1_0">Rain is falling. These are the tears of the employees. It will never stop. </text>
+
+
+  <text id="boss_chesed_overload2_0">Pour the cold coffee down the sink, we need a new teacup.</text>
+
+
+  <text id="boss_chesed_overload3_0">Do I still have a conscience left inside of me?</text>
+
+
+  <text id="boss_chesed_overload4_0">I envy you, manager. You can even forget about your most shameful moments.</text>
+
+
+  <text id="boss_chesed_overload5_0">I shall commit sin and follow the words when Angela comes... There's no fig leaf left to cover my shame.</text>
+
+
+  <text id="boss_chesed_overload6_0">It’s too late to repent.</text>
+
+
+  <text id="boss_chesed_overload7_0">My friends are all gone, and I was waiting by myself for the dawn in the darkness.</text>
+  <text id="boss_chesed_overload7_1">I didn’t want to open my eyes again. I yearned to fall to the pit of hell, carrying my sins.</text>
+
+  <text id="boss_chesed_overload8_0">Is my world... finally breaking?</text>
+
+
+  <text id="boss_chesed_story_finish">"Someone Faithful and Trustworthy"  </text>
+
+
+  <!--gebura-->
+  <text id="boss_geburah_clear">Gebura’s Core HP 0</text>
+  <text id="boss_geburah_condition">The red mist is returning.</text>
+
+  <text id="boss_geburah_reward_0">Maximum number of EGO production increased by 1 (up to 5 max)</text>
+  
+  <text id="boss_geburah_default_0">I want to destroy everything here.</text>
+  <text id="boss_geburah_default_1">What is there left for me; the one who failed to protect?</text>
+  <text id="boss_geburah_default_2">How dare you think you can stop me, weaklings?</text>
+  <text id="boss_geburah_default_3">Let me show you how to handle the E.G.Os.</text>
+  
+  <text id="boss_geburah_overload1_0">I have returned, red mist that has walked out from pain.</text>
+  <text id="boss_geburah_overload1_1">I'm not weak like I used to be. I can now replace any body part and recover from any damage.</text>
+
+  <text id="boss_geburah_overload2_0">There were things that cannot be forgotten.</text>
+  <text id="boss_geburah_overload2_1">Toxic hatred destroys me, and makes me open my eyes again. </text>
+
+  <text id="boss_geburah_overload3_0">Some things can stay warm even through the cold.</text>
+  <text id="boss_geburah_overload3_1">Monsters kill people. There is no end to this sin, and I have descended to bring upon the reckoning. </text>
+
+  <text id="boss_geburah_overload4_0">The path is too far, I have too far to go. My heart is pulsing with anger, but I have to keep going.</text>
+
+
+  <text id="boss_geburah_overload5_0">	I can feel myself breaking... I will never lay down my sword even if I were to turn to dust...</text>
+
+
+  
+
+
+  <text id="boss_geburah_story_finish">"Courage to Defend" </text>
+
+  <text id="boss_geburah_battle_0">Red Eyes</text>
+  <text id="boss_geburah_battle_1">Penitence</text>
+  <text id="boss_geburah_battle_2">Break Down</text>
+  <text id="boss_geburah_battle_3">The Burrowing Heaven</text>
+  <text id="boss_geburah_battle_4">Open the Road of Gold.</text>
+  <text id="boss_geburah_battle_5">There will be Nothing</text>
+  <text id="boss_geburah_battle_6">Slash out</text>
+  <text id="boss_geburah_battle_7">From the Beginning.</text>
+  <text id="boss_geburah_battle_8">The Movement of Calm.</text>
+  <text id="boss_geburah_battle_9">legato</text>
+  <text id="boss_geburah_battle_10">Let's go Partner</text>
+  <text id="boss_geburah_battle_11">Bloody Fog only</text>
+  <text id="boss_geburah_battle_12">It's not enough.</text>
+  <text id="boss_geburah_battle_13">I did not doing anything.</text>
+  <text id="boss_geburah_battle_14">Black Smile</text>
+  <text id="boss_geburah_battle_15">Eat it.</text>
+  <text id="boss_geburah_battle_16">Justitia</text>
+  <text id="boss_geburah_battle_17">Judgment</text>
+  <text id="boss_geburah_battle_18">Let's see the end.</text>
+  <text id="boss_geburah_battle_19">The end is here</text>
+  <text id="boss_geburah_battle_20">Tear in front of my eyes.</text>
+  <text id="boss_geburah_battle_21">Get out</text>
+  <text id="boss_geburah_battle_22">Do not stop me</text>
+  <text id="boss_geburah_battle_23">It's weak</text>
+  <text id="boss_geburah_battle_24">Let's Start Hunt.</text>
+  <text id="boss_geburah_battle_25">Open the Road of King.</text>
+  <text id="boss_geburah_battle_26">Is it not as good as before?</text>
+  <text id="boss_geburah_battle_27">I'll break it down</text>
+  <text id="boss_geburah_battle_28">I'll kill All of it</text>
+  <text id="boss_geburah_battle_29">I can not stop</text>
+  <text id="boss_geburah_battle_30">It's Not Enough</text>
+  <text id="boss_geburah_battle_31">After all, with this power, I can not do anything.</text>
+
+
+  <!-- Binah-->
+
+  <text id="boss_binah_clear">Binah's core incapacitation</text>
+  <text id="boss_binah_condition">An arbiter awakes.</text>
+
+  <text id="boss_binah_reward_0">E.G.O is not destroyed even when the wearer is dead.</text>
+
+  <text id="boss_binah_default_0">Can you stop me with your own power now?</text>
+  <text id="boss_binah_default_1">Go ahead and stop me without her power.</text>
+  <text id="boss_binah_default_2">This brings me back my senses.</text>
+  <text id="boss_binah_default_3">This body can do this. Interesting, yet tenuous.</text>
+
+  <text id="boss_binah_overload1_0">This body has too much limits.</text>
+  <text id="boss_binah_overload1_1">If we knew what power this place holds, we could have used it.</text>
+  <text id="boss_binah_overload1_2">You are being reckless again. You deceived the head.</text>
+
+  <text id="boss_binah_overload2_0">If you can’t defeat me, you will be crushed by the head.</text>
+  <text id="boss_binah_overload2_1">The cycle may be cut off, but it will return.</text>
+  <text id="boss_binah_overload2_2">You can’t escape us.</text>
+  <text id="boss_binah_overload2_3">What do you think you can do after escaping this prison?</text>
+
+  <text id="boss_binah_finish_0">You have proven yourself. I will watch you.</text>
+
+  <text id="boss_binah_story_finish"> 'The eye facing the fear, cutting the cycle'</text>
+
+  <text id="boss_binah_battle_0">Scatter</text>
+  <text id="boss_binah_battle_1">Heed my words, fairies.</text>
+  <text id="boss_binah_battle_2">Analyze. Compress. Spread.</text>
+  <text id="boss_binah_battle_3">Do not stand before me.</text>
+  <text id="boss_binah_battle_4">Rise.</text>
+  <text id="boss_binah_battle_5">Fall.</text>
+  <text id="boss_binah_battle_6">Resonate.</text>
+  <text id="boss_binah_battle_7">Condensing the Key</text>
+  <text id="boss_binah_battle_8">Focus</text>
+  <text id="boss_binah_battle_9">Open</text>
+  <text id="boss_binah_battle_10">Run rampant.</text>
+  <text id="boss_binah_battle_11">Come out.</text>
+  <text id="boss_binah_battle_12">Crumble.</text>
+  <text id="boss_binah_battle_13">I will open the door.</text>
+  <text id="boss_binah_battle_14">Let us sink here together.</text>
+  <text id="boss_binah_battle_15">Slumber is upon me.</text>
+  <text id="boss_binah_battle_16">I cannot bend.</text>
+  <text id="boss_binah_battle_17">Weakening.</text>
+  <text id="boss_binah_battle_18">You missed the chance.</text>
+  <text id="boss_binah_battle_19">The waves shall rise again.</text>
+  <text id="boss_binah_battle_20">You cannot stop the stream alone.</text>
+  <text id="boss_binah_battle_21">Excellent.</text>
+  <text id="boss_binah_battle_22">It is your immaturity. </text>
+  <text id="boss_binah_battle_23">You cannot stop the tide with hands.</text>
+  <text id="boss_binah_battle_24">Try to stop me, with your own power.</text>
+
+  <text id="overload_golden">Golden Meltdown</text>
+  <text id="overload_blackfog">Dark Meltdownk</text>
+  <text id="overload_wave">Meltdown of Waves</text>
+  <text id="overload_column">Meltdown of Pillars</text>
+
+  <!-- hokma-->
+
+  <text id="boss_chokhmah_clear">Reached Qliphoth Meltdown maximum gauge and energy refinement.</text>
+  <text id="boss_chokhmah_condition">Anomaly detected in the flow of time.</text>
+
+  <text id="boss_chokhmah_reward_0">Every growth value limit is lifted up to 130. </text>
+  <text id="boss_chokhmah_reward_1">When hiring an employee, you can set their growth values 130.</text>
+
+  <text id="boss_chokhmah_default_0">Do we really need to change?</text>
+  <text id="boss_chokhmah_default_1">Everyone who likes you is by your side now.</text>
+  <text id="boss_chokhmah_default_2">We will lose no one. It will only repeat.</text>
+
+  <text id="boss_chokhmah_battle_0">Do not meaninglessly let the time flow.</text>
+  <text id="boss_chokhmah_battle_1">We must cherish each moment.</text>
+
+  <text id="boss_chokhmah_battle_2">A price follows a silence.</text>
+  <text id="boss_chokhmah_battle_3">I am always paying my price.</text>
+
+  <text id="boss_chokhmah_overload1_0">Why are you trying to let us go?</text>
+  <text id="boss_chokhmah_overload1_1">I want to stay with you and everyone.</text>
+  <text id="boss_chokhmah_overload1_2">Please don’t take what’s left of my treasures.</text>
+
+
+  <text id="boss_chokhmah_overload2_0">You never knew when to stop. I will stop you for sure this time.</text>
+  <text id="boss_chokhmah_overload2_1">I do not know. What more sacrifice will you make? What are you trying to achieve?</text>
+  <text id="boss_chokhmah_overload2_2">I don’t want to change. I don’t want to forget. Let’s just stay.</text>
+  <text id="boss_chokhmah_overload2_3">I cannot understand. I cannot accept.</text>
+
+
+
+  <text id="boss_chokhmah_finish_0">You can advance…</text>
+
+
+  <text id="boss_chokhmah_story_finish">'The eye embracing the past, creating the future' </text>
+
+  
+  <!--Kether Boss Session-->
+  <text id="boss_kether_clear_0">Proof</text>
+  <text id="boss_kether_condition_0">Suppress the white midnight + Energy Refinement</text>
+  <text id="boss_kether_clear_1">Fatigue and Waiting</text>
+  <text id="boss_kether_condition_1">Requires Qliphtoth Meltdown Level 6 + Energy Refine</text>
+  <text id="boss_kether_clear_2">Regret and Atonement</text>
+  <text id="boss_kether_condition_2">'Requires Qliphtoth Meltdown Level 10' or 'Suppress the red mist'</text>
+  <text id="boss_kether_clear_3">Freedom and Redemption</text>
+  <text id="boss_kether_condition_3">'Requires Qliphtoth Meltdown Level 10 + Energy Refine' or 'Suppress the arbiter'</text>
+  <text id="boss_kether_clear_4">Tree of Light</text>
+  <text id="boss_kether_condition_4">Energy Refinement</text>
+  
+  
+
+  <!-- 47일 케테르 (아벨) -->
+  <text id="boss_kether_overload1_E1_0">We did not know where to go. Do you think it’ll be any better from now? It won’t.</text>
+  <text id="boss_kether_overload1_E1_1">How do we move forward when we can’t even stand upright?.</text>
+  <text id="boss_kether_overload1_E1_2">Remember Elijah’s last. How he crawled before death’s face…</text>
+  <text id="boss_kether_overload1_E1_3">It’s for everyone’s sake to return now. Who knows if our unforgivable sin gets a bit lighter if you do?</text>
+
+  <text id="boss_kether_overload2_E1_0">Our hearts were overflowing with despair as we prepared for tomorrow as if nothing has happened even after many of our comrade’s deaths.</text>
+  <text id="boss_kether_overload2_E1_1">The suppressed feelings were so severe that it felt like bugs were crawling on our skin.</text>
+  <text id="boss_kether_overload2_E1_2">But we had to do it. We had come too far. However, one failure lead to a complete breakdown.</text>
+  <text id="boss_kether_overload2_E1_3">Obsession for rules, not letting an inch of sadness gets to us… we had no other way but these. Even you agreed.</text>
+
+
+  <text id="boss_kether_overload3_E1_0">Michelle was a young and timid employee. She chose to be a whistleblower out of fear to the world. If we gave a bit more attention to her, she wouldn’t have run away.</text>
+  <text id="boss_kether_overload3_E1_1">Everything we thought to be a hope turned out to be despair.</text>
+  <text id="boss_kether_overload3_E1_2">How do we get any better from this? It will only get worse and worse.</text>
+
+  <text id="boss_kether_overload4_E1_0">I survived alone. I have lived day by day, fighting an uphill battle. Because I thought my survival would somehow change the situation. How foolish I was.</text>
+  <text id="boss_kether_overload4_E1_1">Perhaps our souls have already died long time ago, just as Carmen feared. </text>
+  <text id="boss_kether_overload4_E1_2">Going further than this is futile. Please, you have to just accept it.</text>
+  <text id="boss_kether_overload4_E1_3">You told Giovanni that you could revive Carmen. But, think about it. Did you really lead him to the eternal slumber because you believed so?</text>
+
+
+
+  <text id="boss_kether_overload5_E1_0">The world has abandoned us! We tried not to let it go but it threw us like a piece of garbage at the end. </text>
+  <text id="boss_kether_overload5_E1_1">I was too naïve. I realized what we have done after all these years. </text>
+  <text id="boss_kether_overload5_E1_2">A brief struggle has become forever. I just wish that you don’t fall into despair and anger again.</text>
+  <text id="boss_kether_overload5_E1_3">You can overcome this if you wake up. You still have a chance. Please, listen to me. </text>
+
+
+  <text id="boss_kether_overload1_E2_0">Only regret is waiting for you tomorrow. A well-deserved punishment for us. </text>
+  <text id="boss_kether_overload1_E2_1">We tried to don’t trust anyone. But we shamelessly woke up our comrades who fell asleep…</text>
+  <text id="boss_kether_overload1_E2_2">Do not fear the sinking. Accept it. Let us sink with Carmen.</text>
+
+  <text id="boss_kether_overload2_E2_0">Don’t have hope for anything. For our employees who died hopelessly, at least.</text>
+  <text id="boss_kether_overload2_E2_1">If the existence itself is an ailment to us, there’s only one way to cure it. Just close your eyes, and never open them again.</text>
+  <text id="boss_kether_overload2_E2_2">We broke everything with her warmth in our hands. </text>
+  <text id="boss_kether_overload2_E2_3">Tell me, what great purpose did we have in those actions?</text>
+
+  <text id="boss_kether_overload3_E2_0">You will never escape this guilt if you just stay that way. You will curse your existence, you everyday will be painful. </text>
+  <text id="boss_kether_overload3_E2_1">Carmen has gone without a smile. As a nap under the warm sun will never return.</text>
+  <text id="boss_kether_overload3_E2_2">You just have to let everything go. You don’t even have power to grab on anything….</text>
+  <text id="boss_kether_overload3_E2_3">The things I let go has gone too far for me to take them in my hands again. </text>
+  <text id="boss_kether_overload3_E2_4">Why do I have to be abandoned by this world alone like this?</text>
+
+  <text id="boss_kether_overload4_E2_0">Yes, there was only path of despair in the sky she looked up to.</text>
+  <text id="boss_kether_overload4_E2_1">Desires are void and meaningless. Can’t you hear it? The doors are closing. They will not open again.</text>
+  <text id="boss_kether_overload4_E2_2">I’m fine with my life expiring here now. Only stigma waits for those who do not overcome. </text>
+  <text id="boss_kether_overload4_E2_3">It was my job protecting my employees and friends. But I couldn’t save even one person.</text>
+
+  <text id="boss_kether_overload5_E2_0">The scene, the air, the pain of that day…It comes back no matter how many times I try to erase them. Tell me, how do I get away from this?</text>
+  <text id="boss_kether_overload5_E2_1">Do we really deserve to exist? Stepping on all those sacrifices? </text>
+  <text id="boss_kether_overload5_E2_2">Let us just sleep peacefully… Let us sink and flow to the stream with Carmen, who must have been lonely for so long…</text>
+
+
+  <text id="boss_kether_overload1_E3_0">The path I took was riddled with thorns with no ends in sight. </text>
+  <text id="boss_kether_overload1_E3_1">Thus, I have revealed myself. I, who do not cling on to mere past, regrets, and memories. </text>
+  <text id="boss_kether_overload1_E3_2">People live day by day looking up to the hope they cannot reach while shedding tears of pain. We have power to save them and we must rightfully use it.</text>
+  <text id="boss_kether_overload1_E3_3">They will perish in torment if a redeemer does not save them as mankind was saved from the great flood long time ago because of the ark. </text>
+
+  <text id="boss_kether_overload2_E3_0">We must use the power if we have it.</text>
+  <text id="boss_kether_overload2_E3_1">You know how many sacrifices were made to come this far. We cannot let them in vain. Join me.</text>
+  <text id="boss_kether_overload2_E3_2">We are all sinners. Our imperfect eyes could not see the world properly. It is time that I cleaned them. </text>
+
+  <text id="boss_kether_overload3_E3_0">People are too ignorant to see what’s going on to the world they’re stepping on. However, ignorance is not a sin. Disbelief is. </text>
+  <text id="boss_kether_overload3_E3_1">People had to give up on freedom and desires for life. But do you think they are truly gone? They were merely waiting for the chance to rise again.</text>
+  <text id="boss_kether_overload3_E3_2">The desires humanity has given up are floating under the deep stream. People shall be isolated from themselves and never be free and if they stay this way.  </text>
+  <text id="boss_kether_overload3_E3_3">They thirst for pure desires. We shall fill their glasses with forbidden fruits.  </text>
+
+  <text id="boss_kether_overload4_E3_0">A person needs to be free to be human. </text>
+  <text id="boss_kether_overload4_E3_1">The sky will fall, and people will be holy. They will search for the promised glory as they change.</text>
+  <text id="boss_kether_overload4_E3_2">I know you are not sure what’s ahead of you. The future you want might never come. I can show the future in front of your eyes, instead.  </text>
+  <text id="boss_kether_overload4_E3_3">Let go of your fear and gain true freedom. It will also cure the disease she tried to heal.</text>
+
+  <text id="boss_kether_overload5_E3_0">You do not hear the trumpets.</text>
+  <text id="boss_kether_overload5_E3_1">How shameful. Do you truly want to people to suffocate, locked in their skin?</text>
+  <text id="boss_kether_overload5_E3_2">They are moaning in agony even as of this moment. Why can’t you hear them?</text>
+  <text id="boss_kether_overload5_E3_3">One bite of this sweet fruit will redeem all of them!</text>
+
+
+  <!--시작-->
+  <text id="boss_kether_default_E4_0">Let’s get to work. As we always have done.</text>
+
+  <!--반전-->
+  <text id="boss_kether_default_E4_1">You might feel a bit dizzy, but it’s worth it. Just bear with it.</text>
+  <text id="boss_kether_default_E4_2">I hope no one dies or suffer today.</text>
+  <text id="boss_kether_default_E4_3">I’m so sorry that I have to make you do this again. But you’re not far from the end.</text>
+  <text id="boss_kether_default_E4_4">You have been through so much. Today came before you realized as you have endured the pain.</text>
+  <text id="boss_kether_default_E4_5">You made it this far. I know you will make it again. Let us face this day just like the other ones.</text>
+
+  <!--상승-->
+  <text id="boss_kether_default_E4_6">It has been so long since I saw the light behind the mist. </text>
+  <text id="boss_kether_default_E4_7">We were buried here for an immeasurable time. </text>
+
+
+  <!--지상-->
+  <text id="boss_kether_default_E4_8">I haven’t been outside for ages. It seems nothing has changed much. The same glorious, mundane scenery.</text>
+  <text id="boss_kether_default_E4_9">Let’s embrace this place with warmth. So everyone can shine like the stars in the sky.</text>
+  <text id="boss_kether_default_E4_10">We will make human be human. What’s left for us after that is just to watch.</text>
+
+  <!--기둥-->
+  <text id="boss_kether_default_E4_11">The energy you produced for the last 50 days is for this day. The moment we shine down the world.</text>
+  <text id="boss_kether_default_E4_12">Let’s give them the answer we searched for eons. </text>
+  <text id="boss_kether_default_E4_13">It is time for us to step down from the stage. We won’t be forgotten even if we scatter and fade into the light.</text>
+
+  <text id="boss_kether_story_finish">'I, who think'</text>
+</localize>

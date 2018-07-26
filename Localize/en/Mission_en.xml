@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="misson_1">Complete Abnormality work 3 times</text>
+  <text id="misson_2">Complete work 4 times with a result of Good or higher</text>
+  <text id="misson_103">Complete a Qliphoth Meltdown Containment Unit job 8 times</text>
+  <text id="misson_104">Complete Ordeal of Dusk</text>
+  <text id="misson_105"></text>
+
+  <text id="misson_3">Complete Instinct work 4 times</text>
+  <text id="misson_4">Complete Insight work 5 times</text>
+  <text id="misson_5">Complete Attachment work 6 times</text>
+  <text id="misson_404">Complete a job without a Poor result</text>
+  <text id="misson_405"></text>
+
+  <text id="misson_6">Finish a day without deaths</text>
+  <text id="misson_7">Finish a day without panicking employees</text>
+  <text id="misson_203">Finish a day without deaths or panicking employees</text>
+  <text id="misson_204">Finish a day after dispatching 3 employees or less in all departments</text>
+  <text id="misson_205"></text>
+
+  <text id="misson_8">Promote 2 employees</text>
+  <text id="misson_9">Promote an employee to level 4 or higher</text>
+  <text id="misson_10">Suppress different Abnormalities 4 times</text>
+  <text id="misson_304">Finish a day after dispatching 5 or more level 5 employees</text>
+  <text id="misson_305"></text>
+
+  <text id="misson_11">Finish a day with Qliphoth Meltdown level 8 or lower</text>
+  <text id="misson_12">Finish a day with Qliphoth Meltdown level 7 or lower</text>
+  <text id="misson_13">Finish a day with Qliphoth Meltdown level 6 or lower</text>
+  <text id="misson_504">Clear without containment room's occurrence of Qliphoth Meltdown</text>
+  <text id="misson_505"></text>
+  <text id="misson_14">Suppress HE or lower Abnormality 5 times</text>
+  <text id="misson_15">Suppress WAW Abnormality 5 times</text>
+  <text id="misson_703">Suppress different ALEPH Abnormalities 3 times</text>
+  <text id="misson_704">Complete Ordeal of Midnight</text>
+  <text id="misson_705"></text>
+
+  <text id="misson_16">Finish a day within the time limit</text>
+  <text id="misson_17">Finish a day within  the time limit</text>
+  <text id="misson_18">Finish a day within  time limit</text>
+  <text id="misson_804">Finish a day within  the time limit</text>
+  <text id="misson_805"></text>
+
+  <text id="misson_901">Extract more than 5 E.G.O with HE or higher</text>
+  <text id="misson_902">Complete a day with 1 or more employee that has 4 or more E.G.O Gift.</text>
+  <text id="misson_903">Complete a day possessing 8 or more ALEPH level E.G.O</text>
+  <text id="misson_904">Complete a day with maximum observation level on every abnormality in the facility</text>
+  <text id="misson_905"></text>
+
+  <text id="misson_1001">Clear with 3 or more employees with 100 or higher Fortitude</text>
+  <text id="misson_1002">Complete a day with 5 or more employees with 100 or more Prudence </text>
+  <text id="misson_1003">Complete a day with 8 or more employees with 100 or more Temperance </text>
+  <text id="misson_1004">Complete a day with 10 or more employees with 100 or more Justice</text>
+  <text id="misson_1005"></text>
+
+  <text id="misson_title_1">You Can Do This!</text>
+  <text id="misson_title_2">Semper Fi</text>
+  <text id="misson_title_103">Suppress Berserking</text>
+  <text id="misson_title_104">At Dusk</text>
+  <text id="misson_title_105">Suppress Core of Malkhut</text>
+
+  <text id="misson_title_3">Yesod the Viper</text>
+  <text id="misson_title_4">Our Paths</text>
+  <text id="misson_title_5">Why Won’t it Rot?</text>
+  <text id="misson_title_404">Boundary of Perfection</text>
+  <text id="misson_title_405">Suppress Core of Yesod</text>
+
+  <text id="misson_title_6">Lethargic Space</text>
+  <text id="misson_title_7">Beer Vending Machine</text>
+  <text id="misson_title_203">An Impossible Event</text>
+  <text id="misson_title_204">Efficiency</text>
+  <text id="misson_title_205">Suppress Core of Netzach</text>
+
+  <text id="misson_title_8">I Want To Help</text>
+  <text id="misson_title_9">Unwanted Kindness</text>
+  <text id="misson_title_10">I Want To Be A Good Person</text>
+  <text id="misson_title_304">Test Training</text>
+  <text id="misson_title_305">Suppress Core of Hod</text>
+
+  <text id="misson_title_11">Proving Competence 1</text>
+  <text id="misson_title_12">Proving Competence 2</text>
+  <text id="misson_title_13">Proving Competence 3</text>
+  <text id="misson_title_504">Proving Competence 4</text>
+  <text id="misson_title_505">Suppress Core of Tiphereth</text>
+
+  <text id="misson_title_14">Purpose of Pain 1</text>
+  <text id="misson_title_15">Purpose of Pain 2</text>
+  <text id="misson_title_703">Proving Power</text>
+  <text id="misson_title_704">Our work</text>
+  <text id="misson_title_705">Suppress Core of Geburah</text>
+
+  <text id="misson_title_16">For the Aftermath 1</text>
+  <text id="misson_title_17">For the Aftermath 2</text>
+  <text id="misson_title_18">For the Aftermath 3</text>
+  <text id="misson_title_804">For the Aftermath 4</text>
+  <text id="misson_title_805">Suppress Core of Chesed</text>
+
+  <text id="misson_title_901">Collecting Extracted Specimens</text>
+  <text id="misson_title_902">Component of self-consciousness </text>
+  <text id="misson_title_903">Shell of self-consciousness </text>
+  <text id="misson_title_904">Abnormality Dissolution</text>
+  <text id="misson_title_905">Suppress Core of Binah</text>
+
+  <text id="misson_title_1001">Virtue of Protection</text>
+  <text id="misson_title_1002">Virtue of Governance </text>
+  <text id="misson_title_1003">Virtue of Creation </text>
+  <text id="misson_title_1004">Virtue of Soul </text>
+  <text id="misson_title_1005">Suppress Core of Hokma</text>
+
+  <!-- 추가된 미션 내용-->
+  <text id="misson_short_1">Work Complete</text>
+  <text id="misson_short_2">Good Work Result </text>
+  <text id="misson_short_103">Qliphoth Meltdown containment unit Work</text>
+  <text id="misson_short_104">Complete Ordeal of Dusk</text>
+  <text id="misson_short_105">Suppress Core of Malkuth</text>
+
+  <text id="misson_short_3">Complete Instinct Work</text>
+  <text id="misson_short_4">Complete Insight Work</text>
+  <text id="misson_short_5">Complete Attachment Work</text>
+  <text id="misson_short_404">Finish a day without a Bad work result</text>
+  <text id="misson_short_405">Suppress Core of Yesod</text>
+
+  <text id="misson_short_6">Finish a day without deaths</text>
+  <text id="misson_short_7">Finish a day without panicking employees</text>
+  <text id="misson_short_203">Finish a day without deaths or panicking employees</text>
+  <text id="misson_short_204">Finish a day after dispatching 3 employees or less in all departments</text>
+  <text id="misson_short_205">Suppress Core of Netzach</text>
+
+
+  <text id="misson_short_8">Promote employee</text>
+  <text id="misson_short_9">Promote level 3 or higher employee</text>
+  <text id="misson_short_10">Suppress different Abnormalities</text>
+  <text id="misson_short_304">Finish a day after dispatching 5 or more level 5 or higher employees</text>
+  <text id="misson_short_305">Suppress Core of Hod</text>
+
+
+  <text id="misson_short_11">Finish a day with Qliphoth Meltdown level 8 or lower</text>
+  <text id="misson_short_12">Finish a day with Qliphoth Meltdown level 7 or lower</text>
+  <text id="misson_short_13">Finish a day with Qliphoth Meltdown level 6 or lower</text>
+  <text id="misson_short_504">Clear without containment unit's occurrence of Qliphoth Meltdown</text>
+  <text id="misson_short_505">Suppress Core of Tiphereth</text>
+
+  <text id="misson_short_14">Suppress HE or lower Abnormality</text>
+  <text id="misson_short_15">Suppress WAW Abnormality</text>
+
+  <text id="misson_short_703">Suppress different ALEPH Abnormalities</text>
+  <text id="misson_short_704">Complete Ordeal of Midnight</text>
+  <text id="misson_short_705">Suppress Core of Geburah</text>
+
+  <text id="misson_short_16">Clear within the time limit</text>
+  <text id="misson_short_17">Clear within the time limit</text>
+  <text id="misson_short_18">Clear within the time limit</text>
+  <text id="misson_short_804">Clear within the time limit</text>
+  <text id="misson_short_805">Suppress Core of Chesed</text>
+
+  <text id="misson_short_901">Extract E.G.O from HE or higher</text>
+  <text id="misson_short_902">Complete a day with 1 or more employee that has 4 or more E.G.O Gift.</text>
+  <text id="misson_short_903">Complete a day possessing 8 or more ALEPH level E.G.O</text>
+  <text id="misson_short_904">Complete a day with maximum observation level on every abnormality in the facility</text>
+  <text id="misson_short_905">Suppress Core of Binah</text>
+
+  <text id="misson_short_1001">Finish a day while there are still at least 3 Fortitude 100 or higher employees</text>
+  <text id="misson_short_1002">Complete a day with 5 or more employees with 100 or more Prudence </text>
+  <text id="misson_short_1003">Complete a day with 8 or more employees with 100 or more Temperance </text>
+  <text id="misson_short_1004">Complete a day with 10 or more employees with 100 or more Justice</text>
+  <text id="misson_short_1005">Suppress Core of Hokma</text>
+
+  <text id="misson_diag_1">Manager, don't forget that your primary goal is harvesting energy from the Abnormalities. It is the most important function of the company. Don't disappoint me! </text>
+  <text id="misson_diag_2">Your job is not just keeping the Abnormalities in control. You need to make them happy so they will produce as many as PE-Boxes. Everything else is secondary.</text>
+  <text id="misson_diag_103">As you may know, this facility isn’t that stable. We were only able to contain Abnormalities in containment units because we momentarily released their suppressed power before the work began. However, suppression becomes unstable as time goes by and eventually some Abnormalities go into a meltdown.</text>
+  <text id="misson_diag_104">As the Deterrence of the facility becomes weaker and more Abnormalities become agitated, Abnormalities called Ordeals that could not be held down will go into a rampage. Like now. Can you calm the employees down by suppressing one of Ordeals that show up at dusk? I will go help you soon.</text>
+  <text id="misson_diag_105">This space is for the summary of the Malkuth mission. Boss Battle</text>
+
+   <text id="misson_diag_3">The Information Team is always in need of data on the Abnormalities. At this point in research, we need data collected from Instinct work. Instinct work directly resolves the Abnormalities' primal instincts and drives.</text>
+  <text id="misson_diag_4">Through Insight work, we can indirectly control the Abnormalities. We need to know what they do and don't like about their containment unit. </text>
+  <text id="misson_diag_5">Through Attachment jobs, we can build bonds with Abnormalities. Abnormalities with social desires tend to show their discontent even with a full stomach or when the Containment Unit is clean.  </text>
+  <text id="misson_diag_404">The best we can do is to take care of things before they turn sour. All will be taken care of if Abnormalities are managed to the best results. So be sure to take care of everything carefully. As far as I know, this is the best way.</text>
+  <text id="misson_diag_405">This space is for the summary of the Yesod mission. Boss Battle</text>
+
+  <text id="misson_diag_6">The Security Team is in charge of... the security of employees. You will understand how hard it is to maintain the safety and security of this place once you experience it first-hand.</text>
+  <text id="misson_diag_7">What's more important than just keeping the employees alive, is keeping them sane. Employees who lose sanity are permanently damaged and live a half-life. You'll find it's more difficult to maintain the sanity of the employees than keeping them alive.</text>
+  <text id="misson_diag_203">I can’t believe you’re able to carry out your job without killing anyone both physically and mentally. If you were so capable, why didn’t you step in until now? Because you were unassigned? Then let me give you another job.</text>
+  <text id="misson_diag_204">In order to prevent the deaths of many, I believe we should dispatch fewer employees. You know, to keep damages at a minimum.</text>
+  <text id="misson_diag_205">This space is for the summary of the Netzach mission. Boss Battle</text>
+
+  <text id="misson_diag_8">I am from the Training Team. We make manuals and train employees when needed. But for situations where the manual isn't enough, experience is the key. I am sure you will manage the people in your fold to survive.</text>
+  <text id="misson_diag_9">As you know, employees here are promoted solely based on their merit. You should focus on building up your crew for progressively harder jobs. </text>
+  <text id="misson_diag_10">Indirect experiences have a limit. At some point, employees need to learn from their own experiences and mistakes. Unfortunately, not all employees survive their first few encounters with the Abnormalities.</text>
+  <text id="misson_diag_304">Thanks to your excellent leadership, we now have more capable employees. If they can demonstrate your perfect management and suppression skills to other employees, it’ll be more effective than any document or video... I’m sorry, I keep hearing things...</text>
+  <text id="misson_diag_305">This space is for the summary of the Hod mission. Boss Battle</text>
+
+  <text id="misson_diag_11">The Central Team is holding the Abnormalities at a specific location. Abnormalities become unstable over time and the Qliphoth Meltdown gauge you’ve seen displays this. We have our own limits, so please finish the job without any problems.</text>
+  <text id="misson_diag_12"> To prevent the meltdown, you must reduce the amount of work by giving orders in the most efficient way possible. If not, Abnormalities and other crises will overflow.</text>
+  <text id="misson_diag_13">If you look at the Sephirah Manual, capable managers have records of tremendous efficiency. Do you think you can beat it?</text>
+  <text id="misson_diag_504">Tiphereth is not in good shape,  so I'm going to get tired for the time being. Okay, it's the end. Take care of all the containment units that have run through. If you do this, I will acknowledge your own abilities.</text>
+  <text id="misson_diag_505">Boss Battle</text>
+
+  <text id="misson_diag_14">If you want to last longer than a day here, you have to get used to suppressing those Abnormalities. Killing them needs to be like breathing for you. Also, I enjoy seeing them suffer.</text>
+  <text id="misson_diag_15">Never show your fear in front of the dangerous ones. You just gotta rip and break. Use any means necessary to kill WAW level ones in front of me.</text>
+  <text id="misson_diag_703">If you have done so far, you know what to do next? ALEPH Abnormalities are the most dangerous and hateful things here. But the monster is a monster. The beings we have to get rid of ...</text>
+  <text id="misson_diag_704">We deal with our work. Because I know only how to handle these things. I can not tolerate others taking my stage. Let's tell these monsters. That we are enough.</text>
+  <text id="misson_diag_705">Boss Battle</text>
+  
+  <text id="misson_diag_16">The Welfare Team is always busy. They are working very hard while in a carefree environment, but the best method is to finish the job ASAP. This ensures everyone to work more precisely and calmly.</text>
+  <text id="misson_diag_17">Better than I expected. How about raising the bar? I expect great results just like before.</text>
+  <text id="misson_diag_18">Preventing accidents and mopping up is our job. Finishing the job quickly means we have more time to mop up everything. </text>
+  <text id="misson_diag_804">I am sorry. I thought about the past. My request is always the same. Let me ask you a little bit harder to do with your ability. Yeah. I guess I can only stay in place like usual.</text>
+  <text id="misson_diag_805">Boss Battle</text>
+
+  <text id="misson_diag_901">Let’s start with extracting E.G.O before we do anything else. The nature of E.G.O and Abnormalities aren’t that different. They are both illusions extracted in the physical level. Bone for bone, blood for blood...</text>
+  <text id="misson_diag_902">You can take the word GIFT literally. It’s weaker than E.G.O, but it’s part of their self-consciousness. Beware, though, taking self-consciousnesses of others may saturate yourself. </text>
+  <text id="misson_diag_903">E.G.O is borrowing the power of someone else’s self-consciousness. Employees gain enormous power and strong body by donning a shell named E.G.O. Some like Red Mist took its power and claimed it completely as their own but our employees can’t do that. The weaker the mind is, the more you want to hide behind someone else’s shell.</text>
+  <text id="misson_diag_904">As you know, abnormalities and ordeals are the things that came from human mind and took physical forms. That makes them possess possibilities of past, present, even the future. They’re mystery and unstable. However, we humans have never stopped digging out truth. Not only abnormalities, we want to know and understand everything. </text>
+  <text id="misson_diag_905">Suppress Core of Binah</text>
+
+  <text id="misson_diag_1001">The growth of all employees here are based on 4 virtues and these growths are directly applied in reality. I wonder where the limit lies? First, Fortitude comes from a strong body and instinctive desire. Nobody knows if that desire will become a power to protect everyone or a weapon to satisfy one’s desires.</text>
+  <text id="misson_diag_1002">What is rationality? We see and analyze through the eyes of rationality. However, its efficiency differs from people to people. A crude rationality blinds you, excessive rationality becomes the knife that stabs you. We must be soundly rational to see this world and people.</text>
+  <text id="misson_diag_1003">All humans are born with desires. What’s important is how you control them. It’s not just your problem. Your desires greatly affect how you treat the world and people in it. Hearing only what you want to hear, and seeing only what you want to see. What’s really needed for humans is controlling these desires between oneself, others, and the world. If it’s possible, we will be able to create great things.</text>
+  <text id="misson_diag_1004">Do you believe the existence of soul? I do. I also believe that soul itself is the reason of one’s existence. Then, is there a perfect soul? I do not think there is. However, one can endlessly get closer to perfection. The process of it is an endless wave of agony. At the end of such effort, I expect that we will be able to make valuations of everything correctly. </text>
+  <text id="misson_diag_1005">Suppress Core of Hokma</text>
+
+ <!--for tutorial-->
+  <text id="misson_title_0">Manager Education</text>
+  <text id="misson_0">Complete Abnormality work 3 times</text>
+  <text id="misson_diag_0">Manager Education</text>
+  <text id="misson_short_0">Complete Work</text>
+</localize>

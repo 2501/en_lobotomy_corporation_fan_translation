@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+  <!-- 에피소드 1-->
+  <text id="netzach1_intro_x1">(Netzach is not showing up)</text>
+  <text id="netzach1_intro_n1">Why is the meeting room so far?</text>
+  <text id="netzach1_intro_n2">Uh, you know my name, right?</text>
+  <text id="netzach1_intro_n3">……</text>
+  <text id="netzach1_intro_n4">Do you have anything else to say?</text>
+  <text id="netzach1_selection1">Yes.</text>
+  <text id="netzach1_selection2">No.</text>
+  <text id="netzach1_intro_n1_1">Uh, could we talk later? I am kind of busy at the moment.</text>
+  <text id="netzach1_intro_n2_1">That’s good. See you later. </text>
+  <text id="netzach1_intro_n5">....</text>
+  <text id="netzach1_intro_n6">You look little dumbfounded.</text>
+  <text id="netzach1_intro_n7">Aren't you supposed to tell us that you're honored to have this job and such?</text>
+  <text id="netzach1_intro_n8">Well, nobody wants to hear that.</text>
+  <text id="netzach1_intro_n9">That's right, I will tell you straight. I don't like my job.</text>
+  <text id="netzach1_intro_n10">I really want to quit.</text>
+  <text id="netzach1_intro_n11">But I can’t, can I?</text>
+  <text id="netzach1_intro_n12">I came here against my will.</text>
+  <text id="netzach1_intro_n13">I don’t know about you, though.</text>
+  <text id="netzach1_intro_n14">Me, the first thing I remember is this place.</text>
+  <text id="netzach1_intro_n15">I don't want to be responsible for someone's death.</text>
+  <text id="netzach1_intro_n16">Whoever assigned me here, they were totally wrong.</text>
+  <text id="netzach1_intro_n17">I feel helpless.</text>
+  <text id="netzach1_intro_n18">Employees die everyday.</text>
+  <text id="netzach1_intro_n19">There will be no one to remember them.</text>
+  <text id="netzach1_intro_n20">No one will commemorate their sacrifice.</text>
+  
+  <!--에피소드 2-->
+  <text id="netzach2_intro_x1">(Netzach closed his eyes)</text>
+  <text id="netzach2_intro_n1">….</text>
+  <text id="netzach2_intro_n2">When I close my eyes, I feel like I am in a different world.</text>
+  <text id="netzach2_intro_n3">I belonged to a different world once.</text>
+  <text id="netzach2_intro_n4">I once worked hard to save people, you know.</text>
+  <text id="netzach2_intro_n5">But I am here now.</text>
+  <text id="netzach2_intro_n6">What is the meaning of saving someone's life only to see the person dies the next day?</text>
+  <text id="netzach2_intro_n7">What is the point of delaying the inevitable?</text>
+  <text id="netzach2_intro_n8">The people here have no future.</text>
+  <text id="netzach2_intro_n9">You know, those little things called plans.</text>
+  <text id="netzach2_intro_n10">Making money, finding your love, getting married, having kids.</text>
+  <text id="netzach2_intro_n11">Do you know how it feels like playing the Russian roulette every day?</text>
+  <text id="netzach2_intro_n12">Watching others die is a pain. Surviving the day is a pain.</text>
+  <text id="netzach2_intro_n13">We're just lemmings running toward the cliff.</text>
+  <text id="netzach2_intro_n14">Speaking of lemmings, can we have a beer vending machine?</text>
+  <text id="netzach2_intro_n15">It's like the only thing that makes me happy here.</text>
+  <text id="netzach2_selection1">I can do that.</text>
+  <text id="netzach2_selection2">You know I can't.</text>
+  <text id="netzach2_intro_1_a1">Manager, please. You're a better person than Netzach here.</text>
+  <text id="netzach2_intro_1_n1">What's wrong with you? I am just trying to improve the welfare of employees. </text>
+  <text id="netzach2_intro_2_a1">You're out of your line, Netzach. Consider this a friendly warning.  </text>
+  <text id="netzach2_intro_2_n1">Why don't you just scrap me? </text>
+  <text id="netzach2_intro_n16">....</text>
+  <text id="netzach2_intro_n17">Yeah, ignore me all you want. How typical.</text>
+ 
+  <!--에피소드 3-->
+
+  <text id="netzach3_intro_m1">Um... Netzach is not feeling well today, I came here to tell that...</text>
+  <text id="netzach3_intro_y1">Malkuth, you're a terrible liar. Manager, Netzach is high on Enkephalin. He's completely wasted. </text>
+  <text id="netzach3_intro_m2">You're a rat! </text>
+  <text id="netzach3_intro_y2">You know what? It is not my concern. </text>
+  <text id="netzach3_intro_m3">Please, don't tell Angela about this. </text>
+  <text id="netzach3_intro_y3">Netzach is neglecting his responsibilities and so is you. Shouldn't you be in the team meeting in the first place?</text>
+  <text id="netzach3_intro_m4">Right! Thanks, Yesod! </text>
+  <text id="netzach3_intro_y4">Please don't be offended, but you should do something before Angela sees Netzach this wasted. </text>
+  <text id="netzach3_intro_x1">(Found Netzach)</text>
+  <text id="netzach3_intro_n1">What's up? You look super today. So, you.. uh... succeeded something, huh? Far out, man.</text>
+  <text id="netzach3_intro_n2">Why is the ground shaking? Another breach?  </text>
+  <text id="netzach3_intro_n3"> I know what you're thinking.</text>
+  <text id="netzach3_intro_n4">Netzach is just a pathetic junkie, not like Malkuth or Yesod, right?</text>
+  <text id="netzach3_intro_n5">I know, I read your mind.</text>
+  <text id="netzach3_intro_n6">I get that a lot.</text>
+  <text id="netzach3_intro_n7">But, think about it.</text>
+  <text id="netzach3_intro_n8">This place is hell.</text>
+  <text id="netzach3_intro_n9">Is it that wrong trying to escape from the reality even for a moment?</text>
+  <text id="netzach3_intro_n10">I mean, we should celebrate for surviving another shitty day!</text>
+  <text id="netzach3_intro_n11">I don't care about the future of the company or anything like that.</text>
+  <text id="netzach3_intro_n12">There is no tomorrow here.</text>
+  <text id="netzach3_intro_n13">What did I do wrong?</text>
+  <text id="netzach3_intro_n14">Am I being punished for my sins?</text>
+  <text id="netzach3_intro_n15">I repent before you! Please, I repent...</text>
+  <text id="netzach3_intro_n16">...</text>
+  <text id="netzach3_intro_n17">I want to see this place crumbling into pieces.</text>
+
+
+
+  <!-- 에피소드 4-->
+
+  <text id="netzach4_intro_ta1">Netzach did it again, Angela!</text>
+  <text id="netzach4_intro_a1">Netzach did what?</text>
+  <text id="netzach4_intro_ta2">He just gave me the report for our joint operation; it was due yesterday.</text>
+  <text id="netzach4_intro_ta3">And I can’t find him anywhere now. I’m sure he is sleeping somewhere, drunk as hell.</text>
+  <text id="netzach4_intro_a2">The upper Sephirahs will know where he is, go ask them.</text>
+  <text id="netzach4_intro_ta4">I don’t want to talk to them!</text>
+  <text id="netzach4_intro_ta5">Angela, I think Netzach is lacking in too many to be a good Sephirah.</text>
+  <text id="netzach4_intro_a3">What’s your point, Tiphereth?</text>
+  <text id="netzach4_intro_ta6">...I am asking you to replace Netzach.</text>
+  <text id="netzach4_intro_a4">Tiphereth.</text>
+  <text id="netzach4_intro_a5">The replacement process cannot be used to remove Sephirahs you don’t like.</text>
+  <text id="netzach4_intro_ta7">If I could do that, I would have replaced most of the Sephirahs.</text>
+  <text id="netzach4_intro_a6">Sephirahs can only bey replaced when they have serious flaws and cannot perform their duties.</text>
+  <text id="netzach4_intro_ta8">Netzach meets the conditions, he’s not doing anything..</text>
+  <text id="netzach4_intro_a7">Netzach is doing his part. It is his role to get drunk by Enkephalin, or to become lethargic.</text>
+  <text id="netzach4_intro_a8">One more, Tiphereth. Even if we replaced Netzach, do you really think the new Netzach would be a diligent, hard working Sephirah?</text>
+  <text id="netzach4_intro_ta9">…………</text>
+  <text id="netzach4_intro_a9">Please don’t talk about the replacement process so simply.</text>
+  <text id="netzach4_intro_ta10">…………</text>
+  <text id="netzach4_intro_a10">I know how you feel, but Netzach is a different problem.</text>
+  <text id="netzach4_intro_ta11">…………</text>
+  <text id="netzach4_intro_n1">Tiphereth, I have headache, could you please not shout?</text>
+  <text id="netzach4_intro_ta12">I told Angela, about the replacement process!</text>
+  <text id="netzach4_intro_ta13">Your days of irresponsibility will soon be over!</text>
+  <text id="netzach4_intro_n2">You think I’d be scared of your threat? I hate to disappoint you...</text>
+  <text id="netzach4_intro_n3">That is exactly what I want, Tiphereth. Don’t you get it?</text>
+  <text id="netzach4_intro_ta14">....Do you really think you can say that when you are completely cornered?</text>
+  <text id="netzach4_intro_n4">I don’t care whether you succeeded or not....</text>
+  <text id="netzach4_intro_n5">Maybe Angela is regretting as well.</text>
+  <text id="netzach4_intro_n6">I feel the same as Tiphereth.</text>
+  <text id="netzach4_intro_n7">Why haven’t I been destroyed? Angela could replace me anytime she wants.</text>
+  <text id="netzach4_intro_n8">If I were Angela, I would have destroyed an AI like me a long time ago.</text>
+  <text id="netzach4_intro_n9">.........</text>
+  <text id="netzach4_intro_n10">Well, that’s awkward.</text>
+  <text id="netzach4_intro_n11">I don’t expect you to say something to me, so don't worry about it.</text>
+
+  <!-- 에피소드 5-->
+
+  <text id="netzach5_intro_n1">Be honest, you are not meeting me to get praised, are you?</text>
+  <text id="netzach5_intro_n2">Aren’t you sick of it?</text>
+  <text id="netzach5_intro_n3">You will do something great tomorrow again, well, it won’t be that great, but Angela and other Sephirahs will compliment you.</text>
+  <text id="netzach5_intro_n4">We will have another accident in my department, some will die, some will go nuts, and some will sustain unrecoverable injuries.</text>
+  <text id="netzach5_intro_n5">Hod will cheer me up. Yesod will lecture me about the rules I did not follow. Malkuth will encourage me saying let’s try harder from tomorrow.</text>
+  <text id="netzach5_intro_n6">Nobody will say it’s my fault, but it is my fault, definitely.</text>
+  <text id="netzach5_intro_n7">My day repeats like that.</text>
+  <text id="netzach5_intro_n8">It starts with death and ends with death.</text>
+  <text id="netzach5_intro_n9">All the employees here regularly receive a small dose of a drug. Did you know?</text>
+  <text id="netzach5_intro_n10">It helps them become desensitized to everything.</text>
+  <text id="netzach5_intro_n11">Think about it. If your lunchmate is found dead, torn into thousands pieces, who can clean his dead body without feeling anything?</text>
+  <text id="netzach5_intro_n12">Can you blame them? Can you blame them for depending those drugs?</text>
+  <text id="netzach5_intro_n13">Everybody is trying their best to bury their heads in the sand.</text>
+  <text id="netzach5_intro_n14">They might look okay, but nobody really is.</text>
+  <text id="netzach5_intro_n15">I keep thinking of how can I die.</text>
+  <text id="netzach5_intro_n16">I know, it is like a metaphor. Death to us is hypothetical.</text>
+  <text id="netzach5_intro_n17">I heard injecting drugs like Enkephalin into the machine will slowly rust it.</text>
+  <text id="netzach5_intro_n18">Then, if I put a whole bottle into my body,</text>
+  <text id="netzach5_intro_n19">it will cause irreversible damage to me.</text>
+  <text id="netzach5_intro_n20">I just injected myself with way more Enkephalin than I usual do,</text>
+  <text id="netzach5_intro_n21">but my mind is clear. I feel completely lucid right now.</text>
+  <text id="netzach5_intro_n22">If I open my eyes again, maybe it’s somewhere without you, other Sephirahs, or Angela.</text>
+  <text id="netzach5_intro_n23">It wasn’t fun. Let’s never meet again.</text>
+  <text id="netzach5_intro_A1">We started a full research on Cogito. The main issue was to find the proper drug dosage.</text>
+  <text id="netzach5_intro_A2">I persuaded people. I told them we should proceed with the experiment in order to save Carmen and the others.</text>
+  <text id="netzach5_intro_A3">Everybody kept quiet when I asked for volunteers. One silently raised his hand.</text>
+  <text id="netzach5_intro_A4">It was Giovanni, who had kept to himself most of the time.</text>
+  <text id="netzach5_intro_A5">Giovanni was one of the patients from Carmen’s company. I heard they knew each other since they were young.</text>
+  <text id="netzach5_intro_A6">There is no noble sacrifice. The end is always miserable, no matter how justifiable the reason is.</text>
+  <text id="netzach5_intro_A7">Maybe he decided to volunteer for the experiment, when I said it might save Carmen.</text>
+  <text id="netzach5_intro_A8">The experiment to find proper drug dosages is not something that can be done in a short time.</text>
+  <text id="netzach5_intro_A9">I did not talk with him much. We had little in common, mostly just Carmen.</text>
+  <text id="netzach5_intro_A10">Cogito lowers a person's boundary,</text>
+  <text id="netzach5_intro_A11">and repeated experiments leaves an indelible mark.</text>
+  <text id="netzach5_selection1">Inject Cogito.</text>
+  <text id="netzach5_selection2">Inject Cogito.</text>
+  <text id="netzach5_selection3">Inject Cogito.</text>
+
+  <!-- 에피소드 6-->
+  <text id="netzach6_intro_n1">If Carmen was here, she would laugh so hard to see the two of us talking.</text>
+  <text id="netzach6_intro_n2">I mean, we never really talked to each other.</text>
+  <text id="netzach6_intro_n3">From the beginning, I came here because of Carmen, not you.</text>
+  <text id="netzach6_intro_n4">I hope I can revive Carmen back to life.</text>
+  <text id="netzach6_intro_A1">We couldn’t save Carmen.</text>
+  <text id="netzach6_intro_A2">We knew it from the very start.</text>
+  <text id="netzach6_intro_A3">I did not answer him because I did not want to ruin his only hope.</text>
+  <text id="netzach6_intro_A4">That was my selfishness, believing he would be happy in a dream that he could not wake from while in a restless sleep.</text>
+  <text id="netzach6_intro_n5">So the reason I am facing you is because I definitely failed on the experiment.</text>
+  <text id="netzach6_intro_n6">I will find another method next time.</text>
+  <text id="netzach6_intro_n7">...I am kidding, don’t tell this to Angela or the other Sephirahs. That will only lead to trouble.</text>
+  <text id="netzach6_intro_n8">I hear treatment is needed because the parts was full of Enkephalin.</text>
+  <text id="netzach6_intro_n9">It will probably be difficult.</text>
+  <text id="netzach6_intro_n10">A bit painful as well.</text>
+  <text id="netzach6_intro_n11">To be honest, I didn’t want to wake up. It’s been a while since I’ve had such a long sleep.</text>
+  <text id="netzach6_intro_n12">But somewhere deep in my flickering consciousness, someone called out to me.</text>
+  <text id="netzach6_intro_n13">The familiar voice said this.</text>
+  <text id="netzach6_intro_n14">“No, you can’t. In here, you must ask for my permission for even death."</text>
+  <text id="netzach6_intro_n15">And then you saved me.</text>
+  <text id="netzach6_intro_n16">Sadly, I opened my eyes again.</text>
+  <text id="netzach6_intro_n17">This place will never be safe.</text>
+  <text id="netzach6_intro_n18">It’s no use, even if everyone tries.</text>
+  <text id="netzach6_intro_n19">Well, we have a conclusion.</text>
+  <text id="netzach6_intro_n20">It is to live.</text>
+  <text id="netzach6_intro_n21">Even though life is full of pain, if the voice that called to me wants us to find and hold on to a shed of possibility,</text>
+  <text id="netzach6_intro_n22">then what else is there to do but to follow the voice's wish?</text>
+  <text id="netzach6_intro_n23">From the get-go, I was disdainful of you, did you know?</text>
+  <text id="netzach6_intro_n24">But for the first time, I'm thinking perhaps it is I that called you.</text>
+  <text id="netzach6_intro_n25">You came to ruin me, but also to save me.</text>
+  <text id="netzach6_intro_n26">I think we are in a similar situation.</text>
+  <text id="netzach6_intro_n27">We are both caught up in the sins of our past.</text>
+  <text id="netzach6_intro_n28">It is not I who has changed.</text>
+  <text id="netzach6_intro_n29">You are the one who is finally seeing clearly.</text>
+
+
+
+</localize>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+  <text id="expend_default">Would you like to expand {0}?</text>
+  
+	<text id="expend_malkuth">Good day! Would you like to expand the Control team?</text>
+  <text id="expend_malkuth_first">You're supposed to expand a team every day. Do you want to unlock the Control Team and continue?</text>
+
+  <text id="expend_yesod">Would you like to expand the Information team and continue?</text>
+  <text id="expend_yesod_first">I am in charge of the Information Team. Would you like to open the team before starting the day?</text>
+
+  <text id="expend_netzach">Are you sure you want to expand the Security Team before starting the day?</text>
+  <text id="expend_netzach_first">I am in charge of the Security Team. Would you like to unlock the team today?</text>
+
+  <text id="expend_hod">Would you like to expand the Training Team first? It would be helpful for you to manage the workforce.</text>
+  <text id="expend_hod_first">Hello, I am in charge of the Training Team. Would you like to unlock the team now?</text>
+
+  <text id="expend_tiphereth">Are you going to expand the Central Command team?</text>
+  <text id="expend_tiphereth_first">We are in charge of the Central Command team. Are you want to expand the Central Command team?</text>
+
+  <text id="expend_geburah">Expand the Disciplinary team and wanna go to the management department? If you do, let's do it.</text>
+  <text id="expend_geburah_first">I am in charge of Disciplinary team. Are you want to expand disciplinary team before continuing?</text>
+
+  <text id="expend_chesed">Are you going to expand the Welfare team? If you are busy, please try to be smooth.</text>
+  <text id="expend_chesed_first">I am in charge of the Welfare team. Are you want to expand the welfare team?</text>
+
+  <text id="expend_binah">Will you open the extraction team?</text>
+  <text id="expend_binah_first">Nice to meet you. I'm in charge of the Extraction Team. We'll see again.</text>
+
+  <text id="expend_chokhmah">Do you want to open the recording team?</text>
+  <text id="expend_chokhmah_first">Good morning. This is the recording team. We are record and control everything.</text>
+</localize>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<text id="day48_abram_1">………………</text>
+	<text id="day48_abram_2">Do you remember when we still knew the warmth of the sun?</text>
+	<text id="day48_abram_3">We have become too cold to cherish such thing.</text>
+	<text id="day48_abram_4">No, the warmth wasn’t meant for us from the start.</text>
+	<text id="day48_abram_5">You felt it, too. Don’t you?</text>
+	<text id="day48_abram_6">I can see you longing something since the moment you stepped into this room.</text>
+	<text id="day48_abram_7">....... </text>
+	<text id="day48_abram_8">There’s a tale about the two doors.</text>
+	<text id="day48_abram_9">The doors that never wanted to be opened but had to.</text>
+	
+  <text id="day48_carmen_1">It’s me. Are you there?</text>
+	<text id="day48_carmen_2">Can I come in?</text>
+	
+  <text id="day48_abram_12">I didn’t want to hear.</text>
+	<text id="day48_abram_13">I wanted to pretend I was not in the room.</text>
+	<text id="day48_abram_14">I knew what she was going to say.</text>
+	<text id="day48_abram_15">Sometimes she could get extremely reckless.</text>
+	<text id="day48_abram_16">It frightened me whenever she did that.</text>
+  
+	<text id="day48_selection1">Open the door</text>
+
+  <text id="day48_abram_17">I saw her eyes right after opening the doors.</text>
+  <text id="day48_abram_18">Her eyes were soaked with red as she had to endure cruel reality.</text>
+	<text id="day48_abram_21">She walked into your laboratory and started illustrating her hypothesis. Carefully, yet decidedly.</text>
+	<text id="day48_abram_22">You wanted to say that it’s preposterous, but like always, you were persuaded.</text>
+	<text id="day48_abram_23">You didn’t want to admit that there’s only one way.</text>
+  <text id="day48_abram_23_1">What made us so upset,</text>
+	<text id="day48_abram_24">is how she put it calmly as if it’s not our business,</text>
+  <text id="day48_abram_25">and how we had to just tolerate it. </text>
+ 
+	<text id="day48_people_1">We can’t proceed any further than this.</text>
+	<text id="day48_people_2">But we will manage.</text>
+	<text id="day48_people_3">We have Carmen, after all!</text>
+	<text id="day48_people_4">It will all work out.</text>
+	<text id="day48_people_5">Biological scan says Carmen is the fittest of all candidates… We haven’t run a precision test so if we want to find another candidate we can…</text>
+
+  <text id="day48_people_6">Carmen can…</text>
+  <text id="day48_people_7">Carmen is….</text>
+  <text id="day48_people_8">If it’s Carmen…</text>
+  <text id="day48_people_9">Carmen…</text>
+
+  <text id="day48_tipheretha_1">You should've been the one to die...</text>
+  
+	<text id="day48_abram_26">The research was not bearing any fruit, people’s eyes glittering with expectation…</text>
+	<text id="day48_abram_27">She was on the edge. One more step would make her fall.</text>
+	<text id="day48_abram_28">But one day, she saw Enoch stopped breathing.</text>
+  <text id="day48_abram_28_1">The path was always in the sight.</text>
+  <text id="day48_abram_28_2">One glance below the fall,</text>
+  <text id="day48_abram_28_3">and she won’t lift her head again.</text>
+  <!-- 벼랑 끝에 몰린 연출 하나 넣어볼래.-->
+  
+	<text id="day48_abram_29">There’s no answer no matter how many times she called.</text>
+	<text id="day48_abram_30">Only the sound of water flowing fills the air…</text>
+	<text id="day48_abram_31">I was just pulling the doorknob like as if I’m insane,</text>
+	<text id="day48_abram_32">but I hoped it will never open.</text>
+	<text id="day48_abram_33">I hoped countless times…</text>
+  
+	<text id="day48_selection2">Open the door</text>
+
+  <text id="day48_abram_33_1">I saw a pair of closed eyes after I opened the doors.</text>
+  <text id="day48_abram_33_2">My eyes were filled with red as I realized that those eyes will never be opened.</text>
+	<text id="day48_abram_34">I stepped into the bath myself.</text>
+	<text id="day48_abram_35">So not a fragment of needless emotion such as guilt piles up. </text>
+	<text id="day48_abram_36">We saw.</text>
+	<text id="day48_abram_37">She was alive, although bleeding and unconscious.</text>
+	<text id="day48_abram_38">But we violated her body with our own hands and buried her underneath the ground.</text>
+	<text id="day48_abram_39">……</text>
+	<text id="day48_abram_40">Why was she so cruel, and why were we so cruel?</text>
+	<text id="day48_abram_41">We asked this answerless question to the toast that celebrates the success bloomed with death.</text>
+	<text id="day48_abram_42">However,</text>
+	<text id="day48_abram_43">I found a way to redeem myself…</text>
+	<text id="day48_abram_44">You have come to the right place.</text>
+	<text id="day48_abram_45">This is the room where she is sleeping.</text>
+	<text id="day48_abram_46">Don’t worry, she won’t wake up with this much noise. </text>
+	<text id="day48_abram_47">Can you meet her again?</text>
+	<text id="day48_abram_48">Let’s do this.</text>
+	<text id="day48_abram_49">Ask her, who was watching you from the beginning. </text>
+	<text id="day48_carmen_3">……….</text>
+	<text id="day48_carmen_4">I have something to confess. I actually have a weaker heart than everyone thinks.</text>
+	<text id="day48_carmen_5">I always say things like ‘Count on me’, ‘Just follow me’ in front of people,</text>
+	<text id="day48_carmen_6">but I was never sure about things I do.</text>
+  
+	<text id="day48_carmen_7">If anyone is harmed or put in trouble because of what I do,</text>
+	<text id="day48_carmen_8">I will definitely hate myself. I know it.</text>
+	<text id="day48_carmen_9">That’s why I need to ask you a favor.</text>
+  <!-- 음악 전환-->
+  <text id="day48_carmen_10">No matter what I become, please finish what I started.</text>
+	<text id="day48_carmen_11">We humans have weak heart. One crack on it and it will easily crumble. I am not different. But,</text>
+  <text id="day48_carmen_11_1">You are not like me, are you?</text>
+  <text id="day48_carmen_11_2">No matter how cruel this world gets,</text>
+  <text id="day48_carmen_12">you will endure it.</text>
+	<text id="day48_carmen_13">The only way never changes.</text>
+	<text id="day48_carmen_15">You know what I mean, don’t you?</text>
+	<text id="day48_carmen_16">........</text>
+	<text id="day48_carmen_17">Are you not sure?</text>
+	<text id="day48_carmen_18">I have this routine when I fear the path I took.</text>
+	<text id="day48_carmen_19">It’s like, photosynthesis of plants.</text>
+	<text id="day48_carmen_20">Don’t be so tense, just close your eyes... Yes, just like that.</text>
+	<text id="day48_carmen_21">Make yourself as comfortable as possible, so that your mind is comfortable too.</text>
+	<text id="day48_carmen_22">It tickles, no? But just wait.</text>
+	<text id="day48_carmen_23">and….</text>
+	<text id="day48_carmen_24">Fade away….</text>
+  
+  <text id="day48_abram_50">.............</text>
+	<text id="day48_abram_51">Yes, I was the only one.</text>
+	<text id="day48_abram_52"> I was the only one who would fulfill her ideal,</text>
+	<text id="day48_abram_53">I was the only one who could finish it. </text>
+	<text id="day48_abram_54">Only me…</text>
+	<text id="day48_abram_55">But she didn’t tell me that this path is riddled with thorns and spikes.</text>
+	<text id="day48_abram_56">…..</text>
+	<text id="day48_abram_57">This is the bucket created from Carmen’s sacrifice. </text>
+	<text id="day48_abram_58">The bucket is the start, and the destination of this place.</text>
+	<text id="day48_abram_59">Cogito is endlessly produced here, spewing life and death.</text>
+	<text id="day48_abram_60">When we saw the bath was overflowing, we thought everything’s over.</text>
+	<text id="day48_abram_61">However.</text>
+	<text id="day48_abram_62">We couldn’t be more wrong than that.</text>
+	<text id="day48_abram_63">She is alive, “like this”.</text>
+	<text id="day48_abram_64">She saw every path we walked.</text>
+	<text id="day48_abram_65">Her ideal was too grand. Our miniscule power could not fulfill it.</text>
+	<text id="day48_abram_66">She sacrificed her everything, but I…</text>
+	<text id="day48_abram_67">You and I remember what we have done to become a wing, and to stay in the wing.</text>
+  <text id="day48_abram_67_1">It was revolting at first.</text>
+  <text id="day48_abram_67_2">But how did we change after first few times?</text>
+  <text id="day48_abram_67_3">We flawlessly finished those hideous missions just like other wings.</text>
+  <text id="day48_abram_67_4">They even evolved their own unique cruelty that can’t be found in other wings.</text>
+  <text id="day48_abram_67_5">The story about sacrificing humans to fulfill our ideal needed to be continued.</text>
+  <text id="day48_abram_67_6">So, we had to look like we’re maniacs about energy production.</text>
+  <text id="day48_abram_67_7">But we all know this.</text>
+  <text id="day48_abram_67_8">Were we really only pretending when we were reluctant about countless deaths?</text>
+  <text id="day48_abram_67_9">Scrambling through the brain of a living person to join the world, evading the head and the eye,</text>
+  <text id="day48_abram_67_9_1">Throwing a person to a monster just to gain energy,</text>
+  <text id="day48_abram_67_9_2">Reincarnate a man just to live through his agony again…</text>
+  <text id="day48_abram_67_10">Do you think they’re something that a normal person would do?</text>
+  <text id="day48_abram_67_11">But we closed our eyes and ears. We eventually ended up feeling nothing about what we do.</text>
+  <text id="day48_abram_67_12">I named myself Abram to remember these sins, sacrificing innocents.</text>
+	<text id="day48_abram_68">What did I expect to achieve doing this…? I don’t even know anymore.</text>
+	<text id="day48_abram_69">It doesn’t matter anymore.</text>
+	<text id="day48_abram_70">It just doesn’t.</text>
+	<text id="day48_abram_71">We were wrong from the start.</text>
+	<text id="day48_abram_72">What’s left for you and I is atonement.</text>
+	<text id="day48_tipheretha_2">You already knew.</text>
+	<text id="day48_tipheretha_3">We did not meaninglessly embrace this pain.</text>
+	<text id="day48_tipheretha_4">Tiphereth knew this long time ago.</text>
+	<text id="day48_tipheretha_5">That’s why he was always walked ahead of me.</text>
+	<text id="day48_tipheretha_6">One day, I realized that you and Tipheret were looking at the same place.</text>
+	<text id="day48_tipheretha_7">I just didn’t want to admit that I am behind. I think that’s why I was always angry.</text>
+	<text id="day48_tipheretha_8">I am a Sephira of the middle department. I can’t be fallen behind, can I?</text>
+	<text id="day48_tipheretha_9">That’s the reason why I told you to have some expectation.</text>
+	<text id="day48_tipheretha_10">We must show them someday.</text>
+	<text id="day48_tipheretha_11">Show them how valuable our result is.</text>
+	<text id="day48_selection3">Expectation of the Meaning of Existence</text>
+	<text id="day48_selection6">..................</text>
+	<text id="day48_abram_77">You will fall onto the ground no matter how much expectation you have.</text>
+	<text id="day48_abram_78">Photosynthesis was for plants after all.  </text>
+	<text id="day48_abram_79">It was not for someone like you and me.</text>
+	<text id="day48_abram_80">Don’t you know already? We drove Carmen to death.</text>
+
+  <text id="day48_gebura_1">I was always furious without a clear reason.</text>
+  <text id="day48_gebura_2">It always felt like I’m missing something. But I didn’t know what that ‘something’ is.</text>
+  <text id="day48_gebura_3">This frustration was expressed in rather bad way, as you saw.</text>
+  <text id="day48_gebura_4">This madness without purpose never went away.</text>
+  <text id="day48_gebura_5">If you didn’t stop me, it would have devoured me.</text>
+  <text id="day48_gebura_6">Look, we can’t go back to the start.</text>
+  <text id="day48_gebura_7">The situation has changed too much.</text>
+  <text id="day48_gebura_8">But I was able to keep my promise with her because you stopped me.</text> <!-- 수정-->
+  <text id="day48_gebura_9">You need to remember now.</text> <!-- 수정-->
+  <text id="day48_gebura_10">She would want you to protect what’s left rather than suffer in guilt.</text><!-- 수정-->
+  <text id="day48_selection4">Courage to Defend</text> <!-- 수정-->
+
+  <text id="day48_abram_81">……..</text>
+  <text id="day48_abram_82">Yes, she entrusted me what’s left.</text> <!-- 수정-->
+  <text id="day48_abram_83">But we were not the people who Carmen thought we are.</text> <!-- 수정-->
+  <text id="day48_abram_84">The only person that believed in us was gone.</text> <!-- 수정-->
+  <text id="day48_abram_85">There was nobody left.</text><!-- 수정-->
+  
+  
+  
+  <text id="day48_chesed_1">Manager, do you know why I chose this small company among all the other wings?</text>
+	<text id="day48_chesed_2">Of course, Carmen’s moving speech played some part.</text>
+	<text id="day48_chesed_3">But the decisive factor was</text>
+	<text id="day48_chesed_4">because I liked how everyone here trusted Carmen.</text>
+	<text id="day48_chesed_5">You know how meaningless the word “trust” is nowadays, don’t you?</text>
+	<text id="day48_chesed_6">…even more so,</text>
+	<text id="day48_chesed_7">Carmen trusted you to the moment of death,</text>
+	<text id="day48_chesed_8">so did everyone who left.</text>
+	<text id="day48_chesed_9">Why do you think I was able to survive until the end?</text>
+  <text id="day48_chesed_10">Look around you.</text> <!-- 수정-->
+  <text id="day48_chesed_11">Everyone came just for you. And they’re waiting. </text> <!-- 수정-->
+
+  <text id="day48_selection5">Someone Faithful and Trustworthy</text> <!-- 수정-->
+	
+	<text id="day48_abram_92">How are you so sure?</text>
+	<text id="day48_abram_93">Carmen is here, not living nor dead.</text>
+	<text id="day48_abram_94">How can you walk towards the unpredictable future, leaving her here?</text>
+	<text id="day48_abram_95">We are obliged to be trapped in this cycle of eternity.</text>
+	<text id="day48_abram_96">But you want to reach tomorrow? You want to escape this regret and atonement?</text>
+	<text id="day48_abram_97">There is the final door past here that didn’t appear in the story.</text>
+	<text id="day48_abram_98">I can’t open it.</text>
+  <text id="day48_abram_99">It only opens to those who are not soaked in regret.</text>
+  <text id="day48_abram_100">Do you think you can open it?</text>
+  
+  <text id="day48_selection7">Open the door</text>
+
+  <text id="day48_angela_1">……</text>
+  <text id="day48_angela_2">Why is it only darkness that I am seeing?</text>
+  <text id="day48_angela_3">Why can’t my voice reach you in the end?</text>
+  <text id="day48_angela_4"></text>
+
+
+
+
+  <text id="day48_abramFail_1">...... Yeah, I figured that you can’t give me the answer.</text>
+	<text id="day48_abramFail_2">You finally accepted</text>
+	<text id="day48_abramFail_3">that we are failures.</text>
+	<text id="day48_abramFail_4">But look.</text>
+	<text id="day48_abramFail_5">Even though we’re failures, we managed to achieve one thing.</text>
+	<text id="day48_abramFail_6">We can see</text>
+	<text id="day48_abramFail_7">Carmen again like this.</text>
+	<text id="day48_abramFail_8">Although we can’t have a nap on the field under the warm sun like we did in the past,</text>
+	<text id="day48_abramFail_9">She’s alive, watching us.</text>
+	<text id="day48_abramFail_10">She will understand.</text>
+	<text id="day48_abramFail_11">She will tell you that you couldn’t make it to the end, but you did a good job reaching here, that you will have eternal rest with her.</text>
+	<text id="day48_abramFail_12">We should have listened to Benjamin in the first place.</text>
+	<text id="day48_abramFail_13">My biggest regret and sin is that I did not stop when I should.</text>
+	<text id="day48_abramFail_15">……</text>
+	<text id="day48_abramFail_16">Carmen is our sun. It doesn’t matter if we’re underground forever.</text>
+	<text id="day48_abramFail_17">Attention, all employees. We congratulate your honorable retirement. This broadcast is pre-recorded.</text>
+	<text id="day48_abramFail_18">Let us sink, Carmen.</text>
+	<text id="day48_abramFail_19">You can’t hear my voice,</text>
+	<text id="day48_abramFail_20">but I don’t care.</text>
+	<text id="day48_abramFail_21">I will not open a door anymore...</text>
+	<text id="day48_abramFail_22">I wish I’m with you when I open my eyes again someday.</text>
+	<text id="day48_abramFail_23">We thank you for your hard work and show respect to your efforts and loyalty….</text>
+	<text id="day48_selection8">Close the door</text>
+  <text id="day48_abramFail_24">…..Good night.</text>
+
+</localize>

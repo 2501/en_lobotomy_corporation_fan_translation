@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localize>
+   <!-- Default -->
+  <text id="Tooltip@Default">알 수 없음.</text>
+  
+   <!-- Deploy UI -->
+	<text id="Tooltip_ManagementPart@UpFloor">Move to the previous floor</text>
+	<text id="Tooltip_ManagementPart@DownFloor">Move to the next floor</text>
+	<text id="Tooltip_ManagementPart@Manual">Open the manual</text>
+	<text id="Tooltip_ManagementPart@Ordeal">The highest level of ordeal for this DAY.&#13;&#10;Ordeal appears as the management phase proceeds.</text>
+	<text id="Tooltip_ManagementPart@LOB">Current LOB&#13;&#10;You can spend LOB to hire and upgrade employees.</text>
+	<text id="Tooltip_ManagementPart@EGOList">Open the list of E.G.O</text>
+	<text id="Tooltip_ManagementPart@Employment">Hire a new employee.&#13;&#10;You must spend 1 LOB at minimum. </text>
+	<text id="Tooltip_ManagementPart@Sefira_Function">Check the department functions.</text>
+	<text id="Tooltip_ManagementPart@Sefira_Description">Check the department description.</text>
+	<text id="Tooltip_ManagementPart@Sefira_Research">Check the finished department researches. </text>
+	<text id="Tooltip_ManagementPart@Creature_Encyclopedia">Check the abnormality encyclopedia.&#13;&#10;Unobserved abnormalities are represented as “?”</text>
+	<text id="Tooltip_ManagementPart@Mission">Following missions can be completed this DAY.&#13;&#10;Completing missions unlocks new researches. </text>
+	<text id="Tooltip_ManagementPart@Sefira_Boss">Activate the Sephira Boss fight.&#13;&#10;Unlocks employee deployment for the department. </text>
+	
+  <!-- Agent Information UI -->
+  <text id="Tooltip_Agent@EquippedWeapon">Currently Equipped E.G.O Weapon</text>
+	<text id="Tooltip_Agent@EquippedWeapon_Level">Level</text>
+	<text id="Tooltip_Agent@EquippedWeapon_Type">Attack Type</text>
+	<text id="Tooltip_Agent@EquippedWeapon_Damage">Damage</text>
+	<text id="Tooltip_Agent@EquippedArmor">Currently Equipped E.G.O Suit</text>
+	<text id="Tooltip_Agent@EquippedArmor_Level">Level</text>
+	<text id="Tooltip_Agent@EquippedArmor_Defence_R">RED: Defense level</text>
+	<text id="Tooltip_Agent@EquippedArmor_Defence_W">WHITE: Defense level</text>
+	<text id="Tooltip_Agent@EquippedArmor_Defence_B">BLACK: Defense level</text>
+	<text id="Tooltip_Agent@EquippedArmor_Defence_P">PALE: Defense level</text>
+	<text id="Tooltip_Agent@FortitudeLevel">Fortitude Level: {0}&#13;&#10;Increases when performing instinct work</text>
+	<text id="Tooltip_Agent@PrudenceLevel">Prudence Level: {0}&#13;&#10;Increases when performing insight work</text>
+	<text id="Tooltip_Agent@TemperanceLevel">Temperance Level: {0}&#13;&#10;Increases when performing attachment work</text>
+	<text id="Tooltip_Agent@WorkProb">Increases success rate by {0}%</text>
+	<text id="Tooltip_Agent@WorkSpeed">Increases work speed by {0}%</text>
+	<text id="Tooltip_Agent@JusticeLevel">Justice Level: {0}&#13;&#10;Increases when performing repression work</text>
+	<text id="Tooltip_Agent@MoveSpeed">Increase movement speed by {0}%</text>
+	<text id="Tooltip_Agent@AttackSpeed">Increase attack speed by {0}%</text>
+	<text id="Tooltip_Agent@Gift">Open the list of E.G.O GIFT.</text>
+	<text id="Tooltip_Agent@Reinforcement">Upgrade the selected employee.&#13;&#10;LOB is required to upgrade.</text>
+  
+   <!-- Agent Employment & Reinforcement UI -->
+	<text id="Tooltip_Agent@Cancel_Employment">Cancel hiring employee(s)</text>
+	<text id="Tooltip_Agent@Cancel_Reinforcement">Cancel the employee upgrade</text>
+	<text id="Tooltip_Agent@Confirm_Employment">Confirm hiring employee(s)</text>
+	<text id="Tooltip_Agent@Confirm_Reinforcement">Confirm the employee upgrade.</text>
+	<text id="Tooltip_Agent@LOB_Own">Current LOB</text>
+	<text id="Tooltip_Agent@LOB_Employment">Required LOB to hire</text>
+	<text id="Tooltip_Agent@LOB_Lack">no LOB</text>
+	<text id="Tooltip_Agent@Upgrade_Value">Increase the employee’s value level.&#13;&#10;This action increases the cost.</text>
+	<text id="Tooltip_Agent@Downgrade_Value">Decrease the employee’s value level. </text>
+	<text id="Tooltip_Agent@Change_Appearance">Customize the employee’s appearance.&#13;&#10;This action increases the cost by 1.</text>
+  
+   <!-- E.G.O List UI -->
+	<text id="Tooltip_EGO@WeaponList">Check the list of E.G.O weapon.</text>
+	<text id="Tooltip_EGO@ArmorList">Check the list of E.G.O Suit. </text>
+	<text id="Tooltip_EGO@Upfloor_Agents">Check the list of employees in the upper level.</text>
+	<text id="Tooltip_EGO@Midfloor_Agents">Check the list of employees in the middle level.</text>
+	<text id="Tooltip_EGO@Downfloor_Agents">Check the list of employees in the lower level.</text>
+	<text id="Tooltip_EGO@ZAYIN">Check the list of ZAYIN Level E.G.O. </text>
+	<text id="Tooltip_EGO@TETH">Check the list of TETH Level E.G.O. </text>
+	<text id="Tooltip_EGO@HE">Check the list of HE Level E.G.O. </text>
+	<text id="Tooltip_EGO@WAW">Check the list of WAW Level E.G.O. </text>
+	<text id="Tooltip_EGO@ALEPH">Check the list of ALEPH Level E.G.O. </text>
+	<text id="Tooltip_EGO@EquippedWeapon">Currently Equipped E.G.O Weapon</text>
+	<text id="Tooltip_EGO@EquippedWeapon_Level">Level</text>
+	<text id="Tooltip_EGO@EquippedWeapon_Type">Attack Type</text>
+	<text id="Tooltip_EGO@EquippedWeapon_Damage">Damage</text>
+	<text id="Tooltip_EGO@EquippedArmor">Currently Equipped E.G.O Suit</text>
+	<text id="Tooltip_EGO@EquippedArmor_Level">Level</text>
+	<text id="Tooltip_EGO@EquippedArmor_Defence_R">RED</text>
+	<text id="Tooltip_EGO@EquippedArmor_Defence_W">WHITE</text>
+	<text id="Tooltip_EGO@EquippedArmor_Defence_B">BLACK</text>
+	<text id="Tooltip_EGO@EquippedArmor_Defence_P">PALE</text>
+	<text id="Tooltip_EGO@EquippedGift">Acquired E.G.O GIFT</text>
+	<text id="Tooltip_EGO@EquippedGift_Desc">Check the description of the selected E.G.O</text>
+  
+  <!-- Management : Isolation Room -->
+	<text id="Tooltip_IsolateRoom@RiskLevel">Risk Level</text>
+	<text id="Tooltip_IsolateRoom@QliphothCounter">Qliphoth Counter</text>
+	<text id="Tooltip_IsolateRoom@ActivateInfo">Open the abnormality encyclopedia.</text>
+	<text id="Tooltip_IsolateRoom@UniquePE">Unique PE-box</text>
+  <text id="Tooltip_IsolateRoom@GeneratedPE">Produced PE-Box</text>
+	<text id="Tooltip_IsolateRoom@CurGeneratedPE">PE-Box produced in works</text>
+	<text id="Tooltip_IsolateRoom@ReduceProb">Decrease the success rate by {0}%</text>
+	<text id="Tooltip_IsolateRoom@Overload">[QLIPHOTH OVERLOAD]</text>
+	<text id="Tooltip_IsolateRoom@AllAgentsDead">[ALL EMPLOYEES IN THE DEPARTMENT HAS DECEASED]</text>
+  
+  <!-- Management Part : Main Sefira Top UI -->
+	<text id="Tooltip_Sefira@RecoveroGauge">Regenerator Healing Gauge.&#13;&#10;When this gauge fills to the top, physical and mental health of employees positioned in the center of the department are healed. </text>
+	<text id="Tooltip_Sefira@ReturnAgents">Bring the employees to the center of the department.</text>
+  
+  <!-- Management Part : GameStatusUI-->
+	<text id="Tooltip_GameStatus@GoalValue">PE-Box Objective</text>
+	<text id="Tooltip_GameStatus@QliphothGauge">Qliphoth Meltdown Gauge</text>
+	<text id="Tooltip_GameStatus@QliphothLevel">Qliphoth Meltdown Level</text>
+	<text id="Tooltip_GameStatus@QliphothRoom">Containment units that will have Qliphoth Meltdown</text>
+	<text id="Tooltip_GameStatus@QliphothOrdeal">Appearance of an Ordeal is detected in the next Qliphoth Meltdown.</text>
+	<text id="Tooltip_GameStatus@Pause">Pause&#13;&#10;Also possible with SPACE</text>
+	<text id="Tooltip_GameStatus@SpeedLv1">Normal Speed</text>
+	<text id="Tooltip_GameStatus@SpeedLv2">x1.5 Speed&#13;&#10;Q: Accelerate / E: Decelerate </text>
+	<text id="Tooltip_GameStatus@SpeedLv3">x2 Speed&#13;&#10;Q: Accelerate / E: Decelerate </text>
+	<text id="Tooltip_GameStatus@MissionList">Following missions can be completed this DAY.</text>
+  
+  <!-- Management Part : Worker Command Window : Manage Creature -->
+	<text id="Tooltip_WorkerCommand_Management@CreatureCode">Serial Number</text>
+	<text id="Tooltip_WorkerCommand_Management@RiskLevel">Risk Level</text>
+	<text id="Tooltip_WorkerCommand_Management@MaximumBox">Maximum Production of PE-Box</text>
+	<text id="Tooltip_WorkerCommand_Management@CreatureFeeling">Work results according to the number of PE-Box</text>
+	<text id="Tooltip_WorkerCommand_Management@WorkDmgType">Attack Type in the work</text>
+	<text id="Tooltip_WorkerCommand_Management@WorkDmgValue">Damage in the work</text>
+	<text id="Tooltip_WorkerCommand_Management@AgentCurrentHP">Current HP</text>
+	<text id="Tooltip_WorkerCommand_Management@AgentCurrentMental">Current SP</text>
+	<text id="Tooltip_WorkerCommand_Management@AgentFortitude">Fortitude Level: {0}</text>
+	<text id="Tooltip_WorkerCommand_Management@AgentPrudence">Prudence Level: {0}</text>
+	<text id="Tooltip_WorkerCommand_Management@AgentTemperance">Temperance Level: {0}</text>
+	<text id="Tooltip_WorkerCommand_Management@AgentJustice">Justice Level: {0}</text>
+	<text id="Tooltip_WorkerCommand_Management@OtherSefira">Check the list of employees in other departments.&#13;&#10; (You can also check them by scrolling down the employee list.)</text>
+  
+   <!-- Management Part : Worker Command Window : Suppress Creature -->
+	<text id="Tooltip_WorkerCommand_Suppression@CreatureCode">Serial Number</text>
+	<text id="Tooltip_WorkerCommand_Suppression@RiskLevel">Risk Level</text>
+	<text id="Tooltip_WorkerCommand_Suppression@AttackType">Abnormality Attack Type</text>
+	<text id="Tooltip_WorkerCommand_Suppression@DefenseType">Abnormality Defense Type</text>
+	<text id="Tooltip_WorkerCommand_Suppression@R">RED</text>
+	<text id="Tooltip_WorkerCommand_Suppression@W">WHITE</text>
+	<text id="Tooltip_WorkerCommand_Suppression@B">BLACK</text>
+	<text id="Tooltip_WorkerCommand_Suppression@P">PALE</text>
+	<text id="Tooltip_WorkerCommand_Suppression@AgentCurrentHP">Current HP</text>
+	<text id="Tooltip_WorkerCommand_Suppression@AgentCurrentMental">Current SP</text>
+	<text id="Tooltip_WorkerCommand_Suppression@DefenseR">RED: {0}</text>
+	<text id="Tooltip_WorkerCommand_Suppression@DefenseW">WHITE: {0}</text>
+	<text id="Tooltip_WorkerCommand_Suppression@DefenseB">BLACK: {0}</text>
+	<text id="Tooltip_WorkerCommand_Suppression@DefenseP">PALE: {0}</text>
+	<text id="Tooltip_WorkerCommand_Suppression@OtherSefira">Check the list of employees in other departments.&#13;&#10;(You can also check them by scrolling down the employee list.)</text>
+  
+  <!-- Management Part : Bullet UI -->
+	<text id="Tooltip_Bullet@TotalCounts">Bullet&#13;&#10;Bullet Reloads when Qliphoth Meltdown occurs.</text>
+	<text id="Tooltip_Bullet@RecoverHP">HP Recovery Bullet</text>
+	<text id="Tooltip_Bullet@RecoveMental">SP Gauge Recovery Bullet</text>
+	<text id="Tooltip_Bullet@ProtectRED">RED Type Shield</text>
+	<text id="Tooltip_Bullet@ProtectWHITE">WHITE Type Shield</text>
+	<text id="Tooltip_Bullet@ProtectBLACK">BLACK Type Shield</text>
+	<text id="Tooltip_Bullet@ProtectPALE">PALE Type Shield</text>
+	<text id="Tooltip_Bullet@Slow">Slow Infliction Bullet</text>
+	<text id="Tooltip_Bullet@ExecuteAgent">Employee Execution Bullet</text>
+  
+  <!-- Management Part : Rabbit UI -->
+	<text id="Tooltip_Rabbit@RabbitProtocol">Call the Rabbit team</text>
+  
+   <!-- Creature Info -->
+	<text id="Tooltip_CreatureInfo@UniquePE">Unique PE-Box of the abnormality&#13;&#10;The unique number of PE-Box of the abnormality Increases as many as Produced PE-Box when the work is finished</text>
+	<text id="Tooltip_CreatureInfo@BasicInfo">Unlock the basic information of the abnormality&#13;&#10;Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@OpenManagement">Unlock the management guide of the abnormality&#13;&#10;Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@NeedPreviousManagement">Previous management guide needs to be unlocked first.</text>
+	<text id="Tooltip_CreatureInfo@OpenInstinct">Unlock instinct work affinity of the abnormality&#13;&#10;Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@OpenInsight">Unlock insight work affinity of the abnormality&#13;&#10;Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@OpenAttachment">Unlock attachment work affinity of the abnormality&#13;&#10;Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@OpenRepression">Unlock repression work affinity of the abnormality&#13;&#10;Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@OpenEscape">Unlock the escape information of the abnormality&#13;&#10;Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@GiftInfo">There’s a chance of acquiring an E.G.O GIFT when finishing a work.</text>
+	<text id="Tooltip_CreatureInfo@WeaponInfo">Producible E.G.O WEAPON of the abnormality</text>
+	<text id="Tooltip_CreatureInfo@MakeWeapon">Produce a E.G.O WEAPON&#13;&#10; Cost: {0} Unique PE-Box(es)</text>
+	<text id="Tooltip_CreatureInfo@SuitInfo">Producible E.G.O Suit of the abnormality Cost</text>
+	<text id="Tooltip_CreatureInfo@MakeSuit">Produce a E.G.O SUIT&#13;&#10; Cost: {0} Unique PE-Box(es)</text>
+
+  <text id="Option@Tooltip">Display Tooltips</text>
+
+  <text id="Tooltip_Gift_Lock">&lt;Activate E.G.O GIFT lock&gt;&#13;&#10;(Available for employees higher than level 4.)&#13;&#10;E.G.O GIFT of this slot will not be replaced by a new GIFT.</text>
+  <text id="Tooltip_Gift_Locked">&lt;Deactivate E.G.O GIFT lock&gt;&#13;&#10; E.G.O GIFT of this slot can be replaced with a new GIFT.</text>
+  <text id="Tooltip_Gift_Display">&lt;Activate E.G.O GIFT appearance&gt;&#13;&#10;Show E.G.O GIFT of this slot.</text>
+  <text id="Tooltip_Gift_Disappear">&lt;Deactivate E.G.O GIFT appearance&gt;&#13;&#10;(Available for employees higher than level 3.)&#13;&#10;Don’t show E.G.O GIFT of this slot.</text>
+</localize>

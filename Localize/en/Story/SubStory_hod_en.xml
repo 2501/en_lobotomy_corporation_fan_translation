@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+  <!-- 에피소드 1-->
+
+  <text id="hod1_intro_h1">Oh, hi...</text>
+  <text id="hod1_intro_h2">...</text>
+  <text id="hod1_intro_h3">You're not angry, are you?</text>
+  <text id="hod1_intro_h4">I’m Hod from the Training Team.</text>
+  <text id="hod1_intro_h5">We're... um... you know accidents happen in the company.</text>
+  <text id="hod1_intro_h6">Angela said that approximately 40% of the accidents could be prevented if employees showed... more initiative.</text>
+  <text id="hod1_intro_h7">So it's my job to provide employees with work manual and training. You know, to reduce the number of accidents and transfers.</text>
+  <text id="hod1_intro_h8">Well, I am not perfect, but I won't disappoint you!</text>
+  <text id="hod1_intro_h9">Actually, I am trying out new programs these days...</text>
+  <text id="hod1_intro_h10">Well, I don’t know if any of them would work but..</text>
+  <text id="hod1_intro_h11">Oh, you want to know more about them?</text>
+  <text id="hod1_intro_h12">As you know, the company is... quite demanding. Despite regular checkups, many employees lose sanity...</text>
+  <text id="hod1_intro_h13">I know how it is like.</text>
+  <text id="hod1_intro_h14">I mean, I don’t interact with the Abnormalities myself, but I know how it feels to lose oneself.</text>
+  <text id="hod1_intro_h15">Well, I am not sure if my new program proves to be useful. One can only hope.</text>
+  <text id="hod1_intro_no">(Knocks the door)</text>
+  <text id="hod1_intro_t1">Thank you, ma'am. I feel much better now. It looks like horrible thoughts are gone.</text>
+  <text id="hod1_intro_h16">You solved the problem yourself. I only showed you where to start. </text>
+  <text id="hod1_intro_t2">I mean it. I would probably committed suicide by now if it weren't you. </text>
+  <text id="hod1_intro_t3">Anyways, you saved my life. I am glad to have you as my Sephirah. </text>
+  <text id="hod1_intro_t4">You are really a good person.  </text>
+  <text id="hod1_intro_h17">Thank you, Tiffany! I am glad to see you getting better. I hear you are transferring to a different team. I hope you'd do well there. Don’t forget the conversations we had. </text>
+  <text id="hod1_intro_t5">Of course, ma'am.</text>
+  <text id="hod1_intro_h18">Did you see? My program is really working!</text>
+  <text id="hod1_intro_h19">I want to help out as many of them as possible.</text>
+  <text id="hod1_intro_h20">I am saving others' lives.</text>
+
+  
+  <!--에피소드 2-->
+
+  <text id="hod2_intro_h1">Thank you for doing me a favor, manager!</text>
+  <text id="hod2_intro_h2">I feel really confident these days!</text>
+  <text id="hod2_intro_a1">Hod, I hear you have a new distraction.</text>
+  <text id="hod2_intro_h3">Hi, Angela. Are you talking about my counseling program?</text>
+  <text id="hod2_intro_a2">Yes, stop it immediately.</text>
+  <text id="hod2_intro_h4">But, why? It helps employees...</text>
+  <text id="hod2_intro_a3">Oh, please, don't delude yourself. You're not really helping them.</text>
+  <text id="hod2_intro_h5">But... What about Tiffany? My program helped her to cope with stress...</text>
+  <text id="hod2_intro_a4">Tiffany? Tiffany Brown from the Security Team? That Enkephalin addict is no longer with us.</text>
+  <text id="hod2_intro_h6">She's what?</text>
+  <text id="hod2_intro_a5">She terminated her contract with the company in a very permanent fashion. She lost more than 90% of her sanity when she committed suicide.</text>
+  <text id="hod2_intro_a6">Of course, she came to you several times.</text>
+  <text id="hod2_intro_a7">She came to you because she needed Enkephalin, not because she needed your comfort.</text>
+  <text id="hod2_intro_a8">You prescribed highly addictive substances like you were handing out candy.</text>
+  <text id="hod2_intro_h7">....</text>
+  <text id="hod2_intro_a9">What about Netzach? You gave him the substance as well. </text>
+  <text id="hod2_intro_a10">I authorized your 'counseling' to reduce the stress level of employees and you're only creating drug addicts.</text>
+  <text id="hod2_intro_h8">Netzach... he told me that he would like to introduce the program to his team...</text>
+  <text id="hod2_intro_a11">You should have reported him when you first saw the symptoms.</text>
+  <text id="hod2_intro_h9">....</text>
+  <text id="hod2_intro_a12">Hod, your compassion is only making things worse around here. Your program is terminated.</text>
+  <text id="hod2_intro_a13">And I urge you to take my advice - Keep your distance from others. Especially from unstable employees.</text>
+  <text id="hod2_intro_a14">They have nothing to lose. They will do anything to get what they want.</text>
+
+
+
+  
+
+
+  <!--에피소드 3-->
+
+  <text id="hod3_intro_n1">Hod, please do me a favor... Angela somehow knows that I have the stuff.</text>
+  <text id="hod3_intro_n2">I assure you that it is strictly for counseling.</text>
+  <text id="hod3_intro_h1">I think you should know...</text>
+  <text id="hod3_intro_e2_1">Eugene was forced into the program.</text>
+  <text id="hod3_intro_e1_2">This is ridiculous! Eugene is already busy as hell!</text>
+  <text id="hod3_intro_e2_2">Poor Eugene. What could he do? Protest?  </text>
+  <text id="hod3_intro_e1_3">We are like the pawns in the chess. Nobody cares.</text>
+  <text id="hod3_intro_e2_3">More work for us, I guess.</text>
+  <text id="hod3_intro_n3">Ignore them, Hod. They are always negative.</text>
+  <text id="hod3_intro_h2">...</text>
+  <text id="hod3_intro_h3">Can I have some of that, Netzach?</text>
+  <text id="hod3_intro_h4">Oh, congratulations on your success.</text>
+  <text id="hod3_intro_h5">Uh... this is just for counseling.</text>
+  <text id="hod3_intro_h6">...</text>
+  <text id="hod3_intro_h7">Why does everybody hate me?</text>
+  <text id="hod3_intro_h8">I am trying my best.</text>
+  <text id="hod3_intro_h9">I thought I was a good Sephirah.</text>
+  <text id="hod3_intro_h10">Other Sephirahs don't care how their subordinates fare.</text>
+  <text id="hod3_intro_h11">The company treats them as if they are expendable resources.</text>
+  <text id="hod3_intro_h12">I am different! I do care about them!</text>
+  <text id="hod3_intro_h13">I am not cold-blooded like Yesod.</text>
+  <text id="hod3_intro_h14">I am not haphazard like Malkuth.</text>
+  <text id="hod3_intro_h15">And I am not a I-don't-give-a-shit person like Netzach.</text>
+  <text id="hod3_intro_h16">But why...</text>
+  <text id="hod3_intro_x1">(Hod seems to be in her own thoughts.)</text>
+  
+  
+  
+  
+  <!--에피소드 4-->
+  <text id="hod4_intro_h1">Is it true, Tiffany? You just wanted to get some Enkephalin?</text>
+  <text id="hod4_intro_no1">(But you lied.)</text>
+  <text id="hod4_intro_h2">What lies? I never lied to you...</text>
+  <text id="hod4_intro_no2">(You always lie to us when we are vulnerable.)</text>
+  <text id="hod4_intro_no3">(Nobody wants your counseling. You can't help us.)</text>
+  <text id="hod4_intro_no4">(You just used us so you could feel better.)</text>
+  <text id="hod4_intro_no5">(That's not true!)</text>
+  <text id="hod4_intro_no6">(You are a Sephirah. You damn well know what awaits at the end of the line.)</text>
+  <text id="hod4_intro_no7">(Feeding your ego makes you a kind person?)</text>
+  <text id="hod4_intro_no8">(You're hopelessly delusional.)</text>
+  <text id="hod4_intro_h3">No...</text>
+  <text id="hod4_intro_no9">(Everyone will die here.)</text>
+  <text id="hod4_intro_h4">I want to be a good person.</text>
+  <text id="hod4_intro_no10">(For what?)</text>
+
+
+  <!-- 에피소드 5-->
+
+  <text id="hod5_intro_n1">That is, Hod, a very common side effect when you first take Enkephalin.</text>
+  <text id="hod5_intro_n2">It is like a light hallucination.</text>
+  <text id="hod5_intro_n3">It will disappear soon after two or three times, so don’t worry too much.</text>
+  <text id="hod5_intro_n4">For me, an employee whose face had half melted crawled to me and shook me asking why I let her die.</text>
+  <text id="hod5_intro_h1">That was not a hallucination.</text>
+  <text id="hod5_intro_n5">Then what? Are you are saying that dead employees are coming back to life?</text>
+  <text id="hod5_intro_h2">Unbelievable things happen here, so maybe it is possible for dead employees to come visiting as if nothing happened.</text>
+  <text id="hod5_intro_n6">...It’s not for me to say, but you don’t look so good. Why don’t you skip the meeting today?</text>
+  <text id="hod5_intro_h3">No, I can’t. We have Abnormality Management Training today... They need me...</text>
+  <text id="hod5_intro_n7">You’re really something. I don’t think there’s another Sephirah who cares about their employees like you do.</text>
+  <text id="hod5_intro_h4">...Right?</text>
+  <text id="hod5_intro_h5">Look, Tiffany... I was right....</text>
+  <text id="hod5_intro_h6">I’m a good person.... a good Sephirah.....</text>
+  <text id="hod5_intro_h7">Hello Employees, today we are,</text>
+  <text id="hod5_intro_no1">(Are you still playing the “good Sephirah”?)</text>
+  <text id="hod5_intro_h8">We will be performing Abnormality Management Training today.</text>
+  <text id="hod5_intro_no2">(How many times do I have to tell you? You are only a piece of sad scrap metal putting on a good person act.)</text>
+  <text id="hod5_intro_h9">I want everyone to focus here. The Abnormalities appearing today should be handled a little differently from other Abnormalities.</text>
+  <text id="hod5_intro_no3">(If you hoped that would ease your conscience, that's very selfish.)</text>
+  <text id="hod5_intro_h10">From now, I will explain the method I devised. Listen carefully.</text>
+  <text id="hod5_intro_no4">(At least other Sephirahs admit that they are not perfect.)</text>
+  <text id="hod5_intro_h11">Quiet!</text>
+  <text id="hod5_intro_h12">.........</text>
+  <text id="hod5_intro_h13">Oh... Sorry... Where were we...</text>
+  <text id="hod5_intro_e1_1">Hod, I have a question.</text>
+  <text id="hod5_intro_h14">Yes, what is it?</text>
+  <text id="hod5_intro_e1_2">Do you think this training makes any difference? Against that long bird, it seems those who will die are going to die and those who will live will live.</text>
+  <text id="hod5_intro_h15">…. It’s better than doing nothing, at least we can prepare something rather than helplessly wait to die.</text>
+  <text id="hod5_intro_e1_3">I think it’s just luck. We feel more comfortable to just prepare for death, accepting that we will die at anytime while working. </text>
+  <text id="hod5_intro_e1_4">A mass of metal scrap like you won’t understand. In a critical situation, nothing really helps.</text>
+  <text id="hod5_intro_no5">(Just know this.)</text>
+  <text id="hod5_intro_no6">(You can’t go to paradise no matter what you do.)</text>
+  <text id="hod5_intro_h16">I am doing these for all of you, even the counseling campaign I am doing...</text>
+  <text id="hod5_intro_e2_1">Now you that mention it, compulsory counseling campaign is too much. We would rather rest instead.</text>
+  <text id="hod5_intro_e3_1">Why is our department the only one which has these programs?</text>
+  <text id="hod5_intro_no7">(It will keep repeating itself. Live with eternal sorrow and remorse in that metal scrap.)</text>
+  <text id="hod5_intro_h17">I…!</text>
+  <text id="hod5_intro_h18">All of you would be dead by now if I didn’t help you!</text>
+  <text id="hod5_intro_h19">Why aren’t you thanking me?</text>
+  <text id="hod5_intro_h20">Do you want me to get rid of you like Malkuth, even before you complain?</text>
+  <text id="hod5_intro_h21">Don’t tell me I am the bad one here!</text>
+  <text id="hod5_intro_no8">(Are you finally admitting to your awful nature?)</text>
+  <text id="hod5_intro_h22">…. Tiffany, why are you doing this to me?</text>
+  <text id="hod5_intro_no9">(I am not Tiffany, look at me.)</text>
+  <text id="hod5_intro_no10">Can you not distinguish your own voice anymore?</text>
+  <text id="hod5_intro_h23">.......</text>
+  <text id="hod5_intro_h24">Yes, are you still having the nightmare?</text>
+  <text id="hod5_intro_A1">I read Michelle’s suicidal article when our experiment was showing some progress.</text>
+  <text id="hod5_intro_A2">Michelle was the youngest among us. She was a timid and innocent employee.</text>
+  <text id="hod5_intro_A3">It made her an easy target. Maybe it was her fate to be used as a spy of the alert Wing or of the head.</text>
+  <text id="hod5_intro_A4">You didn’t know it would happen. You never thought you would end us. You would have never believed that situation went worse than your intentions.</text>
+  <text id="hod5_intro_A5">You probably thought you did what you could do. That in this world, there wasn't any other option.</text>
+  <text id="hod5_intro_A6">But Carmen was the person who was trying to change this world, the world you gave up to change.</text>
+  <text id="hod5_intro_A7">If we meet again in hell, will I forgive you then?</text>
+  <text id="hod5_selection1">Crumple the newspaper</text>
+  <text id="hod5_selection2">Crumple the newspaper</text>
+  <text id="hod5_selection3">Crumple the newspaper</text>
+
+  <!-- 에피소드 6-->
+
+  <text id="hod6_intro_a1">Do you believe there is inexcusable behavior?</text>
+  <text id="hod6_intro_a2">Nobody is perfect.</text>
+  <text id="hod6_intro_a3">If we realize that forgiving others doesn’t mean your enemy deserved forgiveness, but that you deserved peace, would things be better?</text>
+  <text id="hod6_intro_A1">Can you really join our experiment in an unstable situation?</text>
+  <text id="hod6_intro_A2">Michelle, frankly speaking, we are performing experiments that go against the head.</text>
+  <text id="hod6_intro_A3">If your beloved parents, or your precious friends coax you, do you think you could refuse them?</text>
+  <text id="hod6_intro_A4">.....</text>
+  <text id="hod6_intro_A5">You were not able to say anything to the browbeating. Carmen broke the silence instead.</text>
+  <text id="hod6_intro_c1">Stop, she’s amazing to be here in her young age.</text>
+  <text id="hod6_intro_A6">Just like everyone else, Michelle liked Carmen. That was not a show. She was that manipulative.</text>
+  <text id="hod6_intro_A7">I should've made her tell the answer she avoided to give.</text>
+  <text id="hod6_intro_A8">Did Michelle receive what she wanted?</text>
+  <text id="hod6_intro_A9">I don’t know.</text>
+  <text id="hod6_intro_A10">Did she accomplish her purpose by destroying us and Carmen?</text>
+  <text id="hod6_intro_A11">I don’t know.</text>
+  <text id="hod6_intro_A12">Do I have any right to bear hatred toward her?</text>
+  <text id="hod6_intro_A13">The answer was “NO”. I am no different than her.</text>
+  <text id="hod6_intro_A14">To be honest, I never wanted you to die in misery, like the nasty, gossipy rumors.</text>
+  <text id="hod6_intro_h1">Were you able to successfully face yourself, manager?</text>
+  <text id="hod6_intro_h2">When I opened my eyes, I thought this could be my second chance.</text>
+  <text id="hod6_intro_h3">I thought I could redeem myself and free myself from my mistakes.</text>
+  <text id="hod6_intro_h4">What I did cannot be undone. A sunken pebble can never float to the surface again.</text>
+  <text id="hod6_intro_h5">I wanted to be a nice person. I wanted to let everyone know that I might be okay here.</text>
+  <text id="hod6_intro_h6">Was I really being considerate of others? There’s no room for something like that here.</text>
+  <text id="hod6_intro_h7">I was a hypocrite, all of those things were for myself.</text>
+  <text id="hod6_intro_h8">I will keep trying to be a nice person, even now.</text>
+  <text id="hod6_intro_h9">It may be spurious and some people may hate me for that. But if this can save anyone, or comfort anyone,</text>
+  <text id="hod6_intro_h10">I can live with pride.</text>
+  <text id="hod6_intro_h11">So, manager,</text>
+  <text id="hod6_intro_h12">let’s try together, in this eternal hell.</text>
+
+
+
+
+</localize>

@@ -8,6 +8,9 @@ Discussion should be held in new Issues opened for the repository, and ideally f
 # Standing guidelines
 NOTE: If something is missing from this list, _assume it is to stay as-is_ for now. It's more likely than not that we'll miss something at some point, so this way we don't prematurely shoot ourselves in the foot.
 
+* Sephirah vs. Sephirahs
+    * "Sephirah" should be used as both the singular and plural forms of the word, so use "Sephirah" over "Sephirahs" (or similar).
+
 # Cross-file details to consider
 
 * Work types, Stat names, etc.

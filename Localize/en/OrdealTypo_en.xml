@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+  <text id="ordeal_start_reward">Qliphoth Overload Reset</text>
+  <text id="ordeal_end_reward">Acquired {0}% of Daily Quota</text>
+  
+	<text id="ordeal_machine_dawn_type">The Dawn of Green</text>
+  <text id="ordeal_machine_dawn_name">Doubt</text>
+  <text id="ordeal_machine_dawn_start"> One day, a question occurred to me. Where did we come from? We were born and left in the world against our will.</text>
+  <text id="ordeal_machine_dawn_end">Life is full of pain.</text>
+
+  <text id="ordeal_machine_noon_type">The Noon of Green</text>
+  <text id="ordeal_machine_noon_name">Process of Understanding</text>
+  <text id="ordeal_machine_noon_start">They eventually bounded in life. We were only to throw out despair and anger.</text>
+  <text id="ordeal_machine_noon_end">We will understand life and soul through our hands.</text>
+  
+  <text id="ordeal_circus_dawn_type">The Dawn of Crimson</text>
+  <text id="ordeal_circus_dawn_name">Cheers for the start</text>
+  <text id="ordeal_circus_dawn_start">Let's make a stronger fire in a life like a candle that will someday end.</text>
+  <text id="ordeal_circus_dawn_end">Life means get desire.</text>
+  
+  <text id="ordeal_circus_noon_type">The Noon of Crimson</text>
+  <text id="ordeal_circus_noon_name">The harmony of the skin</text>
+  <text id="ordeal_circus_noon_start">We march every time and share our joy.</text>
+  <text id="ordeal_circus_noon_end">We draws the bump of life and life, the harmony of the flesh, and the more beautiful appearance.</text>
+
+  <text id="ordeal_outtergod_noon_type">The Noon of Violet</text>
+  <text id="ordeal_outtergod_noon_name">Great Love For Us</text>
+  <text id="ordeal_outtergod_noon_start">Only weak actions were heard to us, and we sought mercy and love for them.</text>
+  <text id="ordeal_outtergod_noon_end">We can not understand them, nor will they understand us.</text>
+
+  <text id="ordeal_bug_dawn_type">The Dawn of Amber</text>
+  <text id="ordeal_bug_dawn_name">Complete food</text>
+  <text id="ordeal_bug_dawn_start">Complete food, perfect substitute material</text>
+  <text id="ordeal_bug_dawn_end">We ate endlessly to live. Inevitable depletion, garbage...</text>
+
+  <text id="ordeal_bug_dusk_type">The Dusk of Amber</text>
+  <text id="ordeal_bug_dusk_name">Food chain</text>
+  <text id="ordeal_bug_dusk_start">Getting to know its taste was an unavoidable process.</text>
+  <text id="ordeal_bug_dusk_end">We were able to live. We could continue eating.</text>
+
+  <text id="ordeal_outtergod_dawn_type">The Dawn of Violet</text>
+  <text id="ordeal_outtergod_dawn_name">Fruit of understanding</text>
+  <text id="ordeal_outtergod_dawn_start">To understand what is beyond comprehension, They see and dreaming.</text>
+  <text id="ordeal_outtergod_dawn_end">They have not paid for understanding. Just do it.</text>
+
+  <text id="ordeal_machine_midnight_type">The Midnight of Green</text>
+  <text id="ordeal_machine_midnight_name">Last helix</text>
+  <text id="ordeal_machine_midnight_start">The tower is touched by the sky, and nothing will remain on the ground.</text>
+  <text id="ordeal_machine_midnight_end">Who pays for the pain and the price of deeds given in our life.</text>
+
+  <text id="ordeal_circus_dusk_type">The Dusk of Crimson</text>
+  <text id="ordeal_circus_dusk_name">Struggle of the peak</text>
+  <text id="ordeal_circus_dusk_start">Abandon the old body and become all one, and continues the red carnvial constantly.</text>
+  <text id="ordeal_circus_dusk_end">Someday everyone will know, and tomorrow we will march together.</text>
+
+  <text id="ordeal_machine_dusk_type">The Dusk of Green</text>
+  <text id="ordeal_machine_dusk_name">Where to reach</text>
+  <text id="ordeal_machine_dusk_start">They set up a far high tower to go where they came.</text>
+  <text id="ordeal_machine_dusk_end">There was no answer. They did not get what they wanted. They saw only the death of life.</text>
+
+  <text id="ordeal_bug_midnight_type">The Midnight of Amber</text>
+  <text id="ordeal_bug_midnight_name">Eternal meal</text>
+  <text id="ordeal_bug_midnight_start">They fought to eat each other.</text>
+  <text id="ordeal_bug_midnight_end">And stronger side survived, that's the only story.</text>
+
+  <text id="ordeal_scavenger_noon_type">The Noon of Indigo</text>
+  <text id="ordeal_scavenger_noon_name">Sweeper</text>
+  <text id="ordeal_scavenger_noon_start">When the night falls in the Backstreet, they will come.</text>
+  <text id="ordeal_scavenger_noon_end">When the sun rise up, there will be no remains anymore.</text>
+
+  <text id="ordeal_outtergod_midnight_type">The Midnight of Violet</text>
+  <text id="ordeal_outtergod_midnight_name">The God Delusion</text>
+  <text id="ordeal_outtergod_midnight_start">We tried to accept it endlessly. We wanted to understand them in our head whatever the consequences.</text>
+  <text id="ordeal_outtergod_midnight_end">In order not to collapse oneself. Because what they can't understand and what they can't reach is not acceptable...</text>
+
+  <!--해결사 속성별 이름-->
+  <text id="ordeal_fixer_red_name">RED Fixer</text>
+  <text id="ordeal_fixer_white_name">WHITE Fixer</text>
+  <text id="ordeal_fixer_black_name">BLACK Fixer</text>
+  <text id="ordeal_fixer_pale_name">PALE Fixer</text>
+  <text id="ordeal_fixer_claw_name">The Claw</text>
+
+  <!--해결사 크리쳐 이름은 위에 있음-->
+  <text id="ordeal_fixer_dawn_type">The Dawn of White</text>
+  <text id="ordeal_fixer_dawn_name">Request</text>
+  <text id="ordeal_fixer_dawn_start">From minor chores to murder by contract, they do anything you want once they have paycheck.</text>
+  <text id="ordeal_fixer_dawn_end">They are usually hired to the office, the syndicate, and the wings. Their works range from mere chores to something sublime.</text>
+
+  <text id="ordeal_fixer_noon_type">The Noon of White</text>
+  <text id="ordeal_fixer_noon_name">Weapon</text>
+  <text id="ordeal_fixer_noon_start">They search endlessly. Patron by the Wings, Inventions from the backstreet, Loots from the Outskirt, Artifacts from the Ruins…</text>
+  <text id="ordeal_fixer_noon_end">They just overcome whatever’s in front of them, with their weapons in hands, just as they’ve done for a long time.</text>
+
+  <text id="ordeal_fixer_dusk_type">The Dusk of White</text>
+  <text id="ordeal_fixer_dusk_name">Fixer</text>
+  <text id="ordeal_fixer_dusk_start">The colossal tower of light is called The Library. It is natural for Fixers to be drawn to such a mystical place of life and death.</text>
+  <text id="ordeal_fixer_dusk_end">Book Hunters, who will rummage through the library ruled by Pale Librarian someday, are former Fixers.</text>
+
+  <text id="ordeal_fixer_midnight_type">The Midnight of White</text>
+  <text id="ordeal_fixer_midnight_name">The Claw</text>
+  <text id="ordeal_fixer_midnight_start">They handle the secrets of the world. That is the privilege and absolute power of the Head, the Eye, and the Claw.</text>
+  <text id="ordeal_fixer_midnight_end">None can stand against them. The story of the Nest will never end if they exist.</text>
+</localize>

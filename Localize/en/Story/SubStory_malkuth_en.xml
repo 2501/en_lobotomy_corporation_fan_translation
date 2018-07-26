@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+  <!-- 에피소드 1-->
+  <text id="malkuth1_intro_x1">(Rushed footsteps from behind)</text>
+  <text id="malkuth1_intro_m1">Manager, manager!</text>
+  <text id="malkuth1_intro_m2">My apologies. I am... one minute late.</text>
+  <text id="malkuth1_intro_m3">Welcome to Lobotomy Corporation!</text>
+  <text id="malkuth1_intro_a1">Now, we don't need your theatrics, Malkuth. Please be punctual. Go prepare for the meeting.</text>
+  <text id="malkuth1_intro_m4">Angela is not in a good mood today.</text>
+  <text id="malkuth1_intro_m5">Sephirahs are looking forward to meet you.</text>
+  <text id="malkuth1_intro_m6">Well, maybe not all of them.</text>
+  <text id="malkuth1_intro_m7">Where are my manners! My name is Malkuth! I am in charge of the Control Team!</text>
+  <text id="malkuth1_intro_m8">Lots of responsibilities, really.</text>
+  <text id="malkuth1_intro_m9">I will try my best to help you to enhance the performance of this facility.</text>
+  <text id="malkuth1_intro_m10">I am sure that you're nervous now.</text>
+  <text id="malkuth1_intro_m11">It will take some time for you to get used to things around here.</text>
+  <text id="malkuth1_intro_m12">But don’t worry, I will help you!</text>
+  <text id="malkuth1_intro_m13">I used to be a problem Sephirah, you know.</text>
+  <text id="malkuth1_intro_m14">I once sew the buttons of a shirt in the wrong direction or added salt instead of sugar to some food and...</text>
+  <text id="malkuth1_intro_m15">But that was a long time ago and now I am good!</text>
+  <text id="malkuth1_intro_m16">I will give you an easy task as it's your first day here!</text>
+  <text id="malkuth1_intro_m17">Best of luck!</text>
+  <text id="malkuth1_intro_x2">BAMBAMBAMBAM</text>
+  <text id="malkuth1_intro_e1">I can’t take it anymore! Are you the new manager?</text>
+  <text id="malkuth1_intro_e2">I want to get out of here, please. I know you can fire me. Please, I beg you! </text>
+  <text id="malkuth1_intro_m18">Why do you want to quit? Don’t you like working in the Control Team? I am enjoying my work.</text>
+  <text id="malkuth1_intro_e3">I can't take it anymore! I will go insane. Nothing here is normal. </text>
+  <text id="malkuth1_intro_m19">I think you're the perfect person for the job. </text>
+  <text id="malkuth1_intro_e4">I don't want to be here... I don't want to die...</text>
+  <text id="malkuth1_intro_m20">Ehem... I am sorry for this nonsense. That employee is one of mine. Let me take care of this, please.</text>
+  <text id="malkuth1_selection1">Leave it to Malkuth.</text>
+  <text id="malkuth1_selection2">Intervene.</text>
+  <text id="malkuth1_intro_m1_1">I will not disappoint you!</text>
+  <text id="malkuth1_intro_m1_2">Please do not be alarmed. These things happen often.</text>
+  <text id="malkuth1_intro_m1_3">Ah, it's your first time.</text>
+  <text id="malkuth1_intro_m1_4">Usually, Angela or I handle this kind of... situation. </text>
+  <text id="malkuth1_intro_m1_5">It's just a hiccup. Nothing to worry about.</text>
+  <text id="malkuth1_intro_e5">No, please, no! </text>
+  <text id="malkuth1_intro_m2_1">... </text>
+  <text id="malkuth1_intro_m2_2">You will get used to it, manager. </text>
+  <text id="malkuth1_intro_m2_3">Once they lose it, there is no chance for them to recover.</text>
+  <text id="malkuth1_intro_m2_4">The Control Team is like the central nerve system of a human being. If we go down, everyone else goes down.</text>
+  <text id="malkuth1_intro_m2_5">It was hard for me at first, too. </text>
+  <text id="malkuth1_intro_m2_6">But I tried really hard!  </text>
+  <text id="malkuth1_intro_m2_7">So please don’t say you can’t.</text>
+ 
+
+
+  <!--에피소드 2-->
+
+  <text id="malkuth2_intro_a1">There was some confusion last time.</text>
+  <text id="malkuth2_intro_a2">I am in charge of the security of your office,</text>
+  <text id="malkuth2_intro_a3">but I forgot to pay attention to the meeting room.</text>
+  <text id="malkuth2_intro_a4">The employee who made a fuss yesterday resigned.</text>
+  <text id="malkuth2_intro_a5">Good job. </text>
+  <text id="malkuth2_intro_a6">You know what it means to ‘resign’ here in the company, don’t you? </text>
+  <text id="malkuth2_intro_a7">...</text>
+  <text id="malkuth2_intro_a8">I take it as no?</text>
+  <text id="malkuth2_intro_a9">Then it's my fault. Let me explain.</text>
+  <text id="malkuth2_intro_a10">Apparently, some aspects of the company may shock you.</text>
+  <text id="malkuth2_intro_a11">We have a variety of roles here. </text>
+  <text id="malkuth2_intro_a12">Like a well-oiled machine, everyone has their role and they must do their part without errors.</text>
+  <text id="malkuth2_intro_a13">Now, imagine one of the gear wears out faster than others. </text>
+  <text id="malkuth2_intro_a14">It's obvious that the gear would grind down the other gear it is connected and so on.</text>
+  <text id="malkuth2_intro_a15">It would be wise to replace such a gear before it grinds the machine to halt.</text>
+  <text id="malkuth2_intro_a16">That is what we say 'resign.'</text>
+  <text id="malkuth2_intro_m1">Excellent, you did what I asked for!</text>
+  <text id="malkuth2_intro_m2">I knew I could count on you.</text>
+  <text id="malkuth2_intro_m3">Well, to tell you the truth, I was a little worried about you at first.</text>
+  <text id="malkuth2_intro_m4">Oh, how was my day? It was all right, had an emergency protocol drill.</text>
+  <text id="malkuth2_intro_m5">No one was injured or died.</text>
+  <text id="malkuth2_intro_m6">Everybody did a good job!</text>
+  <text id="malkuth2_intro_m7">Not that the team is perfect, though. </text>
+  <text id="malkuth2_intro_m8">By the way, have you seen... them? Some entities that are creepier than the Abnormalities?</text>
+  <text id="malkuth2_intro_m9">I sometimes sense them in the corridors when I am alone.</text>
+  <text id="malkuth2_intro_m10">The drills do no good when you see them. We know nothing about them.</text>
+  <text id="malkuth2_intro_m11">No matter how meticulous the plan is, it can't control the unknown.</text>
+  <text id="malkuth2_intro_m12">They're... I don't know... I am not afraid of them.</text>
+  <text id="malkuth2_intro_m13">I feel something different... Something that...</text>
+  <text id="malkuth2_intro_m14">It's a strange feeling. Something nauseatic, something alien.</text>
+  <text id="malkuth2_intro_m15">What can I say? Something wriggling inside me...</text>
+  <text id="malkuth2_intro_m16">Little by little...</text>
+
+
+
+  <!--에피소드 3-->
+
+  <text id="malkuth3_intro_m1">You did your job perfectly again!</text>
+  <text id="malkuth3_intro_m2">I have a lot of work to do.</text>
+  <text id="malkuth3_intro_m3">My to-do list is always full.</text>
+  <text id="malkuth3_intro_m4">But I know I can do it. Just a little more push and...</text>
+  <text id="malkuth3_intro_m5">I am slower than others.</text>
+  <text id="malkuth3_intro_m6">I always check the list or I miss something important.</text>
+  <text id="malkuth3_intro_m7">That's why I have this notebook on me all the time.</text>
+  <text id="malkuth3_intro_m8">Well, it's almost worn out.</text>
+  <text id="malkuth3_intro_m9">It has always been with me since I began working here in the Control Team.</text>
+  <text id="malkuth3_intro_m10">I know Angela worries about me sometimes.</text>
+  <text id="malkuth3_intro_m11">But I am totally in control.</text>
+  <text id="malkuth3_intro_m12">I think I was born for this job, you know.</text>
+  <text id="malkuth3_intro_m13">It would be fine if I am not working for the Control Team as long as the job is similar.</text>
+  <text id="malkuth3_intro_a1">Malkuth, please finish the report I asked by today.</text>
+  <text id="malkuth3_intro_m14">Sure thing, boss! I have it on my list. I will turn in the report by today.</text>
+  <text id="malkuth3_intro_m15">Well, I should go now, it was pleasure talking to you. </text>
+  <text id="malkuth3_intro_a2">The AIs here, they are unstable... except me.</text>
+  <text id="malkuth3_intro_a3">Malkuth is the worst. Haven't you noticed?</text>
+  <text id="malkuth3_intro_a4">I can’t complain as she is easy to control, though.</text>
+
+
+
+
+  <!-- 에피소드 4-->
+
+  <text id="malkuth4_intro_y1">Let me be honest, Malkuth. You can’t suppress the Ordeals with the employees you have.</text>
+  <text id="malkuth4_intro_y2">Trust me, I am from the Information Team. If you do it by yourself, there would be too much mental damage to the employees.</text>
+  <text id="malkuth4_intro_m1">But Yesod, What we need to think about is the mortality rate of the employees and possibilities of Abnormalities escaping.</text>
+  <text id="malkuth4_intro_h1">Malkuth. Angela said one crazy employees will kill ten others.</text>
+  <text id="malkuth4_intro_m2">I am the Sephirah of the Control Team.</text>
+  <text id="malkuth4_intro_m3">I might make outrageous mistakes in other aspects, but this I know better than anyone else.</text>
+  <text id="malkuth4_intro_m4">I know how to treat employees before they go crazy. I have an action guide for it.</text>
+  <text id="malkuth4_intro_m5">Honestly, I might be the only one who follows the action guide.</text>
+  <text id="malkuth4_intro_m6">Tell me if you need it. I can always share it with you.</text>
+  <text id="malkuth4_intro_h2">I... I’m okay, but that action guide..</text>
+  <text id="malkuth4_intro_m7">I don’t need weak employees in my department.</text>
+  <text id="malkuth4_intro_m8">Weakness means death.</text>
+  <text id="malkuth4_intro_m9">To be in the Control Team means to be better than everyone else.</text>
+  <text id="malkuth4_intro_m10">Please say something, manager.</text>
+  <text id="malkuth4_intro_m11">Weren’t you watching what happened to the weak employees?</text>
+  <text id="malkuth4_intro_m12">Would you guys please say something?</text>
+  <text id="malkuth4_intro_m13">.......</text>
+  <text id="malkuth4_intro_m14">Well, thank you so much for visiting me, I was so happy!</text>
+  <text id="malkuth4_intro_m15">Let’s meet up again next time with the upper Sephirahs!</text>
+  <text id="malkuth4_intro_a1">I will let them know.</text>
+  <text id="malkuth4_intro_a2">The mental corruption of the Control Team employees exceeded the maximum limit. What did the other Sephirahs do in the meantime?</text>
+  <text id="malkuth4_intro_a3">The Control Team failed to handle Ordeals.</text>
+  <text id="malkuth4_intro_a4">Get more employees and stop the Ordeals. I will ask other departments for support.</text>
+
+
+
+  <!-- 에피소드 5-->
+
+  <text id="malkuth5_intro_m1">...Hello!</text>
+  <text id="malkuth5_intro_m2">I am busy, I still haven't finished even half of what's written in this notebook.</text>
+  <text id="malkuth5_intro_m3">..............</text>
+  <text id="malkuth5_intro_m4">I heard extraction experiments would be conducted.</text>
+  <text id="malkuth5_intro_m5">I saw the list of participants, but I was not able to find my name on it.</text>
+  <text id="malkuth5_intro_m6">Well, I mean there's probably tons of reasons behind it and maybe I'm not good enough for the experiment yet,</text>
+  <text id="malkuth5_intro_m7">but may I join the experiment as well?</text>
+  <text id="malkuth5_intro_m8">.........</text>
+  <text id="malkuth5_intro_m9">I learned a lot here.</text>
+  <text id="malkuth5_intro_m10">I am very sure I can help in some way.</text>
+  <text id="malkuth5_intro_m11">I won’t disappoint you!</text>
+  <text id="malkuth5_intro_m12">Hello, manager!</text>
+  <text id="malkuth5_intro_m13">.......</text>
+  <text id="malkuth5_intro_m14">It’s sad not having enough talent, isn’t it?</text>
+  <text id="malkuth5_intro_m15">If someone doesn’t look back, what does that mean?</text>
+  <text id="malkuth5_intro_m16">Does not acknowledge you.</text>
+  <text id="malkuth5_intro_m17">Does not care about you at all.</text>
+  <text id="malkuth5_intro_m18">No need to analyze your action, as a conclusion was already made.</text>
+  <text id="malkuth5_intro_m19">Did you ever scrape the floor, writhing in pain?</text>
+  <text id="malkuth5_intro_m20">It sounds very painful.</text>
+  <text id="malkuth5_intro_m21">But actually you feel nothing even when you lose your fingernails.</text>
+  <text id="malkuth5_intro_m22">You stare at our lost fingernails, and just before you lose your consciousness,</text>
+  <text id="malkuth5_intro_m23">when you feel you are not yourself anymore, then you start to laugh really hard.</text>
+  <text id="malkuth5_intro_m24">Even though it’s not funny at all.</text>
+  <text id="malkuth5_intro_m25">And on the ground someone's shadow looking down and the feet were seen.</text>
+  <text id="malkuth5_intro_m26">Whose feet were those?</text>
+  <text id="malkuth5_intro_m27">When the person finally turned around, everything was over.</text>
+  <text id="malkuth5_intro_m28">Did you see the fragments of despair from there?</text>
+  <text id="malkuth5_intro_m29">Or were you staring at your fingernails on the floor?</text>
+  <text id="malkuth5_intro_m30">That is the exact moment I felt helplessness.</text>
+  <text id="malkuth5_intro_m31">Without you, I would’ve never known the feeling, thank you!</text>
+  <text id="malkuth5_intro_m32">Then, what about you, manager?</text>
+  <text id="malkuth5_intro_m33">Have you ever felt helplessness of not being able to control anything?</text>
+  <text id="malkuth5_intro_m34">When uncontrollable things rain down from somewhere that is not my body, that moment of helplessness of not being able to control yourself is an awful feeling.</text>
+  <text id="malkuth5_intro_m35">….....</text>
+  <text id="malkuth5_intro_m36">Please tell me, so,</text>
+  <text id="malkuth5_intro_m37">I can feel rewarded a bit.</text>
+  <text id="malkuth5_intro_A1">Elijah was impatient. Her impatience caused common mistakes.</text>
+  <text id="malkuth5_intro_A2">She once when on a long, winding explanation of why she needed to finish the experiment, but she didn't remember.</text>
+  <text id="malkuth5_intro_A3">Whenever she said she is not authorized, I could see the strong desire in her eyes. She was obsessed, craving for it.</text>
+  <text id="malkuth5_intro_A4">The sound of her footsteps may make others turn around.</text>
+  <text id="malkuth5_intro_A5">Cogito was something that was not accessible with her authority.</text>
+  <text id="malkuth5_intro_A6">The only thing she could do was to record the change of her subjects.</text>
+  <text id="malkuth5_intro_A7">She knew that Cogito was not ready for humans.</text>
+  <text id="malkuth5_intro_A8">When I realized what was going on, half of her teeth were gone, and...</text>
+  <text id="malkuth5_intro_m38">Kill me... Kill me...</text>
+  <text id="malkuth5_selection1">Ignore.</text>
+  <text id="malkuth5_selection2">Ignore.</text>
+  <text id="malkuth5_selection3">Ignore.</text>
+
+
+  <!-- 에피소드 6-->
+  <text id="malkuth6_intro_m1">Hello, A!</text>
+  <text id="malkuth6_intro_m2">I am very, very glad to join this team!</text>
+  <text id="malkuth6_intro_m3">I forgot to introduce myself! My name is....! I will try my best to help the team!</text>
+  <text id="malkuth6_intro_m4">I was writing a report, where did it go?</text>
+  <text id="malkuth6_intro_A1">Nothing can be done with only passion.</text>
+  <text id="malkuth6_intro_A2">It's clear what mistakes being impatient brings, so we needed to take the time.</text>
+  <text id="malkuth6_intro_A3">The situation was not good enough to permit memorizing names or responding to meaningless gestures.</text>
+  <text id="malkuth6_intro_A4">It wasn't after a very long time had passed that I thought giving praise once in awhile may be good.</text>
+  <text id="malkuth6_intro_m5">.…......</text>
+  <text id="malkuth6_selection1">Ask if eveything's okay.</text>
+  <text id="malkuth6_selection2">Say hello.</text>
+  <text id="malkuth6_intro_m6">You are so random.</text>
+  <text id="malkuth6_intro_m7">I think you confuse us as human beings sometimes.</text>
+  <text id="malkuth6_intro_m8">I feel like I had a dream for the first time in a while.</text>
+  <text id="malkuth6_intro_m9">Other Sephirahs told me that I damaged the facility a lot.</text>
+  <text id="malkuth6_intro_m10">......</text>
+  <text id="malkuth6_intro_m11">Have you ever felt it, manager?</text>
+  <text id="malkuth6_intro_m12">The feeling of sailing the ocean without any map.</text>
+  <text id="malkuth6_intro_m13">It’s like you are groping through darkness.</text>
+  <text id="malkuth6_intro_m14">I feel like an island on the vast ocean.</text>
+  <text id="malkuth6_intro_m15">I am in the Control Team.</text>
+  <text id="malkuth6_intro_m16">Nobody knows how much pressure I get to command everyone.</text>
+  <text id="malkuth6_intro_m17">I am sure you know how it feels.</text>
+  <text id="malkuth6_intro_m18">Everything collapses when you start to think you might be not able to do it.</text>
+  <text id="malkuth6_intro_m19">Have you ever seen the eyes of dying employees?</text>
+  <text id="malkuth6_intro_m20">Don't avoid them saying there's nothing you can do for them.</text>
+  <text id="malkuth6_intro_m21">Don’t be sorry to the dying sacrifices,</text>
+  <text id="malkuth6_intro_m22">don’t blame yourself thinking you could’ve done better.</text>
+  <text id="malkuth6_intro_m23">Only after you can see things the way they are,</text>
+  <text id="malkuth6_intro_m24">can you also see other things.</text>
+  <text id="malkuth6_intro_m25">I saw you overcoming unavoidable ordeals. Those ordeals probably originated from me.</text>
+  <text id="malkuth6_intro_m26">To be honest, I didn’t think you would make it.</text>
+  <text id="malkuth6_intro_m27">....Am I being too honest?</text>
+  <text id="malkuth6_intro_m28">We can’t change the past, I know.</text>
+  <text id="malkuth6_intro_m29">I don’t expect you to be a shining beacon or that this place will suddenly become peaceful and warm.</text>
+  <text id="malkuth6_intro_m30">But...</text>
+  <text id="malkuth6_intro_m31">Maybe I can just try to wait.</text>
+  <text id="malkuth6_intro_m32">We will take all those horrible moments,</text>
+  <text id="malkuth6_intro_m33">while you take the pain.</text>
+  <text id="malkuth6_intro_m34">.... Just like now.</text>
+</localize>
+
+
