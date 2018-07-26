@@ -10,6 +10,8 @@ This is more or less a direct (edited) copy-and-paste of the Unity XML translati
 Note that this will create a mismatch with Steam's concept of what the file contents _should_ be, so you may wish to disable auto-updating in the game's steam properties after installing this fan translation. This behavior hasn't been confirmed, but it can't hurt to play it safe.
 
 # How do I help?
-Thanks for asking! Please open a pull request with your translated files and updated "translation_progess.md" file. Feel free to fork this repo as well if you wish to take things in a different direction.
+Thanks for asking! Please open a pull request with your translated files and updated "translation_progess.md" file. Additionally, please take a look at "translation_guidelines.md" so everyone can coordinate on details which reach across files and/or the entire game (The names of the types of work, Zayin/Teth/He/Waw/Aleph, etc.).
+
+Feel free to fork this repo as well if you wish to take things in a different direction.
 
 NOTE: At this time I'm far from fluent in any language but English, so if you happen to know Korean your assistance would be especially well appreciated as you may have insight I lack.
