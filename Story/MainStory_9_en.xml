@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <text id="day9_angela_1">Manager, I want you to choose one of three letters from the alphabet. A, B, or C.</text>
+  <text id="day9_selection1">A.</text>
+  <text id="day9_selection2">B.</text>
+  <text id="day9_selection3">C.</text>
+  <text id="day9_angela_1_1">So you've picked one? Good. Now listen carefully.</text>
+  <text id="day9_angela_1_2">'A' is a good letter. My name starts with it as well.</text>
+  <text id="day9_angela_1_3">People who choose A are sensitive to others' opinions about them and are results-oriented. As such, you are an excellent listener. People will flock to you.</text>
+  <text id="day9_angela_2_1">So you've picked one? Good. Now listen carefully.</text>
+  <text id="day9_angela_2_2">People who choose B are detail-oriented. Rational and realistic. Some may even be materialistic. However your traits will lead you to success.</text>
+  <text id="day9_angela_2_3">I don’t really like the letter 'B.' </text>
+  <text id="day9_angela_3_1">So you've picked one? Good. Now listen carefully.</text>
+  <text id="day9_angela_3_2">Alright, 'C.'</text>
+  <text id="day9_angela_3_3">People who choose C believe that the process is more important than the outcome. Therefore they are good at planning and enjoy change. You will be able to gain insight without being confined by the rules.</text>
+  <text id="day9_angela_2">This is a new pastime among the employees. I find it uninteresting.</text>
+  <text id="day9_angela_3">There are no scientific observations. It's just good for passing the time.</text>
+  <text id="day9_angela_4">I could also imagine...</text>
+  <text id="day9_angela_5">Whether I would have been this or that kind of a person if I were human.</text>
+  <text id="day9_angela_6">Is it odd for me to think about that?</text>
+</localize>

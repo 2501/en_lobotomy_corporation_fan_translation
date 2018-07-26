@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <text id="day3_angela_1">Hello, manager.</text>
+  <text id="day3_angela_2">It’s your third day working here.</text>
+  <text id="day3_angela_3">3 is a mysterious number.</text>
+  <text id="day3_angela_4">Powerful beings in fables often grant three wishes.</text>
+  <text id="day3_angela_5">Well, I am not a mage or billionaire that can grant you wishes.</text>
+  <text id="day3_angela_6">But I know what your predecessors wanted.</text>
+  <text id="day3_angela_7">There were many answers. However, common among all of them was a seeking for some kind of 'growth.'</text>
+  <text id="day3_angela_8">Leading the company to prosperity, achieving spiritual maturity, you name it. They all wanted to branch out to somewhere.</text>
+  <text id="day3_angela_9">How about you?</text>
+  <text id="day3_selection1">Prosperity.</text>
+  <text id="day3_selection2">Spiritual maturity.</text>
+  <text id="day3_angela_1_1">Your future is defined by what you do now.</text>
+  <text id="day3_angela_1_2">And currently you work for Lobotomy Corporation.</text>
+  <text id="day3_angela_1_3">In Lobotomy, you can see things that can't be seen, feel things that can't be felt, and do impossible things.</text>
+  <text id="day3_angela_1_4">Your wish will be granted.</text>
+  <text id="day3_angela_1_5">Perhaps you will be the best manager I have ever seen.</text>
+  <text id="day3_angela_2_1">...</text>
+  <text id="day3_angela_2_2">Come to think of it, there was someone who gave me the same answer.</text>
+  <text id="day3_angela_2_3">As you know, nothing here is 'spiritual.'</text>
+  <text id="day3_angela_2_4">So I asked for the definition of spirit.</text>
+  <text id="day3_angela_2_5">Then the person said...</text>
+  <text id="day3_angela_2_6">Well, I don’t remember the details of the conversation.</text>
+  <text id="day3_angela_2_7">Even AIs  are unable to store every bit of data. Unnecessary data should be deleted for smooth operation.</text>
+  <text id="day3_angela_3_1">So, did their wish come true?</text>
+  <text id="day3_angela_3_2">Well, I guess what happened to others isn't important to you.</text>
+  <text id="day3_angela_3_3">I will support you to reach your goal.</text>
+</localize>

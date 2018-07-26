@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+ 
+  <!-- day22 start -->
+
+  <text id="day22_a">&lt;i&gt;To the new manager:&lt;/i&gt;&#13;&#10;&#13;&#10;I have heard you’re a very valuable employee to the corporation. Please keep up the good work with your great assistant, Angela. You will not find me in this place at the moment, but I believe we will be able to meet each other soon. The Lobotomy Corporation will never forget your devotion and effort.&#13;&#10;&#13;&#10;&lt;i&gt;Regards,&#13;&#10;A, CEO of Lobotomy Corporation.&lt;/i&gt;</text>
+  <text id="day22_a_1">To the new manager:</text>
+  <text id="day22_a_2">I have heard you’re a very valuable employee to the corporation. </text>
+  <text id="day22_a_3">Please keep up the good work with your great assistant, Angela. </text>
+  <text id="day22_a_4">You will not find me in this place at the moment, but I believe we will be able to meet each other soon. </text>
+  <text id="day22_a_5">The Lobotomy Corporation will never forget your devotion and effort.</text>
+  <text id="day22_a_6">Regards, A, CEO of Lobotomy Corporation. </text>
+
+  <text id="day22_angela_1">You've gotten a document written by A himself?</text>
+  <text id="day22_angela_2">Perhaps you’re being recognized now.</text>
+  <text id="day22_angela_3">A is on a long journey currently.</text>
+  <text id="day22_angela_4">As all journeys have to end, the final destination will be home; which is this place.</text>
+  <text id="day22_angela_5_r1">Sometimes I imagine myself on a journey too.</text>
+  <text id="day22_angela_5_r2">Have you ever taken a trip somewhere?</text>
+  <text id="day22_angela_5_r3">The first thing I want to do if I ever get out of the monitor.</text>
+  <text id="day22_angela_5_r4">Perhaps human life itself is a long journey?</text>
+  <text id="day22_angela_6_r1">Accumulating memories while looking at a world I have never seen.</text>
+  <text id="day22_angela_6_r2">In fact, they say preparing for a trip is a luxury nowadays. </text>
+  <text id="day22_angela_6_r3">Would be to walk as much as possible, taking in the scenery as if I was capturing a million photos.</text>
+  <text id="day22_angela_6_r4">Could this moment be a part of the journey for you?</text>
+  <text id="day22_angela_7">The day is cold still, but we know that the winter is almost over.</text>
+  <text id="day22_angela_8_r1">Can you see the flowers sprouting through the snow?</text>
+  <text id="day22_angela_8_r2">This winter was much colder than usual. </text>
+  <text id="day22_angela_8_r3">However, the end of winter does not necessarily mean spring is coming.</text>
+ 
+ 
+ 
+</localize>

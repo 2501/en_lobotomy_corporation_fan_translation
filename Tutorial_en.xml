@@ -8,100 +8,100 @@
     </node>
 
     <node idx ="1">
-      <text>Hello manager. Welcome to Lobotomy Corporation. Starting today you are responsible for managing abnormalities we have and ensuring we meet the daily energy quota.</text>
+      <text>Hello manager. Welcome to Lobotomy Corporation. Starting today you are responsible for managing the abnormalities we have and ensuring that we meet the daily energy quota.</text>
       <!-- 화살표, 하이라이트도 여기에 추가 -->
     </node>
 
     <node idx ="2">
-      <text>You can move the camera around with W,A,S,D on your keyboard or by pressing and holding the secondary mouse button, then dragging the mouse.</text>
+      <text>You can move the camera around with the W, A, S, and D keys on your keyboard. You can also press and hold the secondary mouse button (RMB) and drag the mouse.</text>
     </node>
 
     <node idx ="3">
-      <text>You can zoom in or out the screen with F,G on your keyboard or by scrolling wheel on the mouse.</text>
+      <text>You can zoom the screen in and out with the F and G keys on your keyboard. The scroll wheel on the mouse can also be used.</text>
     </node>
 
     <node idx ="4">
-      <text>Let's try a simple maneuver. When you hover your mouse over an employee, some information about them will be revealed on the right. Please try selecting an employee by pressing the primary mouse button.</text>
+      <text>Let's try a simple maneuver. When you hover your mouse over an employee, some information about them will be show on the top right corner. Please try selecting an employee by pressing the primary mouse button (LMB).</text>
     </node>
 
     <node idx ="5">
-      <text>Well done. The information displayed in the bar on the right now is related to the selected employee. Some of it might be of importance, such as their state values and E.G.O equipment. Please look in the manual at the &lt;Employees&gt; article for details about what these mean.</text>
+      <text>Well done. The information displayed in the panel on the right is related to the selected employee. Some of this information is important, such as their state and E.G.O equipment. Please look article in the manual titled &lt;Employees&gt; for more details about what the information means.</text>
     </node>
 
     <node idx ="6">
-      <text>The bar on the top left here shows the amount of energy you need to collect for the day. On the top right you can find what missions you are able to clear today.</text>
+      <text>The bar at the top left of the screen displays the amount of energy you need to collect to end the day. The top right corner lists what missions you are able to clear today.</text>
     </node>
 
     <node idx ="7">
-      <text>Energy can be produced when a product called Positive Enkephalin is released by an abnormality, something it might do when it is being worked on. Please select a containment unit that holds an abnormality with the primary mouse button.</text>
+      <text>Energy is produced when a product called Positive Enkephalin (PE, a green box) is released by an abnormality. This can occur while it is being worked on. Please click on the containment unit that holds an abnormality with the primary mouse button (LMB).</text>
     </node>
 
     <node idx ="8">
-      <text>Since you have yet to learn any information about this abnormality, you have no way of knowing how well it would respond to any work. In order to find out an employee has to preform work with it. So for now, please select the first type of work availible, Instinct work.</text>
+      <text>Since you have yet to learn (unlock) any information about this abnormality, you have no way of knowing how it will respond to the 4 different works. In order to learn this information, an employee has to perform a work with it. For now, please select the first type of work availible, Instinct work.</text>
     </node>
 
     <node idx ="9">
-      <text>Instinct work is conducted to satisfy an abnormality's primal and physiological desires. An employee who conducts instinct work will increase their Fortitude at the end of the day, which increases their Health Points (HP).</text>
+      <text>Instinct work satisfies an abnormality's primal and physiological desires. When an employee conducts Instinct work, their Fortitude will increase at the end of the day. Increasing Fortitude raises their Health Points (HP).</text>
     </node>
 
     <node idx ="10">
-      <text>The different types of work you can request you employees to perform on abnormalities have different results. These results are different for each abnormality. The succesrate also varies per type of work and is different per abnormality as well.</text>
+      <text>Every work you can request your employees to perform on abnormalities will have different results. These results differ for each abnormality. The success rate for type of work also varies per abnormality.</text>
     </node>
 
     <node idx ="11">
-      <text>It can be quite staining for the fragile mind when someone meets an abnormality. If your employee isn't ready enough, it may make the abnormality seem frightening or disturbing to them. As such, they may react severely towards facing it and it can lower their Sanity Points (SP).</text>
+      <text>A fragile mind can be quite strained when meeting an abnormality. If your employee is not mentally ready, it may make the abnormality seem more frightening or disturbing to them. As such, they may have a serious reaction encountering it, which will lower their Sanity Points (SP).</text>
     </node>
 
     <node idx ="12">
-      <text>An abnormality releases Enkephalin when employees work with them. We collect this into boxes. Depending on how well the employee performs the work, the abnormality will respond Positive or Negative. When it reacts positively, it will release Positive Enkephalin, which produces a PE-Box.</text>
+      <text>Abnormalities release Enkephalin when employees work with them. We collect this into boxes. Depending on how the employee performs the work, the abnormality will respond either Positively or Negatively. When it reacts positively, it will release Positive Enkephalin, which produces a green PE-Box.</text>
     </node>
 
     <node idx ="13">
-      <text>If however the abnormality reacts negatively, it will release Negative Enkephalin instead and damage the employee. You should keep in mind that when an employee's Health or Sanity drops completely, the work is then forcefully ended.</text>
+      <text>However, if the abnormality reacts negatively, it will release Negative Enkephalin instead, and damage the employee. Please keep in mind that when an employee's Health or Sanity drops completely, the work is forcefully ended.</text>
     </node>
 
     <node idx ="14">
-      <text>An abnormality's mood might change depending on the outcome of the work done on it. The outcome can be predicted based on the amount of PE-Boxes we obtained thanks to the work. An abnormality has generally three ways of responding to it: Good, Neutral and Bad. It may use a special ability or try to escape depending on the outcome.</text>
+      <text>An abnormality's mood might change depending on the outcome of the work done with it. This outcome can be predicted based on the amount of PE-Boxes we obtained thanks to the work. An abnormality has generally three ways of responding: Good, Neutral and Bad. Depending on the outcome, it may use a special ability or try to escape.</text>
     </node>
 
     <node idx ="15">
-      <text>When the work is finished, the energy generated and PE-Boxes are collected. The PE-Boxes are stored and shown in the abnormality's PE-Box counter. Each abnormality produces a unique set of PE-Boxes, which can be used to unlock the abnormality's information details, increase the observation level you have with it or to extract E.G.O Equipment from it.</text>
+      <text>When the work is finished, the energy and PE-Boxes that were generated are collected. PE-Boxes are stored and shown in the abnormality's PE-Box counter. Each abnormality produces a set of PE-Boxes unique to them. These can be used to unlock more of an abnormality's information which in turn increases the observation level, or to extract E.G.O Equipment from it.</text>
     </node>
 
     <node idx ="16">
-      <text>After work has been performed with it, the same abnormality cannot be worked with for a short period of time. In the mean time, you can send your employees to other abnormalities to perform work with those or let them heal up.</text>
+      <text>After a work has been performed with an abnormality, you cannot work again with it for a short period of time. Until you can work with it again, you can send your employees to work with other abnormalities or let them heal up.</text>
     </node>
 
     <node idx ="17">
-      <text>When the regenerator guage fills up completely, employees in the main room will be healed. It will restore both their Health (HP) and Sanity (SP).</text>
+      <text>When the regenerator gauge fills up completely, employees in the main room will be healed. This will restore both their Health (HP) and Sanity (SP).</text>
     </node>
 
     <node idx ="18">
-      <text>Let's try ordering an employee to do a different type of work in a slightly different way. Click on the employee using the primary mouse button</text>
+      <text>Let's try ordering an employee to go work using a different method. First, click on the employee using the primary mouse button (LMB).</text>
     </node>
 
     <node idx ="19">
-      <text>Then use the secondary mouse button on the abnormality containment unit.</text>
+      <text>Now use the secondary mouse button (RMB) to click on the abnormality containment unit. (Please be aware you can accidentally deselect the employee)</text>
     </node>
 
     <node idx ="20">
-      <text>We still don't know much about this abnormality, so let's just try ordering the employee to perform Insight work with it.</text>
+      <text>We still don't know much about this abnormality, so order the employee to perform Insight work with it.</text>
     </node>
 
     <node idx ="21">
-      <text>Insight work is conducted to improve the environment the abnormality resides in. An employee who conducts insight work will increase their Prudence at the end of the day, which increases their Sanity Points (SP).</text>
+      <text>Insight work is conducted to improve the environment in which the abnormality resides. When an employee conducts Insight work, their Prudence will increase at the end of the day. Increasing Prudence raises their Sanity Points (SP).</text>
     </node>
-
+  <!-- Add more corrections here -->
     <node idx ="22">
       <text></text>
     </node>
 
     <node idx ="23">
-      <text>You now have collected enough of this abnormality's PE-Boxes. It's time to learn about observation. Please press the label bar displayed on top of the containment unit. For now it displays the subject number, but after unlocking its basic information, its name will be displayed here instead.</text>
+      <text>You seem to have collected enough of this abnormality's PE-Boxes. It's time to learn about observation. Please press the label bar (nameplate) displayed at the top of the containment unit. At the moment it displays the subject number instead of the name. After unlocking the abnormality's basic information, the name will be displayed here instead.</text>
     </node>
 
     <node idx ="24">
-      <text>This is the information we currently have on the said abnormality. As you can see, we don't have much knowledge about it yet as most of it is locked away.</text>
+      <text>This displays the information we currently have on the abnormality. As you can see, we have little knowledge about it, as most of it is locked away.</text>
     </node>
 
     <node idx ="25">
@@ -211,7 +211,7 @@
     </node>
 
     <node idx ="1">
-      <text>When you succesfully manage to clear a mission on the previous day, you can conduct research. Purposals for research are then displayed at the start of the day. You can select one and conduct the research by clicking and dragging it to the slot in the lower right, then hitting OK. Please try to do so with this example research purposal.</text>
+      <text>When you succesfully manage to clear a mission on the previous day, you can conduct research. Proposals for research are then displayed at the start of the day. You can select one and conduct the research by clicking and dragging it to the slot in the lower right, then hitting OK. Please try to do so with this example research purposal.</text>
     </node>
 
     <node idx ="2">

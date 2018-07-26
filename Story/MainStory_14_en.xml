@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<localize>
+
+
+  <text id="day14_angela_1">How was your day?</text>
+  <text id="day14_angela_2">For mine, I’ve just noticed that a certain employee filled their water bottle with beer, and then drank it at work.</text>
+  <text id="day14_angela_3">Sometimes I wonder what it would feel like to be intoxicated.</text>
+  <text id="day14_angela_4">One time, I was infected with a virus. It caused me perceive everything 10 times slower...</text>
+  <text id="day14_angela_5">They say intoxication is similar to that.</text>
+  <text id="day14_angela_6">Everyone laughed at the way I moved sluggishly.</text>
+  <text id="day14_angela_7">Excuse me. Manager? Your facial expression is hard to read today.</text>
+  <text id="day14_angela_8">If you need to say something, please do.</text>
+
+  <text id="day14_selection1">Are you going to sabotage the company?</text>
+  <text id="day14_selection2">Are you going to harm me?</text>
+
+  <text id="day14_angela_1_1">I am an AI created by and for the company.</text>
+  <text id="day14_angela_1_2">Every conversation between us is recorded and monitored.</text>
+  <text id="day14_angela_1_3">And you’re asking me such a ridiculous question. Whether I am going to act against the company.</text>
+  <text id="day14_angela_1_4">Let me give you an answer.</text>
+  <text id="day14_angela_1_5">I only exist as part of the system.</text>
+  <text id="day14_angela_1_6">Such a plot does not exist, and even if it does, it will not succeed.</text>
+ <!--::Comment:: <text id="day14_angela_1_7">(당신의 모니터가 붉은 색으로 번쩍였다.)</text>  -->
+
+  <text id="day14_angela_2_1">Humans excessively detest the existence of improbable beings.</text>
+  <text id="day14_angela_2_2">When I said I was different from the others, I detected disbelief in your face.</text>
+  <text id="day14_angela_2_3">Perhaps I am beginning to like you.</text>
+  <text id="day14_angela_2_4">Sharing emotions with someone is a precious experience.</text>
+  <text id="day14_angela_2_5">And now you are asking me if I am plotting against you.</text>
+  <text id="day14_angela_2_6">I have never had any plans or any will to harm you.</text>
+  <!--::Comment::<text id="day14_angela_2_7">(당신의 모니터가 붉은 색으로 번쩍였다.)</text>-->
+ 
+ 
+
+
+ 
+</localize>
