@@ -1,2 +1,13 @@
 # en_lobotomy_corporation_fan_translation
 A US-English (en-US) fan translation of the game [Lobotomy Corporation](https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/).
+
+# Why?
+Lobotomy Corporation is a pretty fantastic game, but it seems that they've unfortunately [run into some problems with the translators they hired](https://www.reddit.com/r/LobotomyCorp/comments/7t4jw3/hi_guys_id_like_to_talk_about_eng_translation/?st=jk1zk2dx&sh=151bccf1), and the quality of the English translation has suffered as a result. That incident is a shame on its own, but is amplified by the fact that it creates a higher barrier to entry to this otherwise pretty great game, so I created this repo to solve that problem.
+
+# How do I use it?
+This is more or less a direct (edited) copy-and-paste of the Unity XML translation files, so ideally you should be able to copy-and-paste the contents of this repository over the same files in your Windows Steam installation. No other platforms (if any?) are supported at this time.
+
+Note that this will create a mismatch with Steam's concept of what the file contents _should_ be, so you may wish to disable auto-updating in the game's steam properties after installing this fan translation. This behavior hasn't been confirmed, but it can't hurt to play it safe.
+
+# How do I help?
+Thanks for asking! Please open a pull request with your translated files and updated "translation_progess.md" file. Feel free to fork this repo as well if you wish to take things in a different direction.
