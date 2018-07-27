@@ -27,9 +27,10 @@
 * Skills_en
 * Tutorial_en
     * CasualWatson.
-        * Fixed up to about node 24 for revisions.
+        * Fixed up to step index 1, node 24 for revisions.
     * 2501
-        * Would like to work on the rest of it.
+        * Fixed from step index 1, node 24 to step index 1, node 49.
+        * Will tackle SI 2 next.
 
 ## \en\creatures
 

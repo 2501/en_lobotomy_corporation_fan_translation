@@ -105,99 +105,99 @@
     </node>
 
     <node idx ="25">
-      <text>You need to spend some of the unique PE-Boxes we collected from the abnormality in order to gain specific information. Please try to unlock the basic information about the abnormality.</text>
+      <text>You need to spend some of the unique PE-Boxes we collected from the abnormality in order to gain detailed information. Please try to unlock some information about the abnormality.</text>
     </node>
 
     <node idx ="26">
-      <text>Details concerning the management process of the abnormality are displayed here. If there is something the abnormality doesn't like, it can result in a decrease of its Qliphoth Counter and cause problems in energy production, so make sure you unlock and read these thoroughly. Please try to unlock it now.</text>
+      <text>Details about managing the abnormality are displayed here. If the abnormality doesn't like something, the Qliphoth Counter can decrease and cause problems for energy production, so make sure you unlock and read these thoroughly. Please try to unlock it now.</text>
     </node>
 
     <node idx ="27">
-      <text>How the abnormality's would react towards the different types of work is displayed here. The more prefered the work is, the higher the succesrate will be. The number on the left of it indicates the level of the work an employee has to have with it for the displayed succesrate to count. Please unlock all the work favor guidelines.</text>
+      <text>How abnormalities react to different types of work is displayed here. The more it likes a type of work, the higher the success rate. The number on the left indicates the level of employee skill needed for the associated success rate. Please unlock all of its work preferences now.</text>
     </node>
 
     <node idx ="28">
-      <text>Let's proceed. This area here shows what maximum Qliphoth Counter value of the abnormality is. It will also show whether or not the abnormality will escape when the Qliphoth Counter reached 0 as well as how resistant it is to certain types of damage after it has escaped, which is something you would need to know to manage such situation. Please unlock the escape information.</text>
+      <text>Let's proceed. This area shows the abnormality's Qliphoth Counter maximum. It also shows whether an abnormality will escape when the Qliphoth Counter reaches 0 as well as its resistance to different types of damage after it has escaped, which is useful to know for abnormality suppression. Please unlock its escape information now.</text>
     </node>
 
     <node idx ="29">
-      <text>You are now finished with the observation of this abnormality. As you unlock information details, the observation level of the abnormality is increased and will give benefits when working with the abnormality, such as an increased work speed or succesrate.</text>
+      <text>You are now finished observing this abnormality. As you unlock more information the abnormality observation level will increase and give benefits when working with the abnormality, such as an increased work speed or success rate.</text>
     </node>
 
     <node idx ="30">
-      <text>As you increase the observation level and reach a certain point, you will be capable of extracting E.G.O Equipment from the abnormality at the cost of PE-Boxes. E.G.O Weapons are powerful tools that can help with suppressing abnormalities. Please extract an E.G.O Weapon.</text>
+      <text>After increasing the observation level past a certain point, you can extract E.G.O Equipment from the abnormality at the cost of PE-Boxes. E.G.O Weapons are powerful tools that can help with suppressing and studying abnormalities. Please extract an E.G.O Weapon.</text>
     </node>
 
     <node idx ="31">
-      <text>An E.G.O Suit offers an increased resistance to certain types of damage. Some types of damage might come in harder than others depending on what E.G.O Suit the employee uses. Please extract an E.G.O Suit.</text>
+      <text>E.G.O Suits offer increased resistance to certain types of damage. Some damage types may hit harder than others depending on what E.G.O Suit an employee wears. Please extract an E.G.O Suit.</text>
     </node>
 
     <node idx ="32">
-      <text>Well done. You can see what E.G.O Gift the abnormality has a chance on passing to an employee here. If this area is unlocked, when an employee finishes work with the abnormality, they would have a chance of receiving the E.G.O Gift displayed here. Usually the chances of this happening are slim.</text>
+      <text>Well done. You can see the E.G.O Gift the abnormality has a chance to give an employee here. If this area is unlocked, employees have a chance to receive the E.G.O Gift after completing work with the abnormality. Usually the chance of this is slim.</text>
     </node>
 
     <node idx ="33">
-      <text>Now lastly, let's check the abnormality's observation records. Please click on Abnormality Story.</text>
+      <text>Lastly, let's check the abnormality's observation records. Please click on Abnormality Story.</text>
     </node>
 
     <node idx ="34">
-      <text>You can see the obversation records of the abnormality here. Entries are be added as your observation level increases. Looks like we reviewed everything, so let's close this information window. Please press Leave.</text>
+      <text>You can see the abnormality's obversation records here. Entries are added as the observation level increases. Looks like we've now reviewed everything, so let's close this information window. Please click on Leave.</text>
     </node>
 
     <node idx ="35">
-      <text>Now that you have unlocked the basic information, some of this information is displayed on top of the containment unit. And since we unlocked the work favors, we now know the abnormality prefers attachment work. Let's try ordering an employee to perform attachment work on it. Click on the abnormality's containment unit.</text>
+      <text>Now that you've unlocked the abnormality's basic information, some is shown on top of the containment unit. Furthermore, since we unlocked its work preferences, we know it prefers attachment work. Let's try ordering an employee to perform attachment work on it. Click on the abnormality's containment unit.</text>
     </node>
 
     <node idx ="36">
-      <text>Some of the basic information is displayed in this window as well, which might be useful. Please try ordering an employee to do attachment work.</text>
+      <text>Some basic information is shown here as well, which can be useful. Please order an employee to do attachment work.</text>
     </node>
 
     <node idx ="37">
-      <text>Since you unlocked the favor guide for attachment work, the succesrate the employee has and amount of time they need to perform the work is displayed. You can also see the information details of the employee when you hover your mouse over them. This allows you to make mindful decisions when giving the work orders. Please select an employee to do the work.</text>
+      <text>Since you unlocked the work preference details for attachment work, the success rate and job length are displayed for the employee. You can also see further details of the employee when you hover your mouse over them which can help you to make better decisions when giving orders. Please select an employee to do the work.</text>
     </node>
 
     <node idx ="38">
-      <text>Let me warn you about one more thing. When your employees enter a containment unit to do work with an abnormality, the Qliphoth Meltdown guage is filled up by one block.</text>
+      <text>Let me warn you about one more thing. When your employees enter a containment unit to work with an abnormality, the Qliphoth Meltdown guage is filled up by one block.</text>
     </node>
 
     <node idx ="39">
-      <text>When the guage is filled up completely, a Qliphoth Meltdown will occur in the facility. The number next to the guage shows how many containment units will be affected. The affected units themselves will have a Meltdown Alert displayed around them.</text>
+      <text>When the gauge is filled up completely, a Qliphoth Meltdown will occur. The number next to the guage shows how many containment units will be affected. Affected containment units will show a Meltdown Alert just above.</text>
     </node>
 
     <node idx ="40">
-      <text>When the Qliphoth Meltdown happens, the containment unit has beside the alert indication a timer displayed with a bar on top of it. Normally this would slowly drop, but when the abnormality inside the containment unit is being worked on at that time, the meltdown timer is put on hold till after it is finished.</text>
+      <text>When a Qliphoth Meltdown happens, the containment unit displays a timer bar next to the alert. Normally this slowly drops, but the timer is paused when an employee works on an abnormality when the Meltdown starts, and does not count down until work is finished.</text>
     </node>
 
     <node idx ="41">
-      <text>The meltdown can be taken care of by performing work with the abnormality of the affected containment unit. If the meltdown is not dismissed within the time limit, energy will be lost and the Qliphoth Counter of the unit will drop to 0, so please try to prevent that. You can see more detailed information about this in the manual at the &lt;Repeated Work Penalty&gt; article.</text>
+      <text>The meltdown can be prevented by working with the abnormalities in affected containment units. If a meltdown isn't prevented in time, you will lose energy and affected abnormalities' Qliphoth Counters will drop to 0, so please try to prevent that. You can see more detailed information about Qliphoth Meltdowns in the manual's &lt;Repeated Work Penalty&gt; article.</text>
     </node>
 
     <node idx ="42">
-      <text>Whenever a Qliphoth meltdown occurs in the facility, the Meltdown Level increases. The higher the meltdown level is, the more containment units that will be affected by the Qliphoth Meltdown. There is also a chance of Ordeals appearing instead of a meltdown happening. If you wish to know what Ordeals are, please consult the manual and look at the relevant article.</text>
+      <text>Whenever a Qliphoth Meltdown occurs, the Meltdown Level increases. The higher the Meltdown Level, the more containment units that will be affected by the Qliphoth Meltdown. There is also a chance of an Ordeal appearing instead of a meltdown happening. To learn more about Ordeals, please consult the manual's &lt;Ordeal&gt; article.</text>
     </node>
 
     <node idx ="43">
-      <text>I think I told you almost everything about managing abnormalities. If you wish to read more about it, please look it up in the manual. You can consult it at any time during management by pressing F1. Now finish the management of this day by pressing the Complete button at the top.</text>
+      <text>I think I've told you almost everything about managing abnormalities. If you wish to read more about it, please look it up in the manual. You can consult it at any time during management by pressing F1. Now finish this management day by pressing the Complete button at the top.</text>
     </node>
 
     <node idx ="44">
-      <text>After finishing management of the day, the employees who performed work will have their state values increased according to the types of work they performed. After a state value passes a certain point, it's level will increase. The level of the employee can also increase after having enough total value points. The employees that achieved this are considered promoted and shown in the list below.</text>
+      <text>After finishing each management day, employees who performed work will have their stats increase according to the types of work they performed. After a stat passes a certain point, its level will increase. Employee level can also increase after enough stat increases. Employees who level up are considered promoted and are shown in the list below.</text>
     </node>
 
     <node idx ="45">
-      <text>You will also receive LOB as a reward for your work according to your management rank. You can increase your management rank by letting more employees survive the day. The higher your management rank, the more LOB you receive. If however there is an abnormality on the loose when you finish the management of the day, you will lose some of the LOB you were about to earn.</text>
+      <text>You will also be rewarded with LOB for your work according to your management rank. The more employees that survive the day, the higher your management rank. The higher your management rank, the more LOB you receive. If an abnormality is loose when you finish the day, however, you will lose some LOB you would otherwise earn.</text>
     </node>
 
     <node idx ="46">
-      <text>You can see which missions you succesfully managed to complete on this day in the list here. When you succesfully complete a mission, you can conduct research at the start of the next day.</text>
+      <text>You can see missions you succesfully completed today in the list here. When you succesfully complete a mission, you can conduct research at the start of the next day. Note that progress does not carry over from day to day: missions must be completed in one day or they will restart the next day.</text>
     </node>
 
     <node idx ="47">
-      <text>After finishing management, you can choose to go to the next day or retry this day. Dead employees and destroyed E.G.O Equipment are recovered when you choose retry, but you will lose observations, PE-Boxes, extracted E.G.O Equipment and the promotions employees received for their work on this day.</text>
+      <text>After finishing the management day, you can choose to proceed to the next day or retry this day. Dead employees and destroyed E.G.O Equipment are recovered when you retry, but you will lose observations, PE-Boxes, newly extracted E.G.O Equipment and any promotions employees received for their work on this day.</text>
     </node>
 
     <node idx ="48">
-      <text>Now please press Skip to Next Day. I will tell you about deployment next.</text>
+      <text>Now please click Skip to Next Day. I will tell you about deployment next.</text>
     </node>
 
     <node idx ="49">

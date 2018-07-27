@@ -17,5 +17,8 @@ NOTE: If something is missing from this list, _assume it is to stay as-is_ for n
 * Classification levels: Zayin/Teth/He/Waw/Aleph
 * Facility levels: Briah, etc.
 * Various in-setting proper nouns. Recognized (example) list below:
-    * "Sephirah", Manager (would Administrator work better?), Sephirah names, etc.
+    * "Sephirah", Manager (would Administrator work better?), Sephirah names, "Abnormality", etc.
+* Various UI and gameplay terms. Recognized (example) list below:
+    * Tutorial_en, Step Index 1, Node 33: "Abnormality Story".
+    * Tutorial_en, Step Index 1, Node 45: "LOB" as a resource.
 * ...
